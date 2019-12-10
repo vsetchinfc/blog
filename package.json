@@ -1,5 +1,6 @@
 {
   "name": "VSBlog",
+  "base": "/blog/",
   "version": "0.0.1",
   "description": "Vlad Setchin personal site and blog",
   "main": "index.js",

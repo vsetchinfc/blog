@@ -2,7 +2,7 @@ module.exports = {
   // Title of your website
   title: 'Vlad Setchin Blog',
 
-  base: "blog",
+  base: "/blog/",
 
   // Description of your website
   description: 'Vlad Setchin personal site and blog',
