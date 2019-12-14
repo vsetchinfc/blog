@@ -1,7 +1,7 @@
 module.exports = {
     title: "Vladislav Setchin",
     description: "Vladislav Setchin personal site and blog",
-    theme: "@vuepress/theme-blog",
+    //theme: "@vuepress/theme-blog",
     dest: "docs",
     //base: "/blog/",
     markdown: {
@@ -11,7 +11,7 @@ module.exports = {
         nav: [
           { text: "Home",  link: "/" },
           { text: "Blog", link: "/articles/" },
-          { text: "Projects", link: "/projects/" },
+          //{ text: "Projects", link: "/projects/" },
           { text: "About", link: "/about/" }
         ],
         footer: {
