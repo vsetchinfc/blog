@@ -1,9 +1,9 @@
 module.exports = {
     title: "Vladislav Setchin",
     description: "Vladislav Setchin personal site and blog",
-    //theme: "@vuepress/theme-blog",
+    theme: "@vuepress/theme-blog",
     dest: "docs",
-    //base: "/blog/",
+    base: "/blog/",
     markdown: {
         lineNumbers: true
     },
