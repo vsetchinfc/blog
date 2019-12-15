@@ -3,16 +3,16 @@ module.exports = {
     description: "Vladislav Setchin personal site and blog",
     theme: "@vuepress/theme-blog",
     dest: "docs",
-    base: "/blog/",
+    //base: "/blog/",
     markdown: {
         lineNumbers: true
     },
     themeConfig: {
         nav: [
-          { text: "Home",  link: "/" },
-          { text: "Blog", link: "/articles/" },
+          { text: "Home",  link: "/", exact: true },
+          { text: "Blog", link: "/posts/", exact: true },
           //{ text: "Projects", link: "/projects/" },
-          { text: "About", link: "/about/" }
+          { text: "About", link: "/about/", exact: true }
         ],
         footer: {
             contact: [
