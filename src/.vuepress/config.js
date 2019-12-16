@@ -34,15 +34,15 @@ module.exports = {
     }
   },
   plugins: [
-    '@vuepress/blog',
-    {
-      directories: [
-        {
-          id: 'post',
-          dirname: '_posts',
-          path: '/'
-        }
-      ]
-    }
+    [ '@vuepress/blog', {
+        directories: [ {
+            id: 'post',
+            dirname: '_posts',
+            path: '/'
+        }]
+    }],
+    [ 'social-share', {
+      networks: ['twitter', 'facebook', 'reddit', 'telegram'] 
+    }]
   ]
 }
