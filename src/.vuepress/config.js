@@ -1,6 +1,6 @@
 module.exports = {
-  title: "Vladislav Setchin",
-  description: "Vladislav Setchin personal site and blog",
+  title: "Vlad Setchin",
+  description: "Vlad Setchin personal site and blog",
   theme: "@vuepress/theme-blog",
   dest: "docs",
   base: "/blog/",
@@ -27,7 +27,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: `Content Copyright © 2018-${new Date().getFullYear()} Vladislav Setchin.`,
+          text: `Content Copyright © 2018-${new Date().getFullYear()} Vlad Setchin.`,
           link: ""
         }
       ]

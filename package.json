@@ -1,10 +1,10 @@
 {
     "name": "vsblog",
     "version": "1.0.0",
-    "description": "Vladislav Setchin personal site and blog",
+    "description": "Vlad Setchin personal site and blog",
     "main": "index.js",
     "author": {
-        "name": "Vladislav Setchin",
+        "name": "Vlad Setchin",
         "email": "vlad.setchin@gmail.com"
     },
     "repository": {
