@@ -43,6 +43,9 @@ module.exports = {
     }],
     [ 'social-share', {
       networks: ['twitter', 'facebook', 'reddit', 'telegram'] 
+    }],
+    [ '@vuepress/google-analytics', {
+        'ga': '' // UA-00000000-0
     }]
   ]
 }
