@@ -3,7 +3,6 @@ module.exports = {
   description: "Vlad Setchin personal site and blog",
   theme: "@vuepress/theme-blog",
   dest: "docs",
-  base: "/blog/",
   markdown: {
       lineNumbers: true
   },
