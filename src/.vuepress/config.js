@@ -44,10 +44,10 @@ module.exports = {
       networks: ['twitter', 'facebook', 'reddit', 'telegram'] 
     }],
     [ '@vuepress/google-analytics', {
-        'ga': '' // UA-00000000-0
+        'ga': 'UA-154920711-1' // UA-00000000-0
     }],
     [ 'vuepress-plugin-google-adsense', {
-        'google_ad_client': '', // ca-pub-0000000000000000
+        'google_ad_client': 'ca-pub-4860584003271351', // ca-pub-0000000000000000
         'enable_page_level_ads': true
     }]
   ]
