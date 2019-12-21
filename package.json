@@ -23,6 +23,7 @@
         "@vuepress/theme-blog": "^1.3.3",
         "http-server": "^0.12.0",
         "vuepress": "^1.2.0",
+        "vuepress-plugin-google-adsense": "^0.0.4",
         "vuepress-plugin-social-share": "^0.1.1"
     }
 }
