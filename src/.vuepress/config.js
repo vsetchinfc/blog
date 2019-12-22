@@ -38,7 +38,22 @@ module.exports = {
             id: 'post',
             dirname: '_posts',
             path: '/'
-        }]
+        }],
+        frontmatters: [
+          {
+            // Unique ID of current classification
+            id: 'tag',
+            // Decide that the frontmatter keys will be grouped under this classification
+            keys: ['tag'],
+            // Path of the `entry page` (or `list page`)
+            path: '/tag/',
+            // Layout of the `entry page`
+            layout: 'Tag',
+          },
+        ],
+        sitemap: {
+          hostname: 'https://vladsetchin.me'
+        },
     }],
     [ 'social-share', {
       networks: ['twitter', 'facebook', 'reddit', 'telegram'] 

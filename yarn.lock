@@ -7487,7 +7487,7 @@ vuepress-plugin-google-adsense@^0.0.4:
   resolved "https://registry.yarnpkg.com/vuepress-plugin-google-adsense/-/vuepress-plugin-google-adsense-0.0.4.tgz#cf75e3b556c9b8e80811748947b585d0396fc115"
   integrity sha512-BvnsTtcDHNZNAejE+oqjqybF39eKiYbt7eIo3YGsPfniwnwkP3fYQeMbES2dgWDXtgf8psuyBuyhEmKAFt4pCQ==
 
-vuepress-plugin-sitemap@^2.3.0:
+vuepress-plugin-sitemap@^2.3.0, vuepress-plugin-sitemap@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/vuepress-plugin-sitemap/-/vuepress-plugin-sitemap-2.3.1.tgz#51298aca77a5de96396fdbd1103e1637dd61ae6a"
   integrity sha512-n+8lbukhrKrsI9H/EX0EBgkE1pn85LAQFvQ5dIvrZP4Kz6JxPOPPNTQmZMhahQV1tXbLZQCEN7A1WZH4x+arJQ==
