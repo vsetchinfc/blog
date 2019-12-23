@@ -19,7 +19,7 @@ Advantages of having your posts under version control is that you get a change h
 
 ## 2. Statically generated pages.
 
-One of main advantages of having static pages is better SEO (Search Engine Optimisation). ....the other....
+One of main advantages of having static pages is better SEO (Search Engine Optimisation), faster speed, when there is no server-side processing pages rendered much faster.
 
 ## 3. Separation between development and production.
 
@@ -32,6 +32,16 @@ If I choose to use custom domain like ***vladsetchin.me*** than one repository w
 
 ## 4. Flexibility of what and where you put on your site.
 
-With blogger I always had a struggle to make things to look and position them a way I wanted. Of course, you may argue, I could go down the path of creating my own theme template for blogger. Setting up a new site...
+With blogger I always had a struggle to make things to look and position them a way I wanted. Of course, you may argue, I could go down the path of creating my own theme template for blogger. I decided to review static site generators similar to Jekyll and came accross vuepress. I am using vue js for my projects and invest time to learn vuepress look more beneficial to me than going with any other platform.
 
 ## 5. Vuepress. Why vuepress?
+
+
+
+## 6. Site requirements
+
+To start with vuepress using project bolerplate or handcraft the project starter by hand is very easy. I will not go in details in this post and thinking to make it as seperared publication. in the over hand, there are plenty resources that already cover the basic. I decided to use vuepress blog theme and vuepress blog extension as a base for my blog site. Below is a list of requirements the site should implement:
+
+
+
+
