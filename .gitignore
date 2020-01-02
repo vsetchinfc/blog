@@ -11,3 +11,5 @@ config.local.js
 basement_dist
 .directory
 yarn-error.log
+package-lock.json
+yarn.lock
