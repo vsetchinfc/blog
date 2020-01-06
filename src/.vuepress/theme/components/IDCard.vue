@@ -94,7 +94,7 @@ export default {
 
   .info-card-img {
     transition: all 0.4s ease;
-    width 200px;
+    width: 200px;
   }
 
   .info-card-header {

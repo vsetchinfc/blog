@@ -1,5 +1,7 @@
 <template>
-    
+    <div>Hello!</div>
+
+    <IDCard />
 </template>
 
 <script>
