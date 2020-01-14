@@ -7,6 +7,8 @@ module.exports = {
       lineNumbers: true
   },
   themeConfig: {
+    fullName: "Vlad Setchin",
+    personalPhoto: "/images/vlad_profile2.jpg",
     nav: [
       { text: "Home",  link: "/", exact: true },
       { text: "Blog", link: "/posts/", exact: true },
@@ -21,7 +23,7 @@ module.exports = {
         },
         {
         type: "twitter",
-        link: "https://https://twitter.com/vladsetchin",
+        link: "https://twitter.com/vladsetchin",
         }
       ],
       copyright: [
