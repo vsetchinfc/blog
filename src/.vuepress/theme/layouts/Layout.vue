@@ -1,24 +1,16 @@
 <template>
-    <div>
-        <Head />
-        Hello!
-
-        <IDCard />
-    </div>
+  <div>
+    <Head />
+    <div>Hello!</div>
+    <IDCard />
+    <Footer />
+  </div>
 </template>
 
 <script>
-import IDCard from "@theme/components/IDCard.vue"
-import Head from "@theme/components/Head.vue"
-
 export default {
-    components: {
-        IDCard,
-        Head
-    }
-}
+  components: {}
+};
 </script>
 
-<style lang="stylus" scoped>
-
-</style>
+<style lang="stylus" scoped></style>
