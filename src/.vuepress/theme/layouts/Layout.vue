@@ -1,9 +1,18 @@
 <template>
   <div>
-    <Head />
-    <div>Hello!</div>
-    <IDCard />
-    <Footer />
+    <header>
+      <Head />
+    </header>
+    <div class="content-column">
+      <div>Hello!</div>
+    </div>
+    <div class="right-column">
+      <RightSidebar />
+    </div>
+
+    <footer>
+      <Footer />
+    </footer>
   </div>
 </template>
 
@@ -13,4 +22,20 @@ export default {
 };
 </script>
 
-<style lang="stylus" scoped></style>
+<style lang="stylus" scoped>
+.content-column {
+  float: left;
+  width: 75%;
+}
+
+.right-column {
+  float: left;
+  width: 25%;
+}
+
+footer {
+  position:absolute; 
+  bottom:0; 
+  width:100%;
+}
+</style>
