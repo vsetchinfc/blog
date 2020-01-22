@@ -18,12 +18,16 @@ module.exports = {
     footer: {
       contact: [
         {
-        type: "github",
-        link: "https://github.com/vuejs/vuepress",
+          type: "github",
+          link: "https://github.com/vuejs/vuepress",
         },
         {
-        type: "twitter",
-        link: "https://twitter.com/vladsetchin",
+          type: "twitter",
+          link: "https://twitter.com/vladsetchin",
+        },
+        {
+          type: "linkedin",
+          link: "https://www.linkedin.com/in/vladsetchin"
         }
       ],
       copyright: [

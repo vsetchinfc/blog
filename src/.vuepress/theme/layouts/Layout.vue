@@ -36,6 +36,14 @@ export default {
 footer {
   position:absolute; 
   bottom:0; 
-  width:100%;
+  width: 99.6%;
+}
+
+@media (max-width: $MQMobile) {
+  footer {
+    position:absolute; 
+    bottom:0; 
+    width: 98.4%;
+  }
 }
 </style>
