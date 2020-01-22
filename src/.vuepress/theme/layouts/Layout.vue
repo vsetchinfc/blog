@@ -1,18 +1,17 @@
 <template>
   <div>
-    <header>
-      <Head />
-    </header>
-    <div class="content-column">
-      <div>Hello!</div>
-    </div>
-    <div class="right-column">
-      <RightSidebar />
-    </div>
+    <Head />
+    
+    <content>
+      <div class="content-column">
+        <div>Hello!</div>
+      </div>
+      <div class="right-column">
+        <RightSidebar />
+      </div>
+    </content>
 
-    <footer>
-      <Footer />
-    </footer>
+    <Footer />
   </div>
 </template>
 
@@ -31,19 +30,5 @@ export default {
 .right-column {
   float: left;
   width: 25%;
-}
-
-footer {
-  position:absolute; 
-  bottom:0; 
-  width: 99.6%;
-}
-
-@media (max-width: $MQMobile) {
-  footer {
-    position:absolute; 
-    bottom:0; 
-    width: 98.4%;
-  }
 }
 </style>

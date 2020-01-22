@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Vlad Setchin",
+  title: "VLADSETCHIN.ME",
   description: "Vlad Setchin personal site and blog",
   theme: "@vuepress/theme-blog",
   dest: "docs",
@@ -70,6 +70,9 @@ module.exports = {
     [ 'vuepress-plugin-google-adsense', {
         'google_ad_client': 'ca-pub-4860584003271351', // ca-pub-0000000000000000
         'enable_page_level_ads': true
+    }],
+    ['@vuepress/search', {
+      searchMaxSuggestions: 10
     }]
   ]
 }

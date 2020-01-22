@@ -167,6 +167,12 @@ ol, ul {
   }
 }
 
+footer {
+  position:absolute; 
+  bottom:0; 
+  width: 99.6%;
+}
+
 @media (max-width: $MQMobile) {
   .footer {
     height: 100px;
@@ -176,6 +182,12 @@ ol, ul {
       align-items: center;
       justify-content: center;
     }
+  }
+
+  footer {
+    position:absolute; 
+    bottom:0; 
+    width: 100%;
   }
 }
 </style>
