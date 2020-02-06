@@ -1,17 +1,22 @@
 <template>
-  <header id="header">
-    <div class="header-wrapper">
-      <div class="title">
-        <a href="/" class="home-link">{{ $site.title }}</a>
+  <section id="header-wrapper">
+    <header id="header">
+      <div class="top-header-wrapper">
+        <div class="title">
+          <a href="/" class="home-link">{{ $site.title }}</a>
+        </div>
+        <div class="header-right-wrap">
+          Search: <SearchBox />
+        </div>
       </div>
-      <div class="header-right-wrap">
-        Search:
-        <SearchBox />
+      <div class="middle-header-wrapper">
+        Middle Section
       </div>
-    </div>
-    <div class="header-wrapper">Middle Section</div>
-    <div class="header-wrapper">Nav Bar</div>
-  </header>
+      <div class="nav-bar-wrapper">
+        Nav Bar
+      </div>    
+    </header>
+  </section>
 </template>
 
 <script>
@@ -32,15 +37,20 @@ export default {
   width: 100vw;
   box-sizing: border-box;
   background: darken(#355c7d, 10%);
-  padding: 15px 20px;
   margin: 0 auto;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.02), 0 6px 6px rgba(0, 0, 0, 0.03);
   transition: all 1s cubic-bezier(0.25, 0.8, 0.25, 1);
-  height: 250px;
+  height: 200px;
+}
 
-  &:hover {
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.04), 0 6px 6px rgba(0, 0, 0, 0.08);
-  }
+ol, ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+&:hover {
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.04), 0 6px 6px rgba(0, 0, 0, 0.08);
 }
 
 ol, ul {
@@ -66,28 +76,21 @@ ol, ul {
 }
 
 // border-bottom 5px solid lighten(#3eaf7c, 50%)
-.header-wrapper {
+.top-header-wrapper {
   display: flex;
   line-height: 50px;
-  height: 100%;
-  position: relative;
-}
+  height: 20%;
+  margin-bottom: 10px;
 
-.header-right-wrap {
-  flex: 1;
-  display: flex;
-  color: #ffffff;
-  justify-content: flex-end;
-}
-
-.nav {
-  flex: 0 0 auto;
-  display: flex;
-  margin: 0;
-  align-items: center;
-
-  .nav-item {
-    margin-left: 20px;
+  .title {
+    /* flex 0 0 200px */
+    color: #FFFFFF;
+    font-size: 22px;
+    padding-left: 10px;
+    margin: 0;
+    letter-spacing: 2px;
+    display: block;
+    text-transform: uppercase;
 
     a {
       font-size: 18px;
@@ -139,6 +142,15 @@ ol, ul {
       }
     }
   }
+}
+
+.middle-header-wrapper {
+  height: 60%;
+  background: lighten(#355c7d, 10%)
+}
+
+.nav-bar-wrapper {
+  height: 20%;
 }
 
 @media (max-width: $MQMobile) {
