@@ -5,7 +5,7 @@
         <div class="title">
           <a href="/" class="home-link">{{ $site.title }}</a>
         </div>
-        <div class="header-right-wrap">
+        <div class="header-search-box">
           Search: <SearchBox />
         </div>
       </div>
@@ -53,20 +53,14 @@ ol, ul {
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.04), 0 6px 6px rgba(0, 0, 0, 0.08);
 }
 
-ol, ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
 .title {
-  /* flex 0 0 200px */
   color: #FFFFFF;
   font-size: 22px;
   margin: 0;
   letter-spacing: 2px;
   display: block;
   text-transform: uppercase;
+  width: 50%;
 
   a {
     color: #FFFFFF;
@@ -81,10 +75,10 @@ ol, ul {
   line-height: 50px;
   height: 20%;
   margin-bottom: 10px;
+  width: 100%;
 
   .title {
-    /* flex 0 0 200px */
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 22px;
     padding-left: 10px;
     margin: 0;
@@ -94,7 +88,6 @@ ol, ul {
 
     a {
       font-size: 18px;
-      color: lighten($accentColor, 40%);
       text-decoration: none;
       transition: color 0.3s;
 
@@ -107,41 +100,48 @@ ol, ul {
       }
     }
   }
-}
 
-.search-box {
-  margin-left: 20px;
+  .search-box {
+    margin-left: 20px;
 
-  input {
-    min-width: 100px;
-    border-radius: 20px;
-    transition: all 0.5s;
-    color: $accentColor;
+    input {
+      min-width: 100px;
+      border-radius: 20px;
+      transition: all 0.5s;
+      color: $accentColor;
 
-    &:hover {
-      border: 1px solid $accentColor;
-      box-shadow: 0 0 5px $accentColor;
+      &:hover {
+        border: 1px solid $accentColor;
+        box-shadow: 0 0 5px $accentColor;
+      }
     }
-  }
 
-  .suggestions {
-    top: 40px;
-    right: 0;
-    font-size: 0.9em;
-    opacity: 0.9;
-    border: none;
-    box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+    .suggestions {
+      top: 40px;
+      right: 0;
+      font-size: 0.9em;
+      opacity: 0.9;
+      border: none;
+      box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
 
-    a {
-      color: #555;
-      font-weight: 400;
-      text-decoration: none;
+      a {
+        color: #555;
+        font-weight: 400;
+        text-decoration: none;
 
-      &.focused {
-        color: $accentColor;
+        &.focused {
+          color: $accentColor;
+        }
       }
     }
   }
+} 
+
+.header-search-box {
+  color: #ffffff;
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
 }
 
 .middle-header-wrapper {
@@ -161,7 +161,7 @@ ol, ul {
   .header-wrapper {
     flex-direction: column;
 
-    .header-right-wrap {
+    .header-search-box {
       display: none;
     }
   }
