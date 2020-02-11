@@ -115,7 +115,7 @@ ol, ul {
 
         a {
           font-size: 12px;
-          color: rgba(255, 255, 255, 0.45);
+          color: #ffffff;
           text-decoration: none;
           transition: color 0.3s;
 
@@ -154,7 +154,8 @@ ol, ul {
 
         a {
           font-size: 12px;
-          color: rgba(255, 255, 255, 0.6);
+          font-weight: bold; 
+          color: #ffffff;
           text-decoration: none;
           transition: color 0.3s;
 

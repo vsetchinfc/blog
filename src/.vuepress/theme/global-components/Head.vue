@@ -10,10 +10,14 @@
         </div>
       </div>
       <div class="middle-header-wrapper">
-        Middle Section
+
       </div>
       <div class="nav-bar-wrapper">
-        Nav Bar
+        <ul class="nav" v-if="$themeConfig.nav">
+            <li class="nav-item" v-for="item in $themeConfig.nav">
+              <a :href="item.link">{{ item.text }}</a>
+            </li>
+          </ul>
       </div>    
     </header>
   </section>
@@ -40,13 +44,7 @@ export default {
   margin: 0 auto;
   box-shadow: 0 5px 20px rgba(0, 0, 0, 0.02), 0 6px 6px rgba(0, 0, 0, 0.03);
   transition: all 1s cubic-bezier(0.25, 0.8, 0.25, 1);
-  height: 200px;
-}
-
-ol, ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+  height: 300px;
 }
 
 &:hover {
@@ -56,6 +54,7 @@ ol, ul {
 .title {
   color: #FFFFFF;
   font-size: 22px;
+  font-weight: bold;
   margin: 0;
   letter-spacing: 2px;
   display: block;
@@ -74,14 +73,14 @@ ol, ul {
   display: flex;
   line-height: 50px;
   height: 20%;
-  margin-bottom: 10px;
   width: 100%;
 
   .title {
     color: #ffffff;
     font-size: 22px;
     padding-left: 10px;
-    margin: 0;
+    margin-top: 5px;
+    margin-left: 5px;
     letter-spacing: 2px;
     display: block;
     text-transform: uppercase;
@@ -140,17 +139,50 @@ ol, ul {
 .header-search-box {
   color: #ffffff;
   display: flex;
+  font-size: 18px;
+  font-weight: bold;
   justify-content: flex-end;
   width: 50%;
+  margin-top: 5px;
 }
 
 .middle-header-wrapper {
   height: 60%;
-  background: lighten(#355c7d, 10%)
+  background: lighten(#355c7d, 10%);
 }
 
 .nav-bar-wrapper {
   height: 20%;
+  display: flex;
+
+  .nav {
+      flex: 0 0 auto;
+      display: flex;
+      margin: 0;
+      align-items: center;
+      list-style: none;
+      padding-left: 5px;
+
+      .nav-item {
+        margin-left: 20px;
+
+        a {
+          font-size: 18px;
+          font-weight: bold;
+          color: #ffffff;
+          text-decoration: none;
+          transition: color 0.3s;
+
+          &:hover {
+            color: lighten($accentColor, 80%);
+          }
+
+          &.nav-link.router-link-exact-active.router-link-active {
+            color: lighten($accentColor, 80%);
+          }
+        }
+      }
+    }
 }
 
 @media (max-width: $MQMobile) {
