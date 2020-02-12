@@ -11,9 +11,9 @@ module.exports = {
     personalPhoto: "/images/vlad_profile2.jpg",
     nav: [
       { text: "Home",  link: "/", exact: true },
-      { text: "Blog", link: "/posts/", exact: true },
+      { text: "Blog", link: "/blog", exact: true },
       //{ text: "Projects", link: "/projects/" },
-      { text: "About", link: "/about/", exact: true }
+      { text: "About", link: "/about", exact: true }
     ],
     footer: {
       contact: [
@@ -43,18 +43,22 @@ module.exports = {
         directories: [ {
             id: 'post',
             dirname: '_posts',
-            path: '/'
+            path: '/blog'
         }],
         frontmatters: [
           {
             // Unique ID of current classification
             id: 'tag',
             // Decide that the frontmatter keys will be grouped under this classification
-            keys: ['tag'],
+            keys: ['tag', 'tags'],
             // Path of the `entry page` (or `list page`)
             path: '/tag/',
+            frontmatter: { title: "Tag" },
             // Layout of the `entry page`
             layout: 'Tag',
+            pagination: {
+              lengthPerPage: 5
+            }
           },
         ],
         sitemap: {
