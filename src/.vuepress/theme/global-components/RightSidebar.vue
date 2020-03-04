@@ -1,7 +1,7 @@
 <template>
-    <div class="sidebar">
+    <aside>
         <IDCard />
-    </div>
+    </aside>
 </template>
 
 <script>
@@ -9,7 +9,7 @@ export default {};
 </script>
 
 <style>
-.sidebar {
-    float: right;
+aside {
+    grid-area: aside;
 }
 </style>

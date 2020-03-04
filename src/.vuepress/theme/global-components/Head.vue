@@ -1,26 +1,24 @@
 <template>
-  <section id="header-wrapper">
-    <header id="header">
-      <div class="top-header-wrapper">
-        <div class="title">
-          <a href="/" class="home-link">{{ $site.title }}</a>
-        </div>
-        <div class="header-search-box">
-          Search: <SearchBox />
-        </div>
+  <header id="header">
+    <div class="top-header-wrapper">
+      <div class="title">
+        <a href="/" class="home-link">{{ $site.title }}</a>
       </div>
-      <div class="middle-header-wrapper">
+      <div class="header-search-box">
+        Search: <SearchBox />
+      </div>
+    </div>
+    <div class="middle-header-wrapper">
 
-      </div>
-      <div class="nav-bar-wrapper">
-        <ul class="nav" v-if="$themeConfig.nav">
-            <li class="nav-item" v-for="item in $themeConfig.nav">
-              <a :href="item.link">{{ item.text }}</a>
-            </li>
-          </ul>
-      </div>    
-    </header>
-  </section>
+    </div>
+    <div class="nav-bar-wrapper">
+      <ul class="nav" v-if="$themeConfig.nav">
+          <li class="nav-item" v-for="item in $themeConfig.nav">
+            <a :href="item.link">{{ item.text }}</a>
+          </li>
+        </ul>
+    </div>    
+  </header>
 </template>
 
 <script>
@@ -31,8 +29,12 @@ export default {
 };
 </script>
 
-<style lang="stylus">
-@import '~@app/style/config';
+<style>
+header {
+  grid-area: header;
+  background: rgba( 32, 97,150,1);
+}
+/* @import '~@app/style/config';
 
 #header {
   z-index: 20;
@@ -197,5 +199,5 @@ export default {
       display: none;
     }
   }
-}
+} */
 </style>

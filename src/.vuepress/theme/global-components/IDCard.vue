@@ -1,18 +1,16 @@
 <template>
-  <div>
-    <div class="card">
-      <img :src="$themeConfig.personalPhoto" :alt="$themeConfig.fullName">
-      <h4>{{ $themeConfig.fullName }}</h4>
-      <small>Software Engineer</small>
-      <ul class="contact" v-if="contact">
-        <li class="contact-item" v-for="item in contact">
-          <a :href="item.link">
-            <component :is="item.iconComponent"></component>
-            {{ item.text }}
-          </a>
-        </li>
-      </ul>
-    </div>
+  <div class="card">
+    <img :src="$themeConfig.personalPhoto" :alt="$themeConfig.fullName">
+    <h4>{{ $themeConfig.fullName }}</h4>
+    <small>Software Engineer</small>
+    <ul class="contact" v-if="contact">
+      <li class="contact-item" v-for="item in contact">
+        <a :href="item.link">
+          <component :is="item.iconComponent"></component>
+          {{ item.text }}
+        </a>
+      </li>
+    </ul>
   </div>
 </template>
 
@@ -85,11 +83,11 @@ export default {
 	background-color: #fff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
 	border-radius: 3px;
-	padding: 30px;
+	padding: 20px;
 	margin: 10px;
 	text-align: center;
 	width: 150px;
-	max-width: 100%;
+	
 }
 
 .card img {
