@@ -90,10 +90,6 @@ export default {
 footer {
   grid-area: footer;
   display: flex;
-  /* background: rgba( 89,146,194,1);
-  background: rgba(128,177,218,1);
-  background: rgba(178,211,239,1);
-  background: rgba( 58,117,167,1); */
   background: rgba( 32, 97,150,1);
   padding: 15px 32px;
   box-sizing: border-box;
@@ -128,35 +124,12 @@ a {
 }
 
 а:hover {
-  color: rgba(255, 255, 255, 0.9);
+  color: grey;
 }
 
 .footer-right-wrap {
   flex: 1;
   display: flex-end;
-  align-items: center;
-  justify-content: center;
-
-  /* @media (min-width: $MQNarrow) {
-    justify-content: flex-end;
-  } */
-
-  
-
-    
-
-      /* a {
-        font-size: 12px;
-        font-weight: bold; 
-        color: #ffffff;
-        text-decoration: none;
-        transition: color 0.3s;
-
-        &:hover {
-          color: rgba(255, 255, 255, 0.9);
-        }
-      } */
-    
   
 }
 
@@ -169,86 +142,15 @@ a {
   flex: 0 0 auto;
   padding: 0 10px;
   position: relative;
-  line-height: 12px;
-  border-right: 1px solid rgba(255, 255, 255, 0.6);  
+  line-height: 16px;
+  border-right: 1px solid rgba(255, 255, 255, 0.6);
 }
 
-/* &:last-child {
-    border-right: none;
-  } */
-
-/*.footer {
-  height: 60px;
-  box-sizing: border-box;
-  background-color: darken(#355c7d, 10%);
-  color: #fff;
-  display: flex;
-  padding: 15px 32px;
-
-  
-
-  .footer-right-wrap {
-    flex: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    @media (min-width: $MQNarrow) {
-      justify-content: flex-end;
-    }
-
-    .copyright {
-      display: flex;
-      justify-content: flex-end;
-
-      .copyright-item {
-        flex: 0 0 auto;
-        padding: 0 10px;
-        position: relative;
-        line-height: 12px;
-        border-right: 1px solid rgba(255, 255, 255, 0.6);
-
-        &:last-child {
-          border-right: none;
-        }
-
-        a {
-          font-size: 12px;
-          font-weight: bold; 
-          color: #ffffff;
-          text-decoration: none;
-          transition: color 0.3s;
-
-          &:hover {
-            color: rgba(255, 255, 255, 0.9);
-          }
-        }
-      }
-    }
-  }
+.copyright-item a {
+  font-size: 16px;
 }
 
-footer {
-  position:absolute; 
-  bottom:0; 
-  width: 99.6%;
+.copyright-item:last-child {
+  border-right: none;
 }
-
-@media (max-width: $MQMobile) {
-  .footer {
-    height: 100px;
-    flex-direction: column;
-
-    .footer-left-wrap {
-      align-items: center;
-      justify-content: center;
-    }
-  }
-
-  footer {
-    position:absolute; 
-    bottom:0; 
-    width: 100%;
-  }
-} */
 </style>

@@ -1,6 +1,6 @@
 module.exports = {
   title: "VLADSETCHIN.ME",
-  description: "Vlad Setchin personal site and blog",
+  description: "Vlad Setchin personal site and blog | VLADSETCHIN.ME",
   theme: "@vuepress/theme-blog",
   dest: "docs",
   markdown: {
@@ -19,7 +19,7 @@ module.exports = {
       contact: [
         {
           type: "github",
-          link: "https://github.com/vuejs/vuepress",
+          link: "https://github.com/vsetchinfc",
         },
         {
           type: "twitter",

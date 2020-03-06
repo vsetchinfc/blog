@@ -1,5 +1,5 @@
 <template>
-  <header id="header">
+  <header>
     <div class="top-header-wrapper">
       <div class="title">
         <a href="/" class="home-link">{{ $site.title }}</a>
@@ -34,6 +34,68 @@ header {
   grid-area: header;
   background: rgba( 32, 97,150,1);
 }
+
+.top-header-wrapper {
+  display: flex;
+  line-height: 50px;
+  height: 20%;
+  width: 100%;
+}
+
+.title {
+  color: #ffffff;
+  font-size: 22px;
+  padding-left: 10px;
+  margin: 0;
+  letter-spacing: 2px;
+  display: block;
+  text-transform: uppercase;
+  font-weight: bold;
+  width: 50%;
+  /* a {
+    font-size: 18px;
+    text-decoration: none;
+    transition: color 0.3s;
+
+    &:hover {
+      color: lighten($accentColor, 80%);
+    }
+
+    &.nav-link.router-link-exact-active.router-link-active {
+      color: lighten($accentColor, 80%);
+    }
+  } */
+}
+
+.title a {
+  color: #FFFFFF;
+  font-weight: bold;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.middle-header-wrapper {
+  height: 60%;
+  background: rgba(178,211,239,1);
+  /* background: rgba( 89,146,194,1);
+  background: rgba(128,177,218,1);
+  background: rgba( 58,117,167,1); */
+}
+
+.header-search-box {
+  color: #ffffff;
+  display: flex;
+  font-size: 18px;
+  font-weight: bold;
+  justify-content: flex-end;
+  width: 50%;
+  margin-top: 5px;
+}
+
+input {
+  margin-left: 10px;
+}
+
 /* @import '~@app/style/config';
 
 #header {
@@ -56,12 +118,12 @@ header {
 .title {
   color: #FFFFFF;
   font-size: 22px;
-  font-weight: bold;
+  
   margin: 0;
   letter-spacing: 2px;
   display: block;
   text-transform: uppercase;
-  width: 50%;
+  
 
   a {
     color: #FFFFFF;
@@ -71,36 +133,6 @@ header {
 }
 
 // border-bottom 5px solid lighten(#3eaf7c, 50%)
-.top-header-wrapper {
-  display: flex;
-  line-height: 50px;
-  height: 20%;
-  width: 100%;
-
-  .title {
-    color: #ffffff;
-    font-size: 22px;
-    padding-left: 10px;
-    margin-top: 5px;
-    margin-left: 5px;
-    letter-spacing: 2px;
-    display: block;
-    text-transform: uppercase;
-
-    a {
-      font-size: 18px;
-      text-decoration: none;
-      transition: color 0.3s;
-
-      &:hover {
-        color: lighten($accentColor, 80%);
-      }
-
-      &.nav-link.router-link-exact-active.router-link-active {
-        color: lighten($accentColor, 80%);
-      }
-    }
-  }
 
   .search-box {
     margin-left: 20px;
@@ -138,20 +170,9 @@ header {
   }
 } 
 
-.header-search-box {
-  color: #ffffff;
-  display: flex;
-  font-size: 18px;
-  font-weight: bold;
-  justify-content: flex-end;
-  width: 50%;
-  margin-top: 5px;
-}
 
-.middle-header-wrapper {
-  height: 60%;
-  background: lighten(#355c7d, 10%);
-}
+
+
 
 .nav-bar-wrapper {
   height: 20%;
