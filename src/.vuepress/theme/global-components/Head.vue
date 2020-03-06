@@ -96,6 +96,36 @@ input {
   margin-left: 10px;
 }
 
+.nav-bar-wrapper {
+  height: 20%;
+  display: flex;
+}
+
+.nav {
+  flex: 0 0 auto;
+  display: flex;
+  margin: 0;
+  align-items: center;
+  list-style: none;
+  padding-left: 5px;
+}
+
+.nav-item {
+  margin-left: 20px;
+}
+
+.nav-item a {
+  font-size: 18px;
+  font-weight: bold;
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s;
+}
+
+.nav-item a:hover {
+  color: rgba(128,177,218,1);
+}
+
 /* @import '~@app/style/config';
 
 #header {
