@@ -1,6 +1,6 @@
 <template>
   <div class="layout">
-    <Head />
+    <Head title="HOME"/>
     
     <contents>
       <div class="content-column">

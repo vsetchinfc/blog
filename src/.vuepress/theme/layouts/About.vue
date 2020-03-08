@@ -1,15 +1,14 @@
 <template>
-  <div>
-    <Head />
+  <div class="layout">
+    <Head title="ABOUT"/>
     
-    <content>
+    <contents>
       <div class="content-column">
-        <div>This is a ABout ME!</div>
+        <div>This is a About ME!</div>
       </div>
-      <div class="right-column">
-        <RightSidebar />
-      </div>
-    </content>
+    </contents>
+
+    <RightSidebar />
 
     <Footer />
   </div>
@@ -21,14 +20,20 @@ export default {
 };
 </script>
 
-<style lang="stylus" scoped>
-.content-column {
-  float: left;
-  width: 75%;
+<style>
+.layout {
+  display: grid;
+  grid-template-areas: 
+    "header header"
+    "contents aside"
+    "footer footer";
+  grid-template-rows: 280px 1fr 50px;
+  grid-template-columns: 1fr 18%;
+  grid-gap: 5px;
+  margin: 10px; 
 }
 
-.right-column {
-  float: left;
-  width: 25%;
+contents {
+  grid-area: contents;
 }
 </style>
