@@ -4,7 +4,9 @@
     
     <contents>
       <div class="content-column">
-        <div>Here is a blog!</div>
+        <div v-for="page in this.$site.pages" :key="page.key">
+          {{page.title}}
+        </div>
       </div>
     </contents>
 
