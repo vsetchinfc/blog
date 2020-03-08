@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="middle-header-wrapper">
-
+      {{ title }}
     </div>
     <div class="nav-bar-wrapper">
       <ul class="nav" v-if="$themeConfig.nav">
@@ -25,7 +25,8 @@
 import SearchBox from "@SearchBox";
 
 export default {
-  components: { SearchBox }
+  components: { SearchBox },
+  props: ["title"]
 };
 </script>
 
