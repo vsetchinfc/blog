@@ -1,11 +1,11 @@
 <template>
   <div class="layout">
-    <Head title="BLOG"/>
+    <Head title="Blog"/>
     
     <contents>
       <div class="content-column">
         <div v-for="page in this.$site.pages" :key="page.key">
-          {{page.title}}
+          <a style="color: black;" v-bind:href="page.path">{{page.title}}</a>
         </div>
       </div>
     </contents>

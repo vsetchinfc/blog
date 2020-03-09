@@ -1,6 +1,6 @@
 module.exports = {
   title: "VLADSETCHIN.ME",
-  description: "Vlad Setchin personal site and blog | VLADSETCHIN.ME",
+  description: "HOME - Vlad Setchin personal site and blog | VLADSETCHIN.ME",
   theme: "@vuepress/theme-blog",
   dest: "docs",
   markdown: {

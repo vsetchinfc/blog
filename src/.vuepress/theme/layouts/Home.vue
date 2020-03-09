@@ -1,10 +1,12 @@
 <template>
   <div class="layout">
-    <Head v-bind:title="$frontmatter.title" />
+    <Head title="HOME"/>
     
-    <div class="content-column">
-      <Content />
-    </div>
+    <contents>
+      <div class="content-column">
+        <div>Hello!</div>
+      </div>
+    </contents>
 
     <RightSidebar />
 
