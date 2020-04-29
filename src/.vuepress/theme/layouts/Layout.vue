@@ -1,14 +1,28 @@
 <template>
-  <div class="layout">
-    <Head v-bind:title="$frontmatter.title" />
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <Head v-bind:title="$frontmatter.title" />
+      </div>
+    </div>
     
-    <div class="content-column">
-      <Content />
+    <div class="row">
+      <div class="col-10">
+        <content>
+          <Content />
+        </content>
+      </div>
+
+      <div class="col-2">
+        <RightSidebar />
+      </div>
     </div>
 
-    <RightSidebar />
-
-    <Footer />
+    <div class="row">
+      <div class="col">
+        <Footer />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -19,19 +33,5 @@ export default {
 </script>
 
 <style>
-.layout {
-  display: grid;
-  grid-template-areas: 
-    "header header"
-    "contents aside"
-    "footer footer";
-  grid-template-rows: 280px 1fr 50px;
-  grid-template-columns: 1fr 18%;
-  grid-gap: 5px;
-  margin: 10px; 
-}
 
-contents {
-  grid-area: contents;
-}
 </style>

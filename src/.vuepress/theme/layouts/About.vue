@@ -1,16 +1,30 @@
 <template>
-  <div class="layout">
-    <Head title="ABOUT"/>
-    
-    <contents>
-      <div class="content-column">
-        <div>This is a About ME!</div>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <Head title="ABOUT"/>
       </div>
-    </contents>
+    </div>
+    
+    <div class="row">
+      <div class="col-10">
+        <content>
+          <div class="content-column">
+            <div>This is a About ME!</div>
+          </div>
+        </content>
+      </div>
 
-    <RightSidebar />
+      <div class="col-2">
+        <RightSidebar />
+      </div>
+    </div>
 
-    <Footer />
+    <div class="row">
+      <div class="col">
+        <Footer />
+      </div>
+    </div>
   </div>
 </template>
 
@@ -21,19 +35,5 @@ export default {
 </script>
 
 <style>
-.layout {
-  display: grid;
-  grid-template-areas: 
-    "header header"
-    "contents aside"
-    "footer footer";
-  grid-template-rows: 280px 1fr 50px;
-  grid-template-columns: 1fr 18%;
-  grid-gap: 5px;
-  margin: 10px; 
-}
 
-contents {
-  grid-area: contents;
-}
 </style>
