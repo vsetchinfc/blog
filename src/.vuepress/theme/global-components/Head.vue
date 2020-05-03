@@ -1,15 +1,15 @@
 <template>
   <header>
-    <div class="top-header-wrapper">
-      <div class="title">
-        <a href="/" class="home-link">{{ $site.title }}</a>
-      </div>
-      <div class="header-search-box">
+    <nav class="navbar navbar-dark bg-dark">
+      <a href="#"><span class="navbar-brand mb-0 h1">{{ $site.title }}</span></a>
+      <form class="form-inline">
         Search: <SearchBox />
-      </div>
-    </div>
+      </form>
+    </nav>
+    
     <div class="middle-header-wrapper">
       {{ title }}
+      <button class="btn btn-primary">Click Me</button>
     </div>
     <div class="nav-bar-wrapper">
       <ul class="nav" v-if="$themeConfig.nav">
@@ -31,6 +31,10 @@ export default {
 </script>
 
 <style>
+.bg-dark {
+  background-color: rgba( 32, 97,150,1) !important;
+}
+
 header {
   grid-area: header;
   background: rgba( 32, 97,150,1);
@@ -83,6 +87,12 @@ header {
   background: rgba( 58,117,167,1); */
 }
 
+.form-inline {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: bold;
+}
+
 .header-search-box {
   color: #ffffff;
   display: flex;
@@ -102,14 +112,14 @@ input {
   display: flex;
 }
 
-.nav {
+/* .nav {
   flex: 0 0 auto;
   display: flex;
   margin: 0;
   align-items: center;
   list-style: none;
   padding-left: 5px;
-}
+} */
 
 .nav-item {
   margin-left: 20px;
