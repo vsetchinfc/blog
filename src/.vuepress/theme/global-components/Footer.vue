@@ -1,22 +1,26 @@
 <template>
   <footer>
-    <div class="footer-left-wrap">
-      <ul class="contact" v-if="contact">
-        <li class="contact-item" v-for="item in contact">
-          <a :href="item.link">
-            <component :is="item.iconComponent"></component>
-            {{ item.text }}
-          </a>
-        </li>
-      </ul>
-    </div>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-2">
+          <ul class="contact" v-if="contact">
+            <li class="contact-item" v-for="item in contact">
+              <a :href="item.link">
+                <component :is="item.iconComponent"></component>
+                {{ item.text }}
+              </a>
+            </li>
+          </ul>
+        </div>
 
-    <div class="footer-right-wrap">
-      <ul class="copyright" v-if="copyright">
-        <li class="copyright-item" v-for="item in copyright">
-          <a :href="item.link">{{ item.text }}</a>
-        </li>
-      </ul>
+        <div class="col-10">
+          <ul class="copyright" v-if="copyright">
+            <li class="copyright-item" v-for="item in copyright">
+              <a :href="item.link">{{ item.text }}</a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
   </footer>
 </template>

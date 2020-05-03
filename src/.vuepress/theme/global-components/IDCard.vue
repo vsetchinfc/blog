@@ -86,16 +86,16 @@ export default {
 	padding: 20px;
 	margin: 10px;
 	text-align: center;
-	width: 150px;
+	width: 180px;
 	
 }
 
 .card img {
 	border-radius: 50%;
 	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-	width: 75px;
+	width: 90px;
   transform: scale(1.3);
-  margin: 10px 10px 10px 10px;
+  margin: 10px 10px 10px 34px;
 }
 
 .card h4 {
