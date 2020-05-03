@@ -7,10 +7,10 @@
       </form>
     </nav>
 
-    <div class="middle-header-wrapper">
-      {{ title }}
-      <button class="btn btn-primary">Click Me</button>
+    <div class="jumbotron">
+        {{ title }}
     </div>
+    
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menuData" aria-controls="menuData" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -36,10 +36,12 @@ export default {
 </script>
 
 <style>
-/* background: rgba(178,211,239,1);
+/* sample-colors {
+  background: rgba(178,211,239,1);
   background: rgba( 89,146,194,1);
   background: rgba(128,177,218,1);
-  background: rgba( 58,117,167,1); */
+  background: rgba( 58,117,167,1);
+} */
 
 
 .bg-dark {
@@ -66,6 +68,11 @@ input {
 
 .nav-item a:hover {
   color: rgba(128,177,218,1);
+}
+
+.jumbotron {
+  margin-bottom: 0rem;
+  background-color:  rgba(178,211,239,1)
 }
 
 /* @import '~@app/style/config';
