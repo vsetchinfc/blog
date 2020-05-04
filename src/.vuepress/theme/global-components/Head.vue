@@ -7,8 +7,8 @@
       </form>
     </nav>
 
-    <div class="jumbotron">
-        {{ title }}
+    <div class="jumbotron text-center">
+        <h1>{{ title }}</h1>
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -74,7 +74,7 @@ input {
 
 .jumbotron {
   margin-bottom: 0rem;
-  background-color:  rgba(178,211,239,1)
+  background-color:  rgba(178,211,239,1);
 }
 
 /* @import '~@app/style/config';
