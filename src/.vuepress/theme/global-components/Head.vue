@@ -10,7 +10,7 @@
     <div class="jumbotron">
         {{ title }}
     </div>
-    
+
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menuData" aria-controls="menuData" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -35,7 +35,7 @@ export default {
 };
 </script>
 
-<style>
+<style lang="scss">
 /* sample-colors {
   background: rgba(178,211,239,1);
   background: rgba( 89,146,194,1);
@@ -58,16 +58,18 @@ input {
   margin-left: 10px;
 }
 
-.nav-item a {
-  font-size: 14px;
-  font-weight: bold;
-  color: #ffffff;
-  text-decoration: none;
-  transition: color 0.3s;
-}
+.nav-item {
+  a {
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s;
 
-.nav-item a:hover {
-  color: rgba(128,177,218,1);
+    &:hover {
+      color: rgba(128,177,218,1);
+    }
+  }
 }
 
 .jumbotron {
