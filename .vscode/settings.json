@@ -1,5 +1,21 @@
 {
     "cSpell.words": [
         "blog"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#7bb3c6",
+        "activityBar.activeBorder": "#b24d98",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#b24d98",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "titleBar.activeBackground": "#579eb7",
+        "titleBar.inactiveBackground": "#579eb799",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveForeground": "#15202b99",
+        "statusBar.background": "#579eb7",
+        "statusBarItem.hoverBackground": "#428299",
+        "statusBar.foreground": "#15202b"
+    },
+    "peacock.color": "#579eb7"
 }

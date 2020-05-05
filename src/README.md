@@ -1,1 +1,3 @@
-# Vlad Setchin personal site and blog
+---
+layout: Home
+---
