@@ -5,15 +5,15 @@
         <Head v-bind:title="$frontmatter.title" />
       </div>
     </div>
-    
+
     <div class="row">
-      <div class="col-10">
+      <div class="col-9">
         <content>
           <Content />
         </content>
       </div>
 
-      <div class="col-2">
+      <div class="col-3">
         <RightSidebar />
       </div>
     </div>
@@ -33,5 +33,4 @@ export default {
 </script>
 
 <style>
-
 </style>

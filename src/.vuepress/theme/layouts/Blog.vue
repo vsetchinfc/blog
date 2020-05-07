@@ -2,12 +2,12 @@
   <div class="container">
     <div class="row">
       <div class="col">
-        <Head title="BLOG"/>
+        <Head title="BLOG" />
       </div>
     </div>
-    
+
     <div class="row">
-      <div class="col-10">
+      <div class="col-9">
         <content>
           <div class="content-column">
             <div v-for="page in this.$site.pages" :key="page.key">
@@ -17,7 +17,7 @@
         </content>
       </div>
 
-      <div class="col-2">
+      <div class="col-3">
         <RightSidebar />
       </div>
     </div>
@@ -37,5 +37,4 @@ export default {
 </script>
 
 <style>
-
 </style>
