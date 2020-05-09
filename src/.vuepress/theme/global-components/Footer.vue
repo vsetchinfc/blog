@@ -90,25 +90,20 @@ export default {
 };
 </script>
 
-<style>
+<style scoped lang="scss">
 footer {
   grid-area: footer;
   display: flex;
-  background: rgba( 32, 97,150,1);
+  background: rgba(32, 97, 150, 1);
   padding: 15px 32px;
   box-sizing: border-box;
-} 
+}
 
-ol, ul {
+ol,
+ul {
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-.footer-left-wrap {
-  line-height: 30px;
-  flex: 1;
-  display: flex;
 }
 
 .contact {
@@ -117,7 +112,7 @@ ol, ul {
 
 .contact-item {
   flex: 1;
-  margin-right: 10px; 
+  margin-right: 10px;
 }
 
 a {
@@ -125,36 +120,30 @@ a {
   color: #ffffff;
   text-decoration: none;
   transition: color 0.3s;
-}
 
-а:hover {
-  color: grey;
-}
-
-.footer-right-wrap {
-  flex: 1;
-  display: flex-end;
-  
+  &:hover {
+    color: grey;
+  }
 }
 
 .copyright {
-    display: flex;
-    justify-content: flex-end;
-}
+  display: flex;
+  justify-content: flex-end;
 
-.copyright-item {
-  flex: 0 0 auto;
-  padding: 0 10px;
-  position: relative;
-  line-height: 16px;
-  border-right: 1px solid rgba(255, 255, 255, 0.6);
-}
+  .copyright-item {
+    flex: 0 0 auto;
+    padding: 0 10px;
+    position: relative;
+    line-height: 16px;
+    border-right: 1px solid rgba(255, 255, 255, 0.6);
 
-.copyright-item a {
-  font-size: 16px;
-}
+    a {
+      font-size: 16px;
+    }
 
-.copyright-item:last-child {
-  border-right: none;
+    &:last-child {
+      border-right: none;
+    }
+  }
 }
 </style>

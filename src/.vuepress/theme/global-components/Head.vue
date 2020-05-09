@@ -1,18 +1,29 @@
 <template>
   <header>
     <nav class="navbar navbar-dark bg-dark">
-      <a href="#"><span class="navbar-brand mb-0 h1">{{ $site.title }}</span></a>
+      <a href="#">
+        <span class="navbar-brand mb-0 h1">{{ $site.title }}</span>
+      </a>
       <form class="form-inline">
-        Search: <SearchBox />
+        Search:
+        <SearchBox />
       </form>
     </nav>
 
     <div class="jumbotron text-center">
-        <h1>{{ title }}</h1>
+      <h1>{{ title }}</h1>
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menuData" aria-controls="menuData" aria-expanded="false" aria-label="Toggle navigation">
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#menuData"
+        aria-controls="menuData"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="menuData">
@@ -35,7 +46,7 @@ export default {
 };
 </script>
 
-<style lang="scss">
+<style scoped lang="scss">
 /* sample-colors {
   background: rgba(178,211,239,1);
   background: rgba( 89,146,194,1);
@@ -43,23 +54,22 @@ export default {
   background: rgba( 58,117,167,1);
 } */
 
-
 .bg-dark {
-  background-color: rgba( 32, 97,150,1) !important;
+  background-color: rgba(32, 97, 150, 1) !important;
 }
 
 .form-inline {
   color: #ffffff;
   font-size: 18px;
   font-weight: bold;
-}
 
-input {
-  margin-left: 10px;
+  input {
+    margin-left: 10px;
+  }
 }
 
 .nav-item {
-  a {
+  .nav-link {
     font-size: 14px;
     font-weight: bold;
     color: #ffffff;
@@ -67,14 +77,14 @@ input {
     transition: color 0.3s;
 
     &:hover {
-      color: rgba(128,177,218,1);
+      color: grey;
     }
   }
 }
 
 .jumbotron {
   margin-bottom: 0rem;
-  background-color:  rgba(178,211,239,1);
+  background-color: rgba(178, 211, 239, 1);
 }
 
 /* @import '~@app/style/config';

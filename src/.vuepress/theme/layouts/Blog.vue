@@ -9,9 +9,14 @@
     <div class="row">
       <div class="col-9">
         <content>
-          <div class="content-column">
-            <div v-for="page in this.$site.pages" :key="page.key">
-              <a style="color: black;" v-bind:href="page.path">{{page.title}}</a> {{page.frontmatter.description}}
+          <div v-for="page in pages" :key="page.key">
+            <div class="card">
+              <div class="card-body">
+                <h4 class="card-title">
+                  <a v-bind:href="page.path">{{page.title}}</a>
+                </h4>
+                <h6 class="card-subtitle mb-2 text-muted">{{page.frontmatter.description}}</h6>
+              </div>
             </div>
           </div>
         </content>
@@ -32,9 +37,21 @@
 
 <script>
 export default {
-  components: {}
+  components: {},
+
+  computed: {
+    pages() {
+      return this.$pagination.pages;
+    }
+  }
 };
 </script>
 
-<style>
+<style scoped lang="scss">
+.card {
+  background-color: #fff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
 </style>
