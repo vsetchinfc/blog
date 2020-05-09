@@ -7,11 +7,12 @@ tags:
 - blog
 time_to_read: 2
 title: Moving Blog? Why vuepress?
+description: Why I decided to create my own blog. No, not completely from scratch...
 ---
 
 # Moving Blog?
 
-Yes. I decided to move away from blogger. No, I do not want to say that blogger is bad. Blogger platform is excellent if you want just quickly setup with chosen theme, defined layout and features and start creating posts and I have been using blogger for quite a long time. See link. There are several points that made me to create new blog site and it took me some time to come to decision:
+Yes. I decided to move away from blogger. No, I do not want to say that blogger is bad. Blogger platform is excellent if you want just quickly setup with chosen theme, defined layout and features and start creating posts. I have been using blogger for quite a long time. See link. There are several points that made me to create new blog site and it took me some time to come to this decision:
 
 ## 1. Version control for your site
 
