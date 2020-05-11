@@ -16,6 +16,12 @@
                   <a v-bind:href="page.path">{{page.title}}</a>
                 </h4>
                 <h6 class="card-subtitle mb-2 text-muted">{{page.frontmatter.description}}</h6>
+                <PostData
+                  :date="page.frontmatter.date"
+                  :timeToRead="page.frontmatter.time_to_read"
+                  :location="page.frontmatter.location"
+                  :tags="page.frontmatter.tags.slice(0,3)"
+                />
               </div>
             </div>
           </div>
@@ -36,8 +42,12 @@
 </template>
 
 <script>
+import PostData from "@theme/components/PostData.vue";
+
 export default {
-  components: {},
+  components: {
+    PostData
+  },
 
   computed: {
     pages() {
