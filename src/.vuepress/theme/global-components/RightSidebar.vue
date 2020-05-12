@@ -1,6 +1,8 @@
 <template>
     <aside>
         <IDCard />
+        
+        <TagsCard />
     </aside>
 </template>
 
@@ -9,7 +11,4 @@ export default {};
 </script>
 
 <style>
-aside {
-    grid-area: aside;
-}
 </style>

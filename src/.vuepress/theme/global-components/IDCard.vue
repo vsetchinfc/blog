@@ -80,7 +80,7 @@ export default {
   background-color: #fff;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
   padding: 20px;
-  margin: 10px;
+  margin-top: 10px;
   text-align: center;
   width: 15rem;
 

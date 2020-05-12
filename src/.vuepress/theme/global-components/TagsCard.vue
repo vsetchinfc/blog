@@ -1,8 +1,8 @@
 <template>
     <div class="card">
         <div class="card-body">
-            <div class="blog-tags">
-                <Tag v-for="tag in Object.keys(tags)" :key="tag" :name="tag" :tag="tags[tag]" />
+            <div class="blog-tags" v-for="tag in Object.keys(tags)" :key="tag">
+                <Tag :name="tag" :tag="tags[tag]" />
             </div>
         </div>
     </div>
