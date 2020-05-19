@@ -9,7 +9,13 @@
     <div class="row">
       <div class="col-9">
         <content>
-          <Content />
+          <div v-if="$pagination">
+            <div class="ui-post" v-for="page in pages" :key="page.key">
+              <BlogPostCard :page="page" />
+            </div>
+          </div>
+
+          <Content v-else />
         </content>
       </div>
 
@@ -28,7 +34,12 @@
 
 <script>
 export default {
-  components: {}
+  components: {},
+  computed: {
+    pages() {
+      return this.$pagination.pages;
+    }
+  }
 };
 </script>
 
