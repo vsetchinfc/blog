@@ -15,23 +15,23 @@
     </div>
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#menuData"
-        aria-controls="menuData"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="menuData">
-        <ul class="navbar-nav mr-auto" v-if="$themeConfig.nav">
-          <li class="nav-item active" v-for="item in $themeConfig.nav">
-            <a class="nav-link" :href="item.link">{{ item.text }}</a>
-          </li>
-        </ul>
+      <div class="container-fluid">
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarResponsive"
+          @click.stop="toggleNavbar()"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive" v-bind:class="{ 'show': show }">
+          <ul class="navbar-nav mr-auto" v-if="$themeConfig.nav">
+            <li class="nav-item active" v-for="item in $themeConfig.nav">
+              <a class="nav-link" :href="item.link">{{ item.text }}</a>
+            </li>
+          </ul>
+        </div>
       </div>
     </nav>
   </header>
@@ -42,6 +42,16 @@ import SearchBox from "@SearchBox";
 
 export default {
   components: { SearchBox },
+  data() {
+    return {
+      show: false
+    };
+  },
+  methods: {
+    toggleNavbar() {
+      this.show = !this.show;
+    }
+  },
   props: ["title"]
 };
 </script>
