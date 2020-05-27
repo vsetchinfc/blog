@@ -11,6 +11,7 @@ export default {
 
 <style scoped lang="scss">
     .blog-tag {
+        font-size: 0.88rem;
         margin-left: 10px;
     }
 </style>

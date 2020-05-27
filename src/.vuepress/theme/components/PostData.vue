@@ -1,9 +1,8 @@
 <template>
-  <ul class="list-group list-group-horizontal">
+  <ul class="list-group list-group-horizontal mt-4">
     <li class="list-group-item" >
       <CalendarIcon />
       {{ date }}
-      <!-- {{ new Date(date.trim()).toDateString() }} -->
     </li>
     <li class="list-group-item" v-if="timeToRead">
       <ClockIcon />
@@ -36,14 +35,17 @@ export default {
 
 <style scoped lang="scss">
 
-.list-group-item {
-  a {
-    margin-left: 5px;
+.list-group {
+  .list-group-item {
+    font-size: 0.77em;
+    
+    a {
+      margin-left: 5px;
 
-    &:hover {
-      color: grey;
+      &:hover {
+        color: grey;
+      }
     }
   }
 }
-
 </style>
