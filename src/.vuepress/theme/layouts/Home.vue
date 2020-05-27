@@ -9,7 +9,14 @@
     <div class="row">
       <div class="col-9">
         <content>
-          <div>Hello!</div>
+          <div class="row">
+            <div class="col">
+              <p class="h2 mt-4 mb-3">New and pinned posts. <a href="/blog">View All</a></p>
+              <div class="ui-post" v-for="page in pages" :key="page.key">
+                <BlogPostCard :page="page" />
+              </div>
+            </div>
+          </div>
         </content>
       </div>
 
@@ -28,7 +35,14 @@
 
 <script>
 export default {
-  components: {}
+  components: {},
+  computed: {
+    pages() {
+      return this.$site.pages
+        .filter(page => page.frontmatter.tags)
+        .filter(page => page.frontmatter.tags.includes("new"));
+    }
+  }
 };
 </script>
 
