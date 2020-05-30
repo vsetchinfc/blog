@@ -1,7 +1,7 @@
 <template>
   <div class="card">
     <div class="card-body">
-      <img :src="$themeConfig.personalPhoto" :alt="$themeConfig.fullName" />
+      <img class="border rounded rounded-circle" :src="$themeConfig.personalPhoto" :alt="$themeConfig.fullName" />
       <h4 class="card-title">{{ $themeConfig.fullName }}</h4>
       <h6 class="card-subtitle mb-2 text-muted">Full Stack Software Engineer</h6>
       <ul class="contact card-text" v-if="contact">
@@ -85,7 +85,6 @@ export default {
   width: 15rem;
 
   img {
-    border-radius: 50%;
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
     width: 90px;
     transform: scale(1.3);
