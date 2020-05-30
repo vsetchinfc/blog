@@ -4,7 +4,7 @@
       <h4 class="card-title">
         <a v-bind:href="page.path">{{page.title}}</a>
       </h4>
-      <h6 class="card-subtitle mb-2 text-muted">{{page.frontmatter.description}}</h6>
+      <h6 class="card-subtitle m-3 text-muted">{{page.frontmatter.description}}</h6>
       <PostData
         :date="page.frontmatter.date"
         :timeToRead="page.frontmatter.time_to_read"

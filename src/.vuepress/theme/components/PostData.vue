@@ -1,18 +1,18 @@
 <template>
   <ul class="list-group list-group-horizontal mt-4">
-    <li class="list-group-item" >
+    <li class="list-group-item border-dark rounded m-2 p-2" >
       <CalendarIcon />
       {{ date }}
     </li>
-    <li class="list-group-item" v-if="timeToRead">
+    <li class="list-group-item border-dark rounded m-2 p-2" v-if="timeToRead">
       <ClockIcon />
       {{ timeToRead }} min read
     </li>
-    <li class="list-group-item" v-if="location">
+    <li class="list-group-item border-dark rounded m-2 p-2" v-if="location">
       <NavigationIcon />
       {{ location }}
     </li>
-    <li class="list-group-item" v-if="tags">
+    <li class="list-group-item border-dark rounded m-2 p-2" v-if="tags">
       <div>
         <router-link
           v-for="(tag, index) in tags"
