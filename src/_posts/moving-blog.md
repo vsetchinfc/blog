@@ -30,7 +30,7 @@ Currently site is under constant development and I am considering using two gith
 ***vsetchinfc.github.io*** - production deployment   
 ***vsetchinfc.guthub.io/blog*** - development and test 
 
-If I choose to use custom domain like ***vladsetchin.me*** then one repository will be enough. For a sake of not duplicating Internet content, which may affect site's SEO rating, option of having one repository looks better.
+If I choose to use custom domain like ***[vladsetchin.me](http://vladsetchin.me)*** then one repository will be enough. For a sake of not duplicating Internet content, which may affect site's SEO rating, option of having one repository looks better.
 
 #### 4. Flexibility of what and where you put on your site.
 
@@ -53,11 +53,12 @@ Below is a list of requirements the site should implement:
 
 1. Responsive site layout with multiple pages and list of blog posts
 2. Bootstrap framework for styling
-3. Implement comments using Github Issue and Preact
+3. Implement comments using vuepress-plugin-comment comment plugin in vuepress, such as Gitalk based on Github Issue and Preact
 
 ## References
 
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 - [Paletton](http://paletton.com) - The Color Scheme Designer
 - [GITALK](https://gitalk.github.io/) - A modern comment component based on Github Issue and Preact
+- [vuepress-plugin-comment](https://github.com/dongyuanxin/vuepress-plugin-comment) Comment plugin in vuepress, such as Gitalk, Valine...
 
