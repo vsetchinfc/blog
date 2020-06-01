@@ -1,20 +1,20 @@
 <template>
   <ul class="list-group list-group-horizontal mt-4">
-    <li class="list-group-item border-dark rounded m-2 p-2" >
+    <li class="list-group-item border-0" >
       <CalendarIcon />
       {{ date }}
     </li>
-    <li class="list-group-item border-dark border-left rounded m-2 p-2" v-if="timeToRead">
+    <li class="list-group-item border-0" v-if="timeToRead">
       <ClockIcon />
       {{ timeToRead }} min read
     </li>
-    <li class="list-group-item border-dark border-left rounded m-2 p-2" v-if="location">
+    <li class="list-group-item border-0" v-if="location">
       <NavigationIcon />
       {{ location }}
     </li>
-    <li class="list-group-item border-dark border-left rounded m-2 p-2" v-if="tags">
+    <li class="list-group-item border-0" v-if="tags">
       <div>
-        <router-link
+        <router-link 
           v-for="(tag, index) in tags"
           :key="index"
           :to="'/tag/' + tag"
