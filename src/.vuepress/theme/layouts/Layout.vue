@@ -16,6 +16,7 @@
           </div>
 
           <Content class="mt-4 mb-4" v-else />
+          <Vssue :title="$title" />
         </content>
       </div>
 
