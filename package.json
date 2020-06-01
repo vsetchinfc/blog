@@ -30,7 +30,8 @@
         "vuepress": "^1.2.0",
         "vuepress-plugin-google-adsense": "^0.0.4",
         "vuepress-plugin-sitemap": "^2.3.1",
-        "vuepress-plugin-social-share": "^0.1.1"
+        "vuepress-plugin-social-share": "^0.1.1",
+        "vuepress-plugin-table-of-contents": "^1.1.6"
     },
     "dependencies": {
         "@vssue/api-github-v4": "^1.4.0",

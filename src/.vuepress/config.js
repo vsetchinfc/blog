@@ -92,6 +92,9 @@ module.exports = {
       repo: 'blog',
       clientId: '654da0c6f4529b88753a',
       clientSecret: '9c41258fd0adc856de8fe8a725a2e5aa9791306d',
+    }],
+    ['vuepress-plugin-table-of-contents', {
+      includeLevel: [2, 4]
     }]
   ]
 }
