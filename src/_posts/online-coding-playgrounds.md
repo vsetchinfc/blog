@@ -156,24 +156,29 @@ Code playground is an online environment that allows you to write code, run it a
 An instant IDE and prototyping tool for rapid web development.
 ##### Technologies supported
 Provides extensive list of Templates
-|React Essentials       | Angular Essentials   | UI Frameworks      | Component Libraries    |
-|         :---:         |        :---:         |    :---:           |        :---:           |
-|React                  |Angular               |Hyperapp Playground |Shopify Polaris Starter |
-|Netflix / React Router |Angular CLI           |Ionic React RC2     |Carbon components React |
-|Material-UI            |Forms                 |React + Konva       |React95                 |
-|react-scroll           |Http Client           |Aurelia             |Fabric Starter Sandbox  |
-|React Slick            |Server Side Rendering |Preact              |antd                    |
-|Formik Starter         |Tour of Heroes        |Material-UI         |storybook-template      |
-|ReduxJS/redux: counter |Getting Started App   |Angular Material    |                        |
-|antd                   |Router                |Tailwind CSS        |                        |
+|React Essentials       | Angular Essentials   | UI Frameworks      |
+|         :---:         |        :---:         |    :---:           |
+|React                  |Angular               |Hyperapp Playground |
+|Netflix / React Router |Angular CLI           |Ionic React RC2     |
+|Material-UI            |Forms                 |React + Konva       |
+|react-scroll           |Http Client           |Aurelia             |
+|React Slick            |Server Side Rendering |Preact              |
+|Formik Starter         |Tour of Heroes        |Material-UI         |
+|ReduxJS/redux: counter |Getting Started App   |Angular Material    |
+|antd                   |Router                |Tailwind CSS        |
 <br>
 
-| Vue Essentials   | Web App and API Starters | Databases |
-|    :---:         |         :---:            |  :---:    |
+| Component Libraries    | Vue Essentials      | Databases |
+|        :---:           |    :---:            | :---:     |
+|Shopify Polaris Starter |Vue                  |SQLite 3   |
+|Carbon components React |Vue easy slider      |Lowdb      |
+|React95                 |Vue Datepicker       |Airtable   |
+|Fabric Starter Sandbox  |Vue Slideout starter |NeDB       |
+|antd                    |                     |MongoDB    |
+|storybook-template      |                     |           |
 <br>
 
-|  Visualization | eCommerce | Blogging |
-|     :---:      |    :---:  |   :---:  |
+[Click here](https://codesandbox.io/s) to see more
 <br>
 <br>
 
