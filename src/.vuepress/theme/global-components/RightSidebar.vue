@@ -1,7 +1,7 @@
 <template>
     <aside>
         <IDCard />
-        <TOC />
+        <!-- <TOC /> -->
         <TagsCard />
     </aside>
 </template>

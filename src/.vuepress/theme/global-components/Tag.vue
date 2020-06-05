@@ -1,5 +1,5 @@
 <template>
-    <router-link class="blog-tag" :to="{ path: `/tag/${name}`}">#{{ name }}({{ tag.length }})</router-link>
+    <router-link class="blog-tag" :to="{ path: `/tag/${name}`}"  v-if="tag">#{{ name }}({{ tag.length }})</router-link>
 </template>
 
 <script>
