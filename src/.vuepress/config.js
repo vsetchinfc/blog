@@ -43,7 +43,7 @@ module.exports = {
       directories: [{
         id: 'post',
         dirname: '_posts',
-        path: '/blog',
+        path: '/blog/',
         layout: 'Blog',
         //itemLayout: 'Blog',
         pagination: {
