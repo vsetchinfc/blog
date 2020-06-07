@@ -1,11 +1,11 @@
 ---
-date: "2020-05-10"
-published: false
+date: "2020-06-01"
+published: true
 slug: online-coding-playgrounds
 tags:
   - coding
   - playground
-  - new
+  - updated
 time_to_read: 2
 title: Online coding playgrounds
 description: Online coding playgrounds

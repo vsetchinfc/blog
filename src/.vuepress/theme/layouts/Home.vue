@@ -40,7 +40,9 @@ export default {
     pages() {
       return this.$site.pages
         .filter(page => page.frontmatter.tags)
-        .filter(page => page.frontmatter.tags.includes("new"));
+        .filter(page => 
+          page.frontmatter.tags.includes("new")
+          || page.frontmatter.tags.includes("updated"));
     }
   }
 };

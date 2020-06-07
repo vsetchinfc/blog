@@ -1,6 +1,6 @@
 ---
 date: '2020-06-01'
-published: false
+published: true
 slug: moving-blog
 tags:
 - vuepress
@@ -10,6 +10,9 @@ time_to_read: 2
 title: Moving Blog? Why vuepress?
 description: Why I decided to create my own blog. No, not completely from scratch...
 ---
+
+#### Content
+[[toc]]
 
 ## Moving Blog?
 ---
