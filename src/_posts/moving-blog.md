@@ -5,7 +5,7 @@ slug: moving-blog
 tags:
 - vuepress
 - blog
-- new
+- updated
 time_to_read: 2
 title: Moving Blog? Why vuepress?
 description: Why I decided to create my own blog. No, not completely from scratch...
