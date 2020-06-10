@@ -4,7 +4,7 @@ published: false
 slug: angular-learning-resources
 tags:
   - coding
-  - new
+  - updated
   - angular
 time_to_read: 2
 title: Angular Learning Resources
@@ -25,6 +25,31 @@ In the time of information overload and rapid technology advancement it is reall
 
 **[Build an Angular ToDo App with Angular CLI in 6 Easy Steps](http://www.teclogiq.com/blog/angular-todo-application/)**<br>
 *"Do you want to learn how to create an Angular ToDo App? Here are 6 easy steps that will help you to create an app with little coding efforts."*  [Github repo](https://github.com/sanjay-patel/angular-todo-app)
+
+**[Building a CRUD application with Angular](https://codequs.com/p/rkD7M44FN/building-a-crud-application-with-angular)**<br>
+*"In this tutorial, you'll learn how to build a CRUD application with Angular."*
+
+**[Component Inheritance in Angular](https://blog.bitsrc.io/component-inheritance-in-angular-acd1215d5dd8)**<br>
+*"Respect the DRY rule! Learn how to write code efficiently using component inheritance"*
+
+**[How to Preview Blobs With HTTP POST and Angular 5](https://dzone.com/articles/how-to-preview-blobs-with-http-post-and-angular-5)**<br>
+*"In this quick but helpful article, a software architect documents how to upload images to a web page using Angular and HTTP POST."*
+
+**[Angular 8 HttpClient & Http Tutorial – Build and Consume RESTful API](https://morioh.com/p/edce618ab14d)**<br>
+*"Angular 8 HttpClient & Http tutorial is going to be discussed in this blog today. We’ll learn to create and consume RESTful APIs in Angular 8 project. To manage the data on the remote server, we make GET, POST, PUT and Delete using HttpClient API. We are required to import and setup HttpClient service in Angular 8 project to consume REST APIs."*
+
+**[Learn Angular 8 in 10 Days – Day 1](https://morioh.com/p/f2ca487d1b4d)**<br>
+*"Angular 8 is the latest production version of Angular. This Angular 8 tutorial, learn how to build large scale websites using Angular 8 in 10 days."*
+
+**[How to create an Angular 8 application with ASP.NET Core 3.0](https://morioh.com/p/bb7bec313d4b)**<br>
+*"In this post, I will explain the steps to create an Angular 8 application with ASP.NET 3.0. We will create a simple controller class to get latest C# Corner posts details and will be shown in the home component. We will get more features soon from Microsoft soon."*
+
+**[How to build Progressive Web Apps with Angular](https://tinyurl.com/y7gc8f7v)**<br>
+*"Progressive web apps are web applications built with technologies that make them behave like native apps. A benefit of progressive web apps is the ability to work smoothly when network coverage is unreliable. Also, unlike native apps, no installation is required, but they are faster than typical web apps"*
+
+**[Serverless REST API with Angular, Persistence and Security](https://tinyurl.com/y8v7dmd2)**<br>
+*"In this post I’ll show you how you can quickly build a serverless full stack app with static file hosting, a secure REST API, and a robust persistence layer."*
+
 <br>
 <br>
 
@@ -48,6 +73,9 @@ https://morioh.com/p/7da7955083ea)**<br>
 
 **[Angular Universal](https://github.com/angular/universal/blob/master/README.md)**<br>
 *"The Angular Universal project is a community driven project to expand on the core APIs from Angular (platform-server) to enable developers to do server side rendering of Angular applications in a variety of scenarios."*
+
+**[Best practices for a clean and performant Angular application](https://tinyurl.com/y8k2c8nn)**<br>
+*"This article outlines the practices we use in our application and is related to Angular, Typescript, RxJs and @ngrx/store"*
 <br>
 <br>
 
@@ -70,7 +98,26 @@ https://morioh.com/p/7da7955083ea)**<br>
 <br>
 <br>
 
+### Angular resources on YouTube
+<br>
+
+**[Angular Node Express MongoDB MEAN Tutorial for Beginners](https://codequs.com/p/HJEKLQNSB/angular-node-express-mongodb-mean-tutorial-for-beginners)**<br>
+*"In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy instructor Maximilian Schwarzmüller will teach you how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application."*
+
+**[Sharing Data between Components in Angular](https://school.geekwall.in/p/S1dUX1ZLr/sharing-data-between-components-in-angular)**<br>
+*"Sharing Data between Components in Angular. In this episode, I am going to show you four different ways to share data between Angular components"*
+
+**[Learn Angular 8 from Scratch for Beginners - Crash Course](https://tinyurl.com/y7nahnwg)**<br>
+*"Angular 8 is out now, and for those who prefer to learn a framework with the current latest version, this tutorial is for you"*
+
+**[Google Maps in Angular](https://tinyurl.com/yc8urbnh)**<br>
+*"Google maps meet Angular. Having such a strong developer community and being used by thousands of developers around the world made Angular ideal for bringing most tools to the framework"*
+<br>
+<br>
+
 ### References 
 
 * [Angular 8 Tutorial | FormArray In Angular 8 with Example](https://morioh.com/p/dc64d2d22774)
 * [Best Chrome Extensions For Debugging Angular Apps](https://tinyurl.com/y3sktkwh)
+* [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
+* [Angular Switchery IOS](https://github.com/zainzafar90/angular-switchery-ios#readme)
