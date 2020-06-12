@@ -7,7 +7,7 @@
     </div>
 
     <div class="row">
-      <div class="col-9">
+      <div class="col-lg-9 col-sm-12">
         <content>
           <div v-for="page in pages" :key="page.key">
             <BlogPostCard :page="page" />
@@ -15,7 +15,7 @@
         </content>
       </div>
 
-      <div class="col-3">
+      <div class="col-lg-3 d-lg-block d-sm-none d-md-none">
         <RightSidebar />
       </div>
     </div>

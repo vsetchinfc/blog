@@ -2,7 +2,7 @@
   <footer>
     <div class="container">
       <div class="row align-items-center">
-        <div class="col-2">
+        <div class="col-lg-2">
           <ul class="contact" v-if="contact">
             <li class="contact-item" v-for="item in contact">
               <a :href="item.link">
@@ -13,7 +13,7 @@
           </ul>
         </div>
 
-        <div class="col-10">
+        <div class="col-lg-10">
           <ul class="copyright" v-if="copyright">
             <li class="copyright-item" v-for="item in copyright">
               <a :href="item.link">{{ item.text }}</a>
@@ -92,7 +92,6 @@ export default {
 
 <style scoped lang="scss">
 footer {
-  grid-area: footer;
   display: flex;
   background: rgba(32, 97, 150, 1);
   padding: 15px 32px;
@@ -108,6 +107,7 @@ ul {
 
 .contact {
   display: flex;
+  margin-bottom: 5px;
 }
 
 .contact-item {

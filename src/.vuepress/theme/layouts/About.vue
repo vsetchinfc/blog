@@ -25,7 +25,7 @@
             </div>
             <div class="card">
               <div class="card-body">
-                <img class="border rounded rounded-circle" :src="$themeConfig.personalPhoto" :alt="$themeConfig.fullName" />
+                <img class="border rounded rounded-circle d-sm-none d-lg-block mx-auto" :src="$themeConfig.personalPhoto" :alt="$themeConfig.fullName" />
                 <h4 class="card-title">{{ $themeConfig.fullName }}</h4>
                 <h6 class="card-subtitle mb-2 text-muted">Full Stack Software Engineer</h6>
                 <ul class="contact card-text" v-if="contact">
@@ -132,14 +132,13 @@ export default {
   margin-top: 10px;
   text-align: center;
   width: 100%;
-
-  img {
-    //border-radius: 50%;
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-    width: 10rem;
-    transform: scale(1.3);
-    margin-top: 30px;
-    margin-bottom: 50px;
+  
+    img {
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+      width: 10rem;
+      transform: scale(1.3);
+      margin-top: 30px;
+      margin-bottom: 50px;
   }
 
   h4 {
