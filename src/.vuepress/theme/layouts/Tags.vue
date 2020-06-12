@@ -20,7 +20,7 @@
                 </content>
             </div>
 
-            <div class="col-3">
+            <div class="col-lg-3 d-none d-lg-block">
                 <RightSidebar />
             </div>
         </div>
