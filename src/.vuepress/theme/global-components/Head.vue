@@ -4,9 +4,9 @@
       <a href="#">
         <span class="navbar-brand mb-0 h1">{{ $site.title }}</span>
       </a>
-      <form class="form-inline">
+      <form class="form-inline mr-2">
         Search:
-        <SearchBox />
+        <SearchBox class="ml-2"/>
       </form>
     </nav>
 
@@ -72,10 +72,6 @@ export default {
   color: #ffffff;
   font-size: 18px;
   font-weight: bold;
-
-  input {
-    margin-left: 10px;
-  }
 }
 
 .nav-item {
