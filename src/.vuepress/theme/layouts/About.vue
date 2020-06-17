@@ -11,7 +11,7 @@
         <content>
           <div class="card-deck">
             <div class="card">
-              <div class="card-header">
+              <div class="card-header font-weight-bold">
                 Front End
               </div>
               <div class="card-body">
@@ -39,7 +39,7 @@
               </div>
             </div>
             <div class="card">
-              <div class="card-header">
+              <div class="card-header font-weight-bold">
                 Back End
               </div>
               <div class="card-body">
