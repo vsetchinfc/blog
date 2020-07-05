@@ -50,6 +50,14 @@ In the time of information overload and rapid technology advancement it is reall
 **[Serverless REST API with Angular, Persistence and Security](https://tinyurl.com/y8v7dmd2)**<br>
 *"In this post I’ll show you how you can quickly build a serverless full stack app with static file hosting, a secure REST API, and a robust persistence layer."*
 
+**[Creating a Modal Dialog in Angular 8 with TypeScript](https://morioh.com/p/f7c1eca2519e)**<br>
+*"There are plenty of plugins and libraries out there that include modal windows, in the past I used them myself when I needed to add a modal to a new project."*
+
+**[Implementing a Angular project with AspNet Core](https://tinyurl.com/y6twln4d)**<br>
+*"This article will help us understand how to use the .NET Core command line interface to create and run an ASP.NET Core web application."*
+
+**[Build A Real World Beautiful Web APP with Angular 8 — A to Z](https://morioh.com/p/90c9499be4d2)**<br>
+*"Today I am going to show you how to build a real world beautiful weather app that is production ready from scratch starting from design to development all the way to deployment using Adobe XD, Angular 7 & Firebase!"*
 <br>
 <br>
 
@@ -76,6 +84,15 @@ https://morioh.com/p/7da7955083ea)**<br>
 
 **[Best practices for a clean and performant Angular application](https://tinyurl.com/y8k2c8nn)**<br>
 *"This article outlines the practices we use in our application and is related to Angular, Typescript, RxJs and @ngrx/store"*
+
+**[How to Create Angular Schematics for Developers](https://morioh.com/p/17fc4abf1eca)**<br>
+*"Angular CLI is a command-line tool that creates a simple Angular project. Angular CLI asks you questions about your app and, based on your answers, it determines the routing and the stylesheet format. How does Angular CLI do this? It uses Schematics."*
+
+**[A complete Guide to the Angular CLI](https://morioh.com/p/4c5cadfe12b6)**<br>
+*"The experience provided by a graphical user interface or GUI is considered to be interactive but plagued with performance issues. This has lead to people who prefer performance over visuals, to use a command-line interface or a CLI. In this article, we will be discussing the command line interface that comes along with Angular, i.e the angular-CLI."*
+
+**[Exploring Angular Lifecycle Hooks - OnChanges](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-onchanges)**<br>
+*"Welcome back to our blog series, Exploring Angular Lifecycle Hooks!"*
 <br>
 <br>
 
