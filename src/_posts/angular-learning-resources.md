@@ -1,6 +1,6 @@
 ---
-date: "2020-06-08"
-published: false
+date: "2020-07-06"
+published: true
 slug: angular-learning-resources
 tags:
   - coding
@@ -73,6 +73,9 @@ In the time of information overload and rapid technology advancement it is reall
 **[Create Simple Login Page using Angular 8 and HTTP Authentication](
 https://morioh.com/p/7da7955083ea)**<br>
 *"In this article, you'll learn how to setup a simple login page using Angular 8-9 and Basic HTTP authentication"*
+
+**[Login in with Facebook and Google in an apps using Angular 8](https://morioh.com/p/62cb11ccbf9e)**<br>
+*"In this post, we will learn the step-by-step process of allowing users to log in to an application with Facebook and Gmail using Angular 8. Login with Facebook and Google makes it safe and easy for users to use applications."*
 <br>
 <br>
 
@@ -93,6 +96,21 @@ https://morioh.com/p/7da7955083ea)**<br>
 
 **[Exploring Angular Lifecycle Hooks - OnChanges](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-onchanges)**<br>
 *"Welcome back to our blog series, Exploring Angular Lifecycle Hooks!"*
+
+**[Are You Ready For Angular 9?](https://morioh.com/p/54630ff3176d)**<br>
+*"The Angular 9 RC is out, what an exciting time to be Angular developer, no I am not saying this because of Angular 9 RC release. It's because Ivy is here, Ivy is now the default rendering engine in Angular."*
+
+**[Debugging Memory Leaks in Angular](https://morioh.com/p/e4009f12c587)**<br>
+*"Building large applications entails writing lots of code, complex pages, long lists, and hundreds (if not more) of components. If you’ve worked at least once in a non-trivial web application, you may have found yourself battling a memory leak for hours and hours."*
+
+**[Angular 8 | Build Autocomplete Mode with Angular Materials](https://morioh.com/p/73ff58a9d2c9)**<br>
+*"Today we are going to create Autocomplete in Angular 8 using Angular Material UI components."*
+
+**[Using CSS Grid Layout in Angular project](https://morioh.com/p/16d26d9500c5)**<br>
+*"This CSS Grid layout tutorial is designed for Angular 7/8 developers that want to learn how to build responsive layouts with modern CSS."*
+
+**[How to Create Angular Toastr Notifications](https://tinyurl.com/y92597bl)**<br>
+*"Create an Angular service called notification , which you'll use in your application for showing the toastr message. In src/app create a folder called utility . Navigate to the utility folder and create an Angular service."*
 <br>
 <br>
 
@@ -138,3 +156,4 @@ https://morioh.com/p/7da7955083ea)**<br>
 * [Best Chrome Extensions For Debugging Angular Apps](https://tinyurl.com/y3sktkwh)
 * [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
 * [Angular Switchery IOS](https://github.com/zainzafar90/angular-switchery-ios#readme)
+* [Top Tools for AngularJS development](https://dzone.com/articles/top-tools-for-angularjs-development)
