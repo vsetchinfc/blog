@@ -12,7 +12,7 @@ module.exports = {
     nav: [
       { text: "Home", link: "/", exact: true },
       { text: "Blog", link: "/blog", exact: true },
-      //{ text: "Projects", link: "/projects/" },
+      { text: "Projects", link: "/projects" },
       { text: "About", link: "/about", exact: true }
     ],
     footer: {
