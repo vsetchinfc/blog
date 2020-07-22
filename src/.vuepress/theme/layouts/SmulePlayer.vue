@@ -55,8 +55,8 @@ export default {
                 { title: 'Свеча - горела', link: 'https://www.smule.com/recording/%D0%B0%D0%BB%D0%BB%D0%B0-%D0%BF%D1%83%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B0-%D1%81%D0%B2%D0%B5%D1%87%D0%B0-%D0%B3%D0%BE%D1%80%D0%B5%D0%BB%D0%B0/1729118585_3638026140/frame/box'},
                 { title: 'Мама', link: 'https://www.smule.com/recording/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0-%D0%BB%D0%B0%D0%B7%D0%B0%D1%80%D0%B5%D0%B2%D0%B0-%D0%BC%D0%B0%D0%BC%D0%B0/616904535_3639393461/frame/box'},
                 { title: 'All Of Me - 🄰🄻🄻 OF ME', link: 'https://www.smule.com/recording/all-all-of-me-of-me-of-me/1399442024_3657359216/frame/box'},
-                { title: 'В горнице моей светло', link: 'https://www.smule.com/recording/%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D1%83%D1%80%D0%BE-2-%D0%BF%D0%BE%D0%BB%D1%83%D1%82%D0%BE%D0%BD%D0%B0-%D0%B2-%D0%B3%D0%BE%D1%80%D0%BD%D0%B8%D1%86%D0%B5-%D0%BC%D0%BE%D0%B5%D0%B9-%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE/1729118585_3634816862/frame/box'}
-                //{ title: '', link: ''},
+                { title: 'В горнице моей светло', link: 'https://www.smule.com/recording/%D0%BC%D0%B0%D1%80%D0%B8%D0%BD%D0%B0-%D0%BA%D0%B0%D0%BF%D1%83%D1%80%D0%BE-2-%D0%BF%D0%BE%D0%BB%D1%83%D1%82%D0%BE%D0%BD%D0%B0-%D0%B2-%D0%B3%D0%BE%D1%80%D0%BD%D0%B8%D1%86%D0%B5-%D0%BC%D0%BE%D0%B5%D0%B9-%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%BE/1729118585_3634816862/frame/box'},
+                { title: 'Стань для меня - Shanti_Shanti\'s version', link: 'https://www.smule.com/recording/%D0%B4%D0%B8%D0%BC%D0%B0-%D0%B1%D0%B8%D0%BB%D0%B0%D0%BD-%D1%81%D1%82%D0%B0%D0%BD%D1%8C-%D0%B4%D0%BB%D1%8F-%D0%BC%D0%B5%D0%BD%D1%8F-shanti_shantis-version/378850526_3657648904/frame/box'},
                 //{ title: '', link: ''},
             ],
             selectedLink: 'https://www.smule.com/recording/lara-fabian-a-wonderful-life/2356330899_3577288830/frame/box'
