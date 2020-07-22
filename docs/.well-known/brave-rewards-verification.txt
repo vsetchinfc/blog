@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: vladsetchin.me
-Token: 34d375a9cb41bda2d10c09030d687c9d21792e24a137b1bd4f3da4b22ddcf8b8
