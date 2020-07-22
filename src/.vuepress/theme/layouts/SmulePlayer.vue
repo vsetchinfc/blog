@@ -22,6 +22,7 @@ export default {
     data: function () {
         return {
             smuleRecordings: [
+                { title: 'A Wonderful Life', link: 'https://www.smule.com/recording/lara-fabian-a-wonderful-life/2356330899_3577288830/frame/box'},
                 { title: 'Wonderful life', link: 'https://www.smule.com/recording/lara-fabian-wonderful-life/2356330899_3489384690/frame/box'},
                 { title: 'Hello - ♌ @e_NTyas', link: 'https://www.smule.com/recording/lionel-richie-acoustic-cover-hello-e_ntyas/2356330899_3491500840/frame/box'},
                 { title: 'Останусь - killergirl59\'s version', link: 'https://www.smule.com/recording/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-312-%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%83%D1%81%D1%8C-killergirl59s-version/2356330899_3570231566/frame/box'},
@@ -42,7 +43,6 @@ export default {
                 { title: 'самолет (mix)', link: 'https://www.smule.com/recording/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D1%81%D0%B0%D0%BC%D0%BE%D0%BB%D0%B5%D1%82-mix/1037848922_3570867182/frame/box'},
                 { title: 'Романс (Там нет меня) - КАЧЕСТВО МАСТЕР Erik', link: 'https://www.smule.com/recording/%D0%BF%D1%80%D0%B5%D1%81%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2-%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D1%81-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B5%D1%82-%D0%BC%D0%B5%D0%BD%D1%8F-%D1%82%D0%B0%D0%BC-%D0%BD%D0%B5%D1%82-%D0%BC%D0%B5%D0%BD%D1%8F-%D0%BA%D0%B0%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE-%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-erik/1348538411_3570893375/frame/box'},
                 { title: 'Город, которого нет', link: 'https://www.smule.com/recording/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B5%D1%82-%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE-%D0%BD%D0%B5%D1%82/2096658558_3573915279/frame/box'},
-                { title: 'A Wonderful Life', link: 'https://www.smule.com/recording/lara-fabian-a-wonderful-life/2356330899_3577288830/frame/box'},
                 { title: 'Мачо - iellenaa\'s version', link: 'https://www.smule.com/recording/%D0%B7%D0%B5%D0%BC%D1%84%D0%B8%D1%80%D0%B0-%D0%BC%D0%B0%D1%87%D0%BE-iellenaas-version/1963159492_3577403376/frame/box'},
                 { title: 'А-Студио Папа, мама', link: 'https://www.smule.com/recording/%D0%B0-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D0%BE-%D0%BF%D0%B0%D0%BF%D0%B0-%D0%BC%D0%B0%D0%BC%D0%B0-%D0%B0-%D1%81%D1%82%D1%83%D0%B4%D0%B8%D0%BE-%D0%BF%D0%B0%D0%BF%D0%B0-%D0%BC%D0%B0%D0%BC%D0%B0/2356330899_3588846000/frame/box'},
                 { title: 'Я - это ты (KESSE)', link: 'https://www.smule.com/recording/%D0%BC%D1%83%D1%80%D0%B0%D1%82-%D0%BD%D0%B0%D1%81%D1%8B%D1%80%D0%BE%D0%B2-%D1%8F-%D1%8D%D1%82%D0%BE-%D1%82%D1%8B-kesse/2030424297_3588897235/frame/box'},
@@ -59,7 +59,7 @@ export default {
                 //{ title: '', link: ''},
                 //{ title: '', link: ''},
             ],
-            selectedLink: 'https://www.smule.com/recording/lara-fabian-wonderful-life/2356330899_3489384690/frame/box'
+            selectedLink: 'https://www.smule.com/recording/lara-fabian-a-wonderful-life/2356330899_3577288830/frame/box'
         }
     },
     methods: {
