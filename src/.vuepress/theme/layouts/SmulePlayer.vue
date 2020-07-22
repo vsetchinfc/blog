@@ -7,11 +7,9 @@
             <div class="col">
                 <h1 class="text-center mt-3">Smule Player</h1><!--https://www.instagram.com/alexandra_rouvs/-->
                 <a href="https://www.smule.com/AleksandraRouvs" target="_"><h2 class="text-center">@AleksandraRouvs</h2></a>
-                <select class="custom-select custom-select-lg mb-3 mt-3" style="height: 470px;" multiple v-model="selectedLink">
-                    <option v-for="recording in smuleRecordings" :key="recording.title" v-bind:value="recording.link">
-                        {{ recording.title }}
-                    </option>
-                </select>
+                <div class="list-group">
+                    <a v-for="recording in smuleRecordings" href="#" class="list-group-item list-group-item-action" @click="onClick(recording.link)">{{recording.title}}</a>
+                </div>                
             </div>
         </div>
     </div>
@@ -63,13 +61,16 @@ export default {
         }
     },
     methods: {
-        onChange(event) {
-            debugger;
+        onClick(link) {
+            this.selectedLink = link;
         }
     }
 }
 </script>
 
 <style lang="scss" scoped>
-
+.list-group {
+    height: 500px; 
+    overflow-y: scroll;
+}
 </style>
