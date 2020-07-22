@@ -23,7 +23,6 @@ export default {
                 { title: 'A Wonderful Life', link: 'https://www.smule.com/recording/lara-fabian-a-wonderful-life/2356330899_3577288830/frame/box'},
                 { title: 'Wonderful life', link: 'https://www.smule.com/recording/lara-fabian-wonderful-life/2356330899_3489384690/frame/box'},
                 { title: 'Hello - ♌ @e_NTyas', link: 'https://www.smule.com/recording/lionel-richie-acoustic-cover-hello-e_ntyas/2356330899_3491500840/frame/box'},
-                { title: 'Останусь - killergirl59\'s version', link: 'https://www.smule.com/recording/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4-312-%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D1%83%D1%81%D1%8C-killergirl59s-version/2356330899_3570231566/frame/box'},
                 { title: 'Не отрекаются, любя', link: 'https://www.smule.com/recording/%D0%B0%D0%BB%D0%BB%D0%B0-%D0%BF%D1%83%D0%B3%D0%B0%D1%87%D0%B5%D0%B2%D0%B0-%D0%BD%D0%B5-%D0%BE%D1%82%D1%80%D0%B5%D0%BA%D0%B0%D1%8E%D1%82%D1%81%D1%8F-%D0%BB%D1%8E%D0%B1%D1%8F/1399442024_3634485045/frame/box'},
                 { title: 'Maria Magdalena', link: 'https://www.smule.com/recording/sandra-maria-magdalena/393121489_3606244951/frame/box'},
                 { title: 'Дыши☘(Gm/ПИАНО Иван Сальников)', link: 'https://www.smule.com/recording/serebro-el%D0%BC%D0%B8%D0%BD%D1%83%D1%81-%D0%B4%D1%8B%D1%88%D0%B8-gm-%D0%BF%D0%B8%D0%B0%D0%BD%D0%BE-%D0%B8%D0%B2%D0%B0%D0%BD-%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2/1348538411_3601868315/frame/box'},
