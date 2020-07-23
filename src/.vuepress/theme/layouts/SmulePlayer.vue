@@ -1,10 +1,10 @@
 <template>
     <div class="container">
         <div class="row">
-            <div class="col-auto">
-                <iframe class="mt-3" frameborder="0" width="600" height="600" v-bind:src="selectedLink"></iframe>
+            <div class="col-lg-6 col-sm-12">
+                <iframe class="mt-3" frameborder="0" width="550" height="600" v-bind:src="selectedLink"></iframe>
             </div>
-            <div class="col-auto">
+            <div class="col-lg-6 col-sm-12">
                 <h1 class="text-center mt-3">Smule Player</h1><!--https://www.instagram.com/alexandra_rouvs/-->
                 <a href="https://www.smule.com/AleksandraRouvs" target="_"><h2 class="text-center">@AleksandraRouvs</h2></a>
                 <div class="list-group">
@@ -70,7 +70,7 @@ export default {
 <style lang="scss" scoped>
 .list-group {
     height: 500px;
-    width: 480px; 
+    width: 100%;
     overflow-y: scroll;
 }
 </style>
