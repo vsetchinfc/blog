@@ -27,7 +27,7 @@
         "sass-loader": "^8.0.2",
         "scss-loader": "^0.0.1",
         "vue-feather-icons": "^5.0.0",
-        "vuepress": "^1.2.0",
+        "vuepress": "^1.5.2",
         "vuepress-plugin-google-adsense": "^0.0.4",
         "vuepress-plugin-sitemap": "^2.3.1",
         "vuepress-plugin-social-share": "^0.1.1",
