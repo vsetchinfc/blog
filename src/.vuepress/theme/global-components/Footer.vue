@@ -1,8 +1,8 @@
 <template>
   <footer>
     <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-2">
+      <div class="row justify-content-between align-items-center">
+        <div class="col-3">
           <ul class="contact" v-if="contact">
             <li class="contact-item" v-for="item in contact">
               <a :href="item.link">
@@ -13,7 +13,7 @@
           </ul>
         </div>
 
-        <div class="col-lg-10">
+        <div class="col-3">
           <ul class="copyright" v-if="copyright">
             <li class="copyright-item" v-for="item in copyright">
               <a :href="item.link">{{ item.text }}</a>
@@ -32,7 +32,7 @@ import {
   TwitterIcon,
   InstagramIcon,
   LinkedinIcon,
-  RssIcon
+  RssIcon,
 } from "vue-feather-icons";
 
 export default {
@@ -42,7 +42,7 @@ export default {
     TwitterIcon,
     InstagramIcon,
     LinkedinIcon,
-    RssIcon
+    RssIcon,
   },
 
   methods: {
@@ -63,7 +63,7 @@ export default {
         default:
           return "";
       }
-    }
+    },
   },
 
   computed: {
@@ -75,7 +75,7 @@ export default {
         .map(({ type, link }) => {
           return {
             iconComponent: this.getIconComponentName(type),
-            link
+            link,
           };
         })
         .filter(({ iconComponent }) => iconComponent);
@@ -85,8 +85,8 @@ export default {
       return (
         (this.$themeConfig.footer && this.$themeConfig.footer.copyright) || []
       );
-    }
-  }
+    },
+  },
 };
 </script>
 
