@@ -23,21 +23,7 @@
                 </ul>
               </div>
             </div>
-            <div class="card">
-              <div class="card-body">
-                <img class="border rounded rounded-circle d-sm-none d-lg-block mx-auto" :src="$themeConfig.personalPhoto" :alt="$themeConfig.fullName" />
-                <h4 class="card-title">{{ $themeConfig.fullName }}</h4>
-                <h6 class="card-subtitle mb-2 text-muted">Full Stack Software Engineer</h6>
-                <ul class="contact card-text" v-if="contact">
-                  <li class="contact-item" v-for="item in contact">
-                    <a :href="item.link">
-                      <component :is="item.iconComponent"></component>
-                      {{ item.text }}
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
+            <IDCard />
             <div class="card">
               <div class="card-header font-weight-bold">
                 Back End
@@ -73,7 +59,7 @@ import {
   TwitterIcon,
   InstagramIcon,
   LinkedinIcon,
-  RssIcon
+  RssIcon,
 } from "vue-feather-icons";
 
 export default {
@@ -83,7 +69,7 @@ export default {
     TwitterIcon,
     InstagramIcon,
     LinkedinIcon,
-    RssIcon
+    RssIcon,
   },
 
   methods: {
@@ -104,7 +90,7 @@ export default {
         default:
           return "";
       }
-    }
+    },
   },
 
   computed: {
@@ -116,12 +102,12 @@ export default {
         .map(({ type, link }) => {
           return {
             iconComponent: this.getIconComponentName(type),
-            link
+            link,
           };
         })
         .filter(({ iconComponent }) => iconComponent);
-    }
-  }
+    },
+  },
 };
 </script>
 
@@ -132,13 +118,13 @@ export default {
   margin-top: 10px;
   text-align: center;
   width: 100%;
-  
-    img {
-      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-      width: 10rem;
-      transform: scale(1.3);
-      margin-top: 30px;
-      margin-bottom: 50px;
+
+  img {
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+    width: 10rem;
+    transform: scale(1.3);
+    margin-top: 30px;
+    margin-bottom: 50px;
   }
 
   h4 {
@@ -150,7 +136,9 @@ export default {
   }
 
   .contact {
+    padding-left: 0px;
     display: flex;
+    justify-content: center;
     list-style: none;
 
     .contact-item {
@@ -159,7 +147,7 @@ export default {
   }
 }
 
-Footer {
+footer {
   margin-top: 10px;
 }
 </style>
