@@ -18,7 +18,7 @@
                   >View All</a
                 >
               </p><br>
-              <div class="ui-post" v-for="page in pages" :key="page.key">
+              <div v-for="page in pages" :key="page.key">
                 <BlogPostCard :page="page" />
               </div>
             </div>
