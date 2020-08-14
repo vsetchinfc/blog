@@ -4,7 +4,7 @@
       <h4>
         <a v-bind:href="page.path">{{ page.title }}</a>
       </h4>
-      <h6 class="card-subtitle m-3 text-muted">
+      <h6 class="card-subtitle m-3 text-muted pt-3 pb-3">
         {{ page.frontmatter.description }}
         <a class="badge badge-pill badge-light" v-bind:href="page.path"
           >Continue reading...</a

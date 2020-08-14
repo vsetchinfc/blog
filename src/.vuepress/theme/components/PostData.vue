@@ -1,14 +1,8 @@
 <template>
   <div class="post-data">
-    <div class="badge badge-pill badge-primary">
-      <CalendarIcon /> {{ date }}
-    </div>
-    <div class="badge badge-pill badge-primary" v-if="timeToRead">
-      <ClockIcon /> {{ timeToRead }} min read
-    </div>
-    <div class="badge badge-pill badge-primary" v-if="location">
-      <NavigationIcon /> {{ location }}
-    </div>
+    <div class="badge"><CalendarIcon /> {{ date }}</div>
+    <div v-if="timeToRead"><ClockIcon /> {{ timeToRead }} min read</div>
+    <div v-if="location"><NavigationIcon /> {{ location }}</div>
     <div v-if="tags" class="display-flex">
       <router-link
         class="badge badge-pill badge-primary"

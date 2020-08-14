@@ -14,9 +14,24 @@
               <BlogPostCard :page="page" />
             </div>
           </div>
-
-          <Content class="mt-4 mb-4" v-else />
-          <Vssue :title="$title" />
+          <div v-else>
+            <PostData
+              class="mt-3"
+              :date="$frontmatter.date"
+              :timeToRead="$frontmatter.time_to_read"
+              :location="$frontmatter.location"
+              :tags="$frontmatter.tags.slice(0, 3)"
+            />
+            <Content class="mt-4 mb-4" />
+            <PostData
+              class="mt-3"
+              :date="$frontmatter.date"
+              :timeToRead="$frontmatter.time_to_read"
+              :location="$frontmatter.location"
+              :tags="$frontmatter.tags.slice(0, 3)"
+            />
+            <Vssue :title="$title" />
+          </div>
         </content>
       </div>
 
@@ -34,15 +49,18 @@
 </template>
 
 <script>
+import PostData from "@theme/components/PostData.vue";
+
 export default {
-  components: {},
+  components: {
+    PostData,
+  },
   computed: {
     pages() {
       return this.$pagination.pages;
-    }
-  }
+    },
+  },
 };
 </script>
 
-<style>
-</style>
+<style></style>
