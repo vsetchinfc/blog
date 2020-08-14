@@ -1,29 +1,22 @@
 <template>
-  <ul class="list-group list-group-horizontal">
-    <li class="list-group-item border-0">
-      <CalendarIcon />
-      {{ date }}
-    </li>
-    <li class="list-group-item border-0" v-if="timeToRead">
-      <ClockIcon />
-      {{ timeToRead }} min read
-    </li>
-    <li class="list-group-item border-0" v-if="location">
-      <NavigationIcon />
-      {{ location }}
-    </li>
-    <li class="list-group-item border-0" v-if="tags">
-      <div>
-        <router-link
-          class="badge badge-info"
-          v-for="(tag, index) in tags"
-          :key="index"
-          :to="'/tag/' + tag"
-          >#{{ tag }}</router-link
-        >
-      </div>
-    </li>
-  </ul>
+  <div class="post-data">
+    <div class="badge badge-info"><CalendarIcon /> {{ date }}</div>
+    <div class="badge badge-info" v-if="timeToRead">
+      <ClockIcon /> {{ timeToRead }} min read
+    </div>
+    <div class="badge badge-info" v-if="location">
+      <NavigationIcon /> {{ location }}
+    </div>
+    <div v-if="tags" class="display-flex">
+      <router-link
+        class="badge badge-info"
+        v-for="(tag, index) in tags"
+        :key="index"
+        :to="'/tag/' + tag"
+        >#{{ tag }}</router-link
+      >
+    </div>
+  </div>
 </template>
 
 <script>
@@ -36,9 +29,12 @@ export default {
 </script>
 
 <style scoped lang="scss">
-.list-group {
-  .list-group-item {
-    font-size: 0.77em;
+.post-data {
+  display: flex;
+  flex-wrap: wrap;
+
+  div {
+    margin-right: 5px;
 
     a {
       margin-left: 5px;
