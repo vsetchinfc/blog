@@ -7,7 +7,7 @@
     />
     <div class="card-body">
       <h4 class="card-title">{{ $themeConfig.fullName }}</h4>
-      <h6 class="card-subtitle mb-2 text-muted">
+      <h6 class="card-subtitle mb-3 text-muted mt-3">
         Full Stack Software Engineer
       </h6>
       <ul class="contact card-text" v-if="contact">
@@ -88,7 +88,6 @@ export default {
   padding: 20px;
   margin-top: 10px;
   text-align: center;
-  width: 15rem;
 
   img {
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);

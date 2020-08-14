@@ -2,7 +2,7 @@
   <footer>
     <div class="container">
       <div class="row justify-content-between align-items-center">
-        <div class="col-3">
+        <div class="col-2">
           <ul class="contact" v-if="contact">
             <li class="contact-item" v-for="item in contact">
               <a :href="item.link">
