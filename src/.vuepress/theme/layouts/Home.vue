@@ -11,12 +11,13 @@
         <content>
           <div class="row">
             <div class="col">
-              <p class="h2 mt-4 mb-3">
-                New and pinned posts.
+              <p>
+                <div class="h2 float-left">
+                New and pinned posts.</div>
                 <a class="badge badge-pill badge-primary" href="/blog"
                   >View All</a
                 >
-              </p>
+              </p><br>
               <div class="ui-post" v-for="page in pages" :key="page.key">
                 <BlogPostCard :page="page" />
               </div>
