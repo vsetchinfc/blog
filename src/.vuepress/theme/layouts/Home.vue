@@ -12,7 +12,10 @@
           <div class="row">
             <div class="col">
               <p class="h2 mt-4 mb-3">
-                New and pinned posts. <a href="/blog">View All</a>
+                New and pinned posts.
+                <a class="badge badge-pill badge-primary" href="/blog"
+                  >View All</a
+                >
               </p>
               <div class="ui-post" v-for="page in pages" :key="page.key">
                 <BlogPostCard :page="page" />
@@ -52,4 +55,8 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.badge-primary {
+  background-color: rgba(32, 97, 150, 1);
+}
+</style>

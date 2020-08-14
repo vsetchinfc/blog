@@ -6,6 +6,9 @@
     <div class="card-body">
       <h6 class="card-subtitle m-3 text-muted">
         {{ page.frontmatter.description }}
+        <a class="badge badge-pill badge-light" v-bind:href="page.path"
+          >Continue reading...</a
+        >
       </h6>
     </div>
     <div class="card-footer">
