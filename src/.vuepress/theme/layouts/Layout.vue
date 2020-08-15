@@ -15,21 +15,21 @@
             </div>
           </div>
           <div v-else>
-            <PostData
+            <!-- <PostData
               class="mt-3"
               :date="$frontmatter.date"
               :timeToRead="$frontmatter.time_to_read"
               :location="$frontmatter.location"
               :tags="$frontmatter.tags.slice(0, 3)"
-            />
+            /> -->
             <Content class="mt-4 mb-4" />
-            <PostData
+            <!-- <PostData
               class="mt-3"
               :date="$frontmatter.date"
               :timeToRead="$frontmatter.time_to_read"
               :location="$frontmatter.location"
               :tags="$frontmatter.tags.slice(0, 3)"
-            />
+            /> -->
             <Vssue :title="$title" />
           </div>
         </content>
