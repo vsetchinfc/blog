@@ -33,10 +33,11 @@ export default {
   computed: {
     pages() {
       return this.$pagination.pages;
-    }
-  }
+    },
+  },
 };
 </script>
 
-<style scoped lang="scss">
-</style>
+<style src="prismjs/themes/prism-tomorrow.css"></style>
+
+<style scoped lang="scss"></style>

@@ -4,7 +4,7 @@ module.exports = {
   theme: "@vuepress/theme-blog",
   dest: "docs",
   markdown: {
-    lineNumbers: true
+    //lineNumbers: true,
   },
   themeConfig: {
     fullName: "Vlad Setchin",
@@ -13,7 +13,7 @@ module.exports = {
       { text: "Home", link: "/", exact: true },
       { text: "Blog", link: "/blog", exact: true },
       { text: "Projects", link: "/projects" },
-      { text: "About", link: "/about", exact: true }
+      { text: "About", link: "/about", exact: true },
     ],
     footer: {
       contact: [
@@ -27,74 +27,97 @@ module.exports = {
         },
         {
           type: "linkedin",
-          link: "https://www.linkedin.com/in/vladsetchin"
-        }
+          link: "https://www.linkedin.com/in/vladsetchin",
+        },
       ],
       copyright: [
         {
           text: `Content Copyright © 2018-${new Date().getFullYear()} Vlad Setchin.`,
-          link: ""
-        }
-      ]
-    }
-  },
-  plugins: [
-    ['@vuepress/blog', {
-      directories: [{
-        id: 'post',
-        dirname: '_posts',
-        path: '/blog/',
-        layout: 'Blog',
-        //itemLayout: 'Blog',
-        pagination: {
-          lengthPerPage: 20
-        }
-      }],
-      frontmatters: [
-        {
-          // Unique ID of current classification
-          id: 'tag',
-          // Decide that the frontmatter keys will be grouped under this classification
-          keys: ['tag', 'tags'],
-          // Path of the `entry page` (or `list page`)
-          path: '/tag/',
-          frontmatter: { title: "Tag" },
-          // Layout of the `entry page`
-          layout: 'Tag',
-          pagination: {
-            lengthPerPage: 5
-          }
+          link: "",
         },
       ],
-      sitemap: {
-        hostname: 'https://vladsetchin.me'
+    },
+  },
+  plugins: [
+    [
+      "@vuepress/blog",
+      {
+        directories: [
+          {
+            id: "post",
+            dirname: "_posts",
+            path: "/blog/",
+            layout: "Blog",
+            //itemLayout: 'Blog',
+            pagination: {
+              lengthPerPage: 20,
+            },
+          },
+        ],
+        frontmatters: [
+          {
+            // Unique ID of current classification
+            id: "tag",
+            // Decide that the frontmatter keys will be grouped under this classification
+            keys: ["tag", "tags"],
+            // Path of the `entry page` (or `list page`)
+            path: "/tag/",
+            frontmatter: { title: "Tag" },
+            // Layout of the `entry page`
+            layout: "Tag",
+            pagination: {
+              lengthPerPage: 5,
+            },
+          },
+        ],
+        sitemap: {
+          hostname: "https://vladsetchin.me",
+        },
       },
-    }],
-    ['social-share', {
-      networks: ['twitter', 'facebook', 'reddit', 'telegram']
-    }],
-    ['@vuepress/google-analytics', {
-      'ga': 'UA-154920711-1' // UA-00000000-0
-    }],
-    ['vuepress-plugin-google-adsense', {
-      'google_ad_client': 'ca-pub-4860584003271351', // ca-pub-0000000000000000
-      'enable_page_level_ads': true
-    }],
-    ['@vuepress/search', {
-      searchMaxSuggestions: 10
-    }],
-    ['@vssue/vuepress-plugin-vssue', {
-      // set `platform` rather than `api`
-      platform: 'github-v4',
+    ],
+    [
+      "social-share",
+      {
+        networks: ["twitter", "facebook", "reddit", "telegram"],
+      },
+    ],
+    [
+      "@vuepress/google-analytics",
+      {
+        ga: "UA-154920711-1", // UA-00000000-0
+      },
+    ],
+    [
+      "vuepress-plugin-google-adsense",
+      {
+        google_ad_client: "ca-pub-4860584003271351", // ca-pub-0000000000000000
+        enable_page_level_ads: true,
+      },
+    ],
+    [
+      "@vuepress/search",
+      {
+        searchMaxSuggestions: 10,
+      },
+    ],
+    [
+      "@vssue/vuepress-plugin-vssue",
+      {
+        // set `platform` rather than `api`
+        platform: "github-v4",
 
-      // all other options of Vssue are allowed
-      owner: 'vsetchinfc',
-      repo: 'blog',
-      clientId: '654da0c6f4529b88753a',
-      clientSecret: '9c41258fd0adc856de8fe8a725a2e5aa9791306d',
-    }],
-    ['vuepress-plugin-table-of-contents', {
-      includeLevel: [2, 4]
-    }]
-  ]
-}
+        // all other options of Vssue are allowed
+        owner: "vsetchinfc",
+        repo: "blog",
+        clientId: "654da0c6f4529b88753a",
+        clientSecret: "9c41258fd0adc856de8fe8a725a2e5aa9791306d",
+      },
+    ],
+    [
+      "vuepress-plugin-table-of-contents",
+      {
+        includeLevel: [2, 4],
+      },
+    ],
+  ],
+};
