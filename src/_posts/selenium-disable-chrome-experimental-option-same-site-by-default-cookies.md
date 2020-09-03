@@ -19,11 +19,14 @@ var chromeOptions = new ChromeOptions();
 var experimentalFlags = new List<string>();
 experimentalFlags.Add("same-site-by-default-cookies@2");
 experimentalFlags.Add("cookies-without-same-site-must-be-secure@2");
-chromeOptions.AddLocalStatePreference("browser.enabled_labs_experiments", experimentalFlags);
+chromeOptions.AddLocalStatePreference("browser.enabled_labs_experiments",
+    experimentalFlags);
 ```
 
 <br>
 
 ### References
+
+---
 
 - This code snippet was originally posted on [Stackoverflow](https://stackoverflow.com/a/63697020/6142236)
