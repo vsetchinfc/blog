@@ -32,7 +32,7 @@ module.exports = {
       ],
       copyright: [
         {
-          text: `Content Copyright © 2018-${new Date().getFullYear()} Vlad Setchin.`,
+          text: `Copyright © ${new Date().getFullYear()} Vlad Setchin.`,
           link: "",
         },
       ],

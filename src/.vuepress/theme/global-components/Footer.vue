@@ -2,7 +2,7 @@
   <footer>
     <div class="container">
       <div class="row justify-content-between align-items-center">
-        <div class="col-2">
+        <div class="col-lg-2 col-sm-12">
           <ul class="contact" v-if="contact">
             <li class="contact-item" v-for="item in contact">
               <a :href="item.link">
@@ -13,7 +13,7 @@
           </ul>
         </div>
 
-        <div class="col-3">
+        <div class="col-lg-3 col-sm-12">
           <ul class="copyright" v-if="copyright">
             <li class="copyright-item" v-for="item in copyright">
               <a :href="item.link">{{ item.text }}</a>
@@ -96,53 +96,54 @@ footer {
   background: rgba(32, 97, 150, 1);
   padding: 15px 32px;
   box-sizing: border-box;
-}
 
-ol,
-ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.contact {
-  display: flex;
-  margin-bottom: 5px;
-}
-
-.contact-item {
-  flex: 1;
-  margin-right: 10px;
-}
-
-a {
-  font-size: 12px;
-  color: #ffffff;
-  text-decoration: none;
-  transition: color 0.3s;
-
-  &:hover {
-    color: grey;
+  ol,
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
   }
-}
 
-.copyright {
-  display: flex;
-  justify-content: flex-end;
+  .contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
 
-  .copyright-item {
-    flex: 0 0 auto;
-    padding: 0 10px;
-    position: relative;
-    line-height: 16px;
-    border-right: 1px solid rgba(255, 255, 255, 0.6);
-
-    a {
-      font-size: 16px;
+    .contact-item {
+      flex: 1;
     }
+  }
 
-    &:last-child {
-      border-right: none;
+  .copyright {
+    display: flex;
+    justify-content: center;
+
+    .copyright-item {
+      flex: 0 0 auto;
+      padding: 0 10px;
+      position: relative;
+      line-height: 16px;
+      border-right: 1px solid rgba(255, 255, 255, 0.6);
+
+      a {
+        font-size: 16px;
+      }
+
+      &:last-child {
+        border-right: none;
+      }
+    }
+  }
+
+  a {
+    font-size: 12px;
+    color: #ffffff;
+    text-decoration: none;
+    transition: color 0.3s;
+
+    &:hover {
+      color: grey;
     }
   }
 }
