@@ -4,7 +4,6 @@ published: true
 slug: how-to-change-directory-casing-on-github-repository
 tags:
   - coding
-  - new
   - github
 time_to_read: 1
 title: How to change directory casing on github repository
