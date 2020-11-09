@@ -4,7 +4,6 @@ published: true
 slug: setup-unit-tests-code-coverage-in-vscode-for-dotnet-core-projects
 tags:
   - coding
-  - new
   - C#
   - .net core
   - unit tests
@@ -13,7 +12,8 @@ title: Setup unit tests code coverage in VS Code for .Net Core projects
 description: When working on the project, does not matter how big or small, having written unit tests, integration tests, it is like having safety net under you before walking the thin line of changing functionality. Code coverage reporting after running tests helps track how much of the production code is covered by tests.
 ---
 
-![AspNet Core](/images/dotnet-core-coverage-gutters.jpg)
+<img src="/images/dotnet-core-coverage-gutters.jpg" alt=".Net Core Coverage Gutters"
+	title=".Net Core Coverage Gutters" style="width: 100%" />
 
 When working on the project, does not matter how big or small, having written unit tests, integration tests, it is like having safety net under you before walking the thin line of changing functionality. Code coverage reporting after running tests helps track how much of the production code is covered by tests. It is impossible to reach 100% of code coverage and some companies set the code coverage bar as high as %94 - %97.
 

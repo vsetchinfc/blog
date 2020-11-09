@@ -4,7 +4,6 @@ published: true
 slug: using-automapper-in-webapi-core
 tags:
   - coding
-  - new
   - C#
   - .net core
 time_to_read: 5
@@ -12,7 +11,8 @@ title: Using AutoMapper & Heroic AutoMapper in .Net Core WebApi
 description: AutoMapper is a library that helps to write clean code by removing need to explicitly map one object to another by hand. In this post I am going to discuss how to add AutoMapper to WebApi .Net Core project and use Heroic.AutoMapper to write cleaner mapping interfaces between objects.
 ---
 
-![AspNet Core](/images/asp-net-core.jpg)
+<img src="/images/asp-net-core.jpg" alt="AspNet Core"
+	title="AspNet Core" style="width: 100%" />
 
 AutoMapper is a library that helps to write clean code by removing need to explicitly map one object to another by hand. In this post I am going to discuss how to add AutoMapper to WebApi .Net Core project and use Heroic.AutoMapper to write cleaner mapping interfaces between objects.
 
