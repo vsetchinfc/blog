@@ -70,7 +70,7 @@ Below is a list of requirements the site should implement:
 
 1. Responsive site layout with multiple pages and list of blog posts
 2. Bootstrap framework for styling
-3. Comments based on Github Issue and Preact
+3. Comments based on Disqus
    <br/>
    <br/>
 
@@ -80,5 +80,5 @@ Below is a list of requirements the site should implement:
 
 - [Bootstrap](https://getbootstrap.com/) - CSS Framework
 - [Paletton](http://paletton.com) - The Color Scheme Designer
-- Comments based on Github Issue and Preact
 - [Markdown Guide](https://www.markdownguide.org/)
+- [Disqus](https://disqus.com/)
