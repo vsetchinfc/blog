@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{365:function(e,n,t){"use strict";t.r(n);var s={},a=t(12),r=Object(a.a)(s,(function(){var e=this.$createElement,n=this._self._c||e;return n("aside",[n("IDCard"),this._v(" "),n("TagsCard")],1)}),[],!1,null,null,null);n.default=r.exports}}]);
