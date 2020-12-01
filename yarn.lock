@@ -929,14 +929,6 @@
     "@vssue/utils" "^1.4.0"
     axios "^0.18.1"
 
-"@vssue/api-github-v4@^1.4.0":
-  version "1.4.0"
-  resolved "https://registry.yarnpkg.com/@vssue/api-github-v4/-/api-github-v4-1.4.0.tgz#30defd2220ff50e5ed4c50159e42eba52b004748"
-  integrity sha512-AdMYX62zXolvbJl0YoLjMQfoyIaK+pso2TVb34L+tjqfxgfubRm6mE/pWU7cKLiWMn6IaiS0LotC2O4y/omqDQ==
-  dependencies:
-    "@vssue/utils" "^1.4.0"
-    axios "^0.18.1"
-
 "@vssue/utils@^1.4.0":
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@vssue/utils/-/utils-1.4.0.tgz#3cc2fd8492a3409e343289981e2209b6ca2f8313"
@@ -945,7 +937,7 @@
     date-fns "^1.29.0"
     qs "^6.6.0"
 
-"@vssue/vuepress-plugin-vssue@^1.2.0", "@vssue/vuepress-plugin-vssue@^1.4.6":
+"@vssue/vuepress-plugin-vssue@^1.2.0":
   version "1.4.6"
   resolved "https://registry.yarnpkg.com/@vssue/vuepress-plugin-vssue/-/vuepress-plugin-vssue-1.4.6.tgz#0a231095f58b29bbd64c9ea964fa73add909ccfd"
   integrity sha512-oP63mMvue54ASrfMJVTpmT74is4eU2OeAqDqSOLYUytpqgba2AKPXnq6xhY8fua/+hxpttq0pOVajF6GL4WTgg==

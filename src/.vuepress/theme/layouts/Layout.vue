@@ -30,7 +30,8 @@
               :location="$frontmatter.location"
               :tags="$frontmatter.tags.slice(0, 3)"
             /> -->
-            <Vssue :title="$title" />
+            <h3>Comments</h3>
+            <Disqus :identifier="identifier" />
           </div>
         </content>
       </div>
@@ -58,6 +59,9 @@ export default {
   computed: {
     pages() {
       return this.$pagination.pages;
+    },
+    identifier() {
+      return `${this.$frontmatter.slug}.html`;
     },
   },
 };

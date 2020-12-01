@@ -101,16 +101,9 @@ module.exports = {
       },
     ],
     [
-      "@vssue/vuepress-plugin-vssue",
+      "disqus",
       {
-        // set `platform` rather than `api`
-        platform: "github-v4",
-
-        // all other options of Vssue are allowed
-        owner: "vsetchinfc",
-        repo: "blog",
-        clientId: "654da0c6f4529b88753a",
-        clientSecret: "9c41258fd0adc856de8fe8a725a2e5aa9791306d",
+        shortname: "vladsetchin-me",
       },
     ],
     [
