@@ -6,6 +6,7 @@ tags:
   - coding
   - selenium
   - C#
+  - updated
 time_to_read: 1
 title: How can I disable Chrome experimental option same-site-by-default-cookies in C#  Selenium?
 description: C# code snippet to add same-site-by-default-cookies option to Selenium ChromeOptions
