@@ -21,7 +21,7 @@
             </h6>
           </div>
           <div class="col-lg-3">
-            <img v-if="page.frontmatter.image" v-bind:src="page.frontmatter.image" alt="Blog Image" style="width: 100%"></img>
+            <img v-if="page.frontmatter.image" v-bind:src="page.frontmatter.image" alt="Blog Image" class="w-100"></img>
           </div>
         </div>
       </div>
