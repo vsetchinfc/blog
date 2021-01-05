@@ -54,18 +54,20 @@
 				<div class="col-lg-8 col-sm-12 mt-4">
 					<div class="card card-body border-0">
 						<h4 class="card-title">CamelCase result example</h4>
-						<table class="table table-bordered">
-							<tbody>
-								<tr>
-									<td><strong>Input</strong></td>
-									<td>The CamelCase Converter converts text to CamelCase.</td>
-								</tr>
-								<tr>
-									<td><strong>Output</strong></td>
-									<td>TheCamelcaseConverterConvertsTextToCamelcase</td>
-								</tr>
-							</tbody>
-						</table>
+						<div class="table-responsive">
+							<table class="table table-bordered">
+								<tbody>
+									<tr>
+										<td><strong>Input</strong></td>
+										<td>The CamelCase Converter converts text to CamelCase.</td>
+									</tr>
+									<tr>
+										<td><strong>Output</strong></td>
+										<td>TheCamelcaseConverterConvertsTextToCamelcase</td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
 					</div>
 				</div>
 			</div>
