@@ -17,5 +17,10 @@
         "statusBarItem.hoverBackground": "#428299",
         "statusBar.foreground": "#15202b"
     },
-    "peacock.color": "#579eb7"
+    "peacock.color": "#579eb7",
+    "spellchecker.ignoreWordsList": [
+        "href",
+        "CaseConverter",
+        "SmulePlayer"
+    ]
 }
