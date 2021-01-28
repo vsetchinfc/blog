@@ -9,7 +9,11 @@ tags:
 time_to_read: 2
 title: Python Learning Resources
 description: In the time of information overload and rapid technology advancement it is really hard to follow and try out all the interesting projects, articles and samples.
+image: "/images/python-programming.png"
 ---
+
+<img src="/images/python-programming.png" alt="Python Programming"
+	title="Python Programming" class="w-100" />
 
 In the time of information overload and rapid technology advancement it is really hard to follow and try out all the interesting projects, articles and samples. I have compiled a list of resources for Python that I am interested to try and review and share. I will split resources by topics.
 <br>
@@ -48,6 +52,15 @@ _"Download free Python eBooks in pdf format or read Python books online."_
 
 **[What Can You Do with Python? - The 3 Main Applications](https://tinyurl.com/y334mpvc)**<br>
 _"What is Python used for? What can you do with Python? Watch this video to find out."_
+
+**[Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI&list=WL&index=16&t=1486s)**<br>
+_"This Python 3 tutorial course aims to teach everyone the basics of programming computers using Python. The course has no pre-requisites and avoids all but the simplest mathematics."_
+
+**[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw&list=WL&index=5)**<br>
+_"This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!"_
+
+**[Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc&list=WL&index=61)**<br>
+_"Learn Python in this full tutorial course for beginners. This course takes a project-based approach. We have collected five great Python game tutorials together so you can learn Python while building five games. If you learn best by doing, this is the course for you."_
 
 **[Python Tutorials for Absolute Beginners by CS Dojo](https://tinyurl.com/yav8q35o)**<br>
 <br>
