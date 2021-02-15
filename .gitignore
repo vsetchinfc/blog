@@ -12,3 +12,4 @@ basement_dist
 .directory
 yarn-error.log
 package-lock.json
+.temp
