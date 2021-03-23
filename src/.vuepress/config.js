@@ -3,6 +3,7 @@ module.exports = {
   description: "HOME - Vlad Setchin personal site and blog | VLADSETCHIN.ME",
   theme: "@vuepress/theme-blog",
   dest: "docs",
+  head: [["link", { rel: "shortcut icon", href: "/favicon.ico" }]],
   markdown: {
     //lineNumbers: true,
   },
