@@ -9,7 +9,11 @@ tags:
 time_to_read: 2
 title: Online coding playgrounds
 description: Code playground is an online environment that allows you to write code, run it and share, collaborate with others. It allows you to try different technologies without the need to install required tools and libraries.
+image: "/images/coding_playgrounds.png"
 ---
+
+<img src="/images/coding_playgrounds.png" alt="Online Coding Playgrounds"
+	title="Online Coding Playgrounds" class="w-100" />
 
 ## Online coding playgrounds
 
