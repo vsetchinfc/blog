@@ -1,5 +1,5 @@
 ---
-date: "2021-03-26"
+date: "2021-05-26"
 published: true
 slug: vuejs-learning-resources
 tags:
@@ -15,7 +15,7 @@ image: "/images/vuejs-leaning-resources.png"
 <img src="/images/vuejs-leaning-resources.png" alt="Vue JS Learning Resources"
 	title="Vue JS Learning Resources" class="w-100" />
 
-In the time of information overload and rapid technology advancement it is really hard to follow and try out all the interesting projects, articles and samples. I have compiled a list of resource for Vue JS framework that I am interested to try and review and share. I will split resources by topics.
+In the time of information overload and rapid technological advancement, it is really hard to follow and try out all the interesting projects, articles and samples. I have compiled a list of resources for the Vue JS framework that I am interested in reviewing and sharing. I will split resources by topics.
 <br>
 <br>
 
