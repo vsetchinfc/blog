@@ -75,8 +75,8 @@ In the time of information overload and rapid technology advancement it is reall
 
 |        |          |
 | ------ | -------- |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
+| <img src="/images/vuejs-leaning-resources-p10.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Learn Vue.js from Scratch - Full Course for Beginners]()** <br> "Learn and master one of the most popular frontend frameworks by building awesome projects" |
+| <img src="/images/vuejs-leaning-resources-p11.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue JS - Learning the Basics](https://academind.com/tutorials/vuejs-learning-the-basics/)** <br> "Vue.js is extremely popular. Learn the 7 core concepts, experience it on your own and start your Vue.js journey right now!" |
 <br>
 <br>
 
