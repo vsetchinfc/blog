@@ -42,7 +42,18 @@ In the time of information overload and rapid technology advancement it is reall
 | ------ | -------- |
 | <img src="/images/vuejs-leaning-resources-p7.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[How to structure a Vue project  Authentication](https://morioh.com/p/4bb19aa8ea3e/how-to-structure-a-vue-project-authentication)** <br> "We will build a simple project that handles authentication and prepare basic scaffolding to use when building the rest of the app." |
 | <img src="/images/vuejs-leaning-resources-p8.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[User Authentication with Vue.js, ASP.NET Core 2 and Facebook Login](https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login)** <br> "How to setup JWT authentication with ASP.NET Core 2, Vue.Js, and Facebook OAuth." |
-| <img src="/images/vuejs-leaning-resources-p9.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Google OAuth2 with VueJS and Vert.x]()** <br>    |
+| <img src="/images/vuejs-leaning-resources-p9.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Google OAuth2 with VueJS and Vert.x](https://school.geekwall.in/p/ByFQL2EDE/google-oauth2-with-vuejs-and-vert-x)** <br> "Create a simple VueJS frontend app running on a Vert.x backend, providing login with Google OAuth2 from scratch" |
+| <img src="/images/vue_js_auth.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Managing User Permissions in a VueJS App](https://vuejsdevelopers.com/2018/01/08/vue-js-roles-permissions-casl/?utm_source=twitter-vjd&utm_medium=post&utm_campaign=vrp)** <br> "In authenticated frontend apps, we often want to change what's visible to the user depending on their assigned role. For example, a guest user might be able to see a post, but only a registered user or an admin sees a button to edit that post." |
+| <img src="/images/vuejs-leaning-resources-p9.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[User Registration and Login with Vue.js and Vuex](https://morioh.com/p/4c0743fb1ca1)** <br> "In this tutorial we'll go through an example of how to build a simple user registration and login system using Vue.js and Vuex + Webpack 4.16" |
+<br>
+<br>
+
+### Vue.JS Best Practices and Tips
+
+---
+
+|        |          |
+| ------ | -------- |
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
@@ -51,4 +62,66 @@ In the time of information overload and rapid technology advancement it is reall
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+<br>
+<br>
+
+### Vue.Js Courses
+
+---
+
+|        |          |
+| ------ | -------- |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+<br>
+<br>
+
+### Vue.Js resources on YouTube 
+
+---
+
+|        |          |
+| ------ | -------- |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+<br>
+<br>
+
+### Native Mobile Apps
+
+---
+
+|        |          |
+| ------ | -------- |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+<br>
+<br>
+
+### Testing Vue.Js Apps
+
+---
+
+|        |          |
+| ------ | -------- |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+| New Row         | **[]()** <br>    |
+<br>
+<br>
+
+### Books
+
+---
+
+|        |          |
+| ------ | -------- |
 | New Row         | **[]()** <br>    |
