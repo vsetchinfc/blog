@@ -42,7 +42,7 @@ In the time of information overload and rapid technology advancement it is reall
 | ------ | -------- |
 | <img src="/images/vuejs-leaning-resources-p7.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[How to structure a Vue project  Authentication](https://morioh.com/p/4bb19aa8ea3e/how-to-structure-a-vue-project-authentication)** <br> "We will build a simple project that handles authentication and prepare basic scaffolding to use when building the rest of the app." |
 | <img src="/images/vuejs-leaning-resources-p8.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[User Authentication with Vue.js, ASP.NET Core 2 and Facebook Login](https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login)** <br> "How to setup JWT authentication with ASP.NET Core 2, Vue.Js, and Facebook OAuth." |
-| New Row         | **[]()** <br>    |
+| <img src="/images/vuejs-leaning-resources-p9.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Google OAuth2 with VueJS and Vert.x]()** <br>    |
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
