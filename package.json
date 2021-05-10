@@ -28,6 +28,7 @@
     "scss-loader": "^0.0.1",
     "vue-feather-icons": "^5.1.0",
     "vuepress": "^1.8.0",
+    "vuepress-plugin-autometa": "^0.1.13",
     "vuepress-plugin-google-adsense": "^0.1.1",
     "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-plugin-social-share": "^1.0.0",
