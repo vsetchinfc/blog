@@ -75,7 +75,7 @@ In the time of information overload and rapid technological advancement, it is r
 
 |        |          |
 | ------ | -------- |
-| <img src="/images/vuejs-leaning-resources-p10.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Learn Vue.js from Scratch - Full Course for Beginners]()** <br> "Learn and master one of the most popular frontend frameworks by building awesome projects" |
+| <img src="/images/vuejs-leaning-resources-p10.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Learn Vue.js from Scratch - Full Course for Beginners](https://school.geekwall.in/p/ryGQ93abH/learn-vue-js-from-scratch-full-course-for-beginners)** <br> "Learn and master one of the most popular frontend frameworks by building awesome projects" |
 | <img src="/images/vuejs-leaning-resources-p11.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue JS - Learning the Basics](https://academind.com/tutorials/vuejs-learning-the-basics/)** <br> "Vue.js is extremely popular. Learn the 7 core concepts, experience it on your own and start your Vue.js journey right now!" |
 <br>
 <br>
@@ -86,11 +86,11 @@ In the time of information overload and rapid technological advancement, it is r
 
 |        |          |
 | ------ | -------- |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
+| <img src="/images/vuejs-leaning-resources-p10.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[VueJS Build A Todo App - Code On-The-Fly](https://www.youtube.com/watch?v=IBDVWntKQZ4&ab_channel=LizChow)** <br> "Want to create TODO App with Vue JS? Here is how!" |
+| <img src="/images/vuejs-leaning-resources-p12.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vuex Crash Course - State Management](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)** <br> "In this video we will build an application using Vue.js with the Vuex state management library." <br>    |
+| <img src="/images/vuejs-leaning-resources-p10.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc&list=WL&index=44&t=17s&ab_channel=freeCodeCamp.org)** <br> "Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications." |
+| <img src="/images/vuejs-leaning-resources-p14.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Build a PWA With Vue & Ionic 4](https://www.youtube.com/watch?v=6H1wftPS0oo&list=WL&index=75&ab_channel=TraversyMedia)** <br> "In this project we will built a progressive web app with Vue.js and Ionic 4. We will use the @ionic/vue package and the @vue/pwa plugin to do this." |
+| <img src="/images/vuejs-leaning-resources-p15.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Natalia Tepluhina - Vue 3 - Looking into the Vueture: Composition Functions - ComponentsConf 2019](https://www.youtube.com/watch?v=dy_ZB1TyFx4&list=WL&index=79&t=7s&ab_channel=ComponentsConf)** <br> "ComponentsConf 2019 - Australian JavaScript conference with exclusive focus on frontend frameworks & libs. Vue 3 brings us a new feature: composition functions, a way of declaring component logic using function calls.  In this talk I will show how composition functions work and in which cases they are better than 'usual' object syntax" |
 <br>
 <br>
 
