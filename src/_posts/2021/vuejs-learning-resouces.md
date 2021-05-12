@@ -101,7 +101,7 @@ In the time of information overload and rapid technological advancement, it is r
 |        |          |
 | ------ | -------- |
 | <img src="/images/vuejs-leaning-resources-p16.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Vue Native](https://vue-native.io/)** <br> "Vue Native is a framework to build cross platform native mobile apps using JavaScript" |
-| <img src="/images/vuejs-leaning-resources-p17.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[NativeScript and Vue.js]()** <br> "Vue.js is a lightweight framework for building engaging user interfaces. NativeScript powers cross-platform (truly native) mobile apps, using the web skills you already know. Combined they are a fantastic pair for developing immersive mobile experiences." |
+| <img src="/images/vuejs-leaning-resources-p17.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[NativeScript and Vue.js](https://nativescript.org/)** <br> "Vue.js is a lightweight framework for building engaging user interfaces. NativeScript powers cross-platform (truly native) mobile apps, using the web skills you already know. Combined they are a fantastic pair for developing immersive mobile experiences." |
 <br>
 <br>
 
