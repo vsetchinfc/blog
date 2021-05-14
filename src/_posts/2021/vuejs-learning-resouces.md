@@ -111,10 +111,10 @@ In the time of information overload and rapid technological advancement, it is r
 
 |        |          |
 | ------ | -------- |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
+| <img src="/images/vuejs-leaning-resources-p0.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Vue Test Utils](https://vue-test-utils.vuejs.org/)** "Vue Test Utils is the official unit testing utility library for Vue.js." |
+| <img src="/images/vuejs-leaning-resources-p18.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Testing Vue with Jest](https://morioh.com/p/0bacfcdc8dd2/testing-vue-with-jest)** "In this article to show how to setup Jest in an Vue.js application. This will guide you through everything in a blank Vue.js template to test components and more" |
+| <img src="/images/vuejs-leaning-resources-p19.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How to Test Your Vue Project with Jest and Nightwatch](https://school.geekwall.in/p/HyC66CkVB/how-to-test-your-vue-project-with-jest-and-nightwatch)** "Testing is a vital part of the development cycle and a part of life for programmers and developers. ..." |
+| <img src="/images/vuejs-leaning-resources-p20.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Unit Testing in Vue: What to Test?](https://www.vuemastery.com/blog/unit-testing-vue-1/)** "Every developer knows that they should be writing tests, but in reality, many of us don’t do it at all or we aren’t doing enough of it. The problem isn’t the lack of tools, it’s that we don’t have a clear understanding of what these tools are meant to do." |
 <br>
 <br>
 
@@ -124,4 +124,4 @@ In the time of information overload and rapid technological advancement, it is r
 
 |        |          |
 | ------ | -------- |
-| New Row         | **[]()** <br>    |
+| <img src="/images/vuejs-leaning-resources-p21.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Pro Vue.js 2](https://software-development-toolbox.blogspot.com/2019/09/vuejs-learning-resources_25.html)** "Explore Vue.js to take advantage of the capabilities of modern browsers and devices using the fastest-growing framework for building dynamic JavaScript applications. You will work with the power of the Model-View-Controller (MVC) pattern on the client, creating a strong foundation for complex and rich web apps." |
