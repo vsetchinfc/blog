@@ -54,9 +54,9 @@ In the time of information overload and rapid technological advancement, it is r
 
 |        |          |
 | ------ | -------- |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
-| New Row         | **[]()** <br>    |
+| <img src="/images/vuejs-leaning-resources-p22.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Common mistakes to avoid while working with Vue.js](https://www.freecodecamp.org/news/common-mistakes-to-avoid-while-working-with-vue-js-10e0b130925b/)** <br> "In this article, I’d like to share a few common issues that you may have to deal with when working with Vue.js." |
+| <img src="/images/vuejs-leaning-resources-p23.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Managing Vue state in Vue.js applications with Vuex]()** "As you write applications with Vue and take advantage of its support for components, you will need to decide how to manage the state of your application..." |
+| New Row         | **[Accessing the virtual DOM using render functions in Vue JS]()** <br>    |
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
 | New Row         | **[]()** <br>    |
