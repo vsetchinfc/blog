@@ -1,3 +1,11 @@
+const autometa_options = {
+  site: {
+    name: "Vlad Setchin",
+    twitter: "vladsetchin",
+  },
+  canonical_base: "https://vladsetchin.me",
+};
+
 module.exports = {
   title: "VLADSETCHIN.ME",
   description: "HOME - Vlad Setchin personal site and blog | VLADSETCHIN.ME",
@@ -113,5 +121,6 @@ module.exports = {
         includeLevel: [2, 4],
       },
     ],
+    ["autometa", autometa_options],
   ],
 };
