@@ -8,7 +8,7 @@ tags:
   - vuejs
 time_to_read: 5
 title: Vue.JS Learning Resources
-description: In the time of information overload and rapid technology advancement it is really hard to follow and try out all the interesting projects, articles and samples.
+description: In the time of information overload and rapid technological advancement, it is really hard to follow and try out all the interesting projects, articles and samples.
 image: "/images/vuejs-learning-resources/vuejs-leaning-resources.png"
 ---
 
@@ -55,9 +55,9 @@ In the time of information overload and rapid technological advancement, it is r
 |        |          |
 | ------ | -------- |
 | <img src="/images/vuejs-learning-resources/p22.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Common mistakes to avoid while working with Vue.js](https://www.freecodecamp.org/news/common-mistakes-to-avoid-while-working-with-vue-js-10e0b130925b/)** <br> "In this article, I’d like to share a few common issues that you may have to deal with when working with Vue.js." |
-| <img src="/images/vuejs-learning-resources/p23.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Managing Vue state in Vue.js applications with Vuex]()** <br> "As you write applications with Vue and take advantage of its support for components, you will need to decide how to manage the state of your application..." |
-| <img src="/images/vuejs-learning-resources/p26.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Accessing the virtual DOM using render functions in Vue JS]()** <br> "In this post, we will look at how to use render functions to unleash the power of JavaScript by using templates in Vue." |
-| <img src="/images/vuejs-learning-resources/p25.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Working with Dynamic Components in Vue.js]()** <br> "To understand what is a dynamic component, let's consider an example. Suppose we are developing a commenting platform where user can come and post a comment on the article. Posting of comment for the logged-in and logged-out user is different..." |
+| <img src="/images/vuejs-learning-resources/p23.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Managing Vue state in Vue.js applications with Vuex](https://www.dotnetcurry.com/vuejs/1454/using-vuex-manage-vuejs-state)** <br> "As you write applications with Vue and take advantage of its support for components, you will need to decide how to manage the state of your application..." |
+| <img src="/images/vuejs-learning-resources/p26.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Accessing the virtual DOM using render functions in Vue JS](https://morioh.com/p/e553f1df2aaf/accessing-the-virtual-dom-using-render-functions-in-vue-js)** <br> "In this post, we will look at how to use render functions to unleash the power of JavaScript by using templates in Vue." |
+| <img src="/images/vuejs-learning-resources/p25.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Working with Dynamic Components in Vue.js](https://medium.com/@deepaksisodiya/working-with-dynamic-components-in-vue-js-e956a66ee49a)** <br> "To understand what is a dynamic component, let's consider an example. Suppose we are developing a commenting platform where user can come and post a comment on the article. Posting of comment for the logged-in and logged-out user is different..." |
 | <img src="/images/vuejs-learning-resources/p26.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How to avoid SOLID principles violations in Vue. JS application](https://itnext.io/https-medium-com-manuustenko-how-to-avoid-solid-principles-violations-in-vue-js-application-1121a0df6197)** <br> "In this article I’d like to discuss how can we avoid SOLID principles violation in our Vue.JS project." |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
