@@ -59,6 +59,11 @@ In the time of information overload and rapid technological advancement, it is r
 | <img src="/images/vuejs-learning-resources/p26.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Accessing the virtual DOM using render functions in Vue JS](https://morioh.com/p/e553f1df2aaf/accessing-the-virtual-dom-using-render-functions-in-vue-js)** <br> "In this post, we will look at how to use render functions to unleash the power of JavaScript by using templates in Vue." |
 | <img src="/images/vuejs-learning-resources/p25.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Working with Dynamic Components in Vue.js](https://medium.com/@deepaksisodiya/working-with-dynamic-components-in-vue-js-e956a66ee49a)** <br> "To understand what is a dynamic component, let's consider an example. Suppose we are developing a commenting platform where user can come and post a comment on the article. Posting of comment for the logged-in and logged-out user is different..." |
 | <img src="/images/vuejs-learning-resources/p26.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How to avoid SOLID principles violations in Vue. JS application](https://itnext.io/https-medium-com-manuustenko-how-to-avoid-solid-principles-violations-in-vue-js-application-1121a0df6197)** <br> "In this article I’d like to discuss how can we avoid SOLID principles violation in our Vue.JS project." |
+| <img src="/images/vuejs-learning-resources/p27.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series](https://code-maze.com/vue-js-series/)** <br> "Welcome to the Vue.js Series. In this blog series, we are going to go through a detailed example of how to use Vue.js to create a fully functional client application that consumes the .NET Core 2.0 Web API server." |
+| <img src="/images/vuejs-learning-resources/p28.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series – Two-way Binding and V-model Directive](https://code-maze.com/vuejs-create-and-update/)** <br> "We are still missing the create and update components and in this article, we are going to implement these missing parts. With this post, we are going to finalize our application development process." |
+| <img src="/images/vuejs-learning-resources/p29.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[I created the exact same app in React and Vue. Here are the differences.](https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)** <br> "Having used Vue at work, I had a fairly solid understanding of it. I was, however, curious to know what the grass was like on the other side of the fence — the grass in this scenario being React." |
+| <img src="/images/vuejs-learning-resources/p30.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How I built a web app with Vue, Vuetify and Axios](https://morioh.com/p/b5c685d83cd6/how-i-built-a-web-app-with-vue-vuetify-and-axios)** <br> "In this article, we will be building a Vue.js Application supported by Vuetify and Axios. The aim of this article is to implement a movie application which will be calling on an API" |
+| <img src="/images/vuejs-learning-resources/p31.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Five tools to speed the development of your Vue.js applications.](https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications)** <br> "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications." |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
@@ -82,11 +87,22 @@ In the time of information overload and rapid technological advancement, it is r
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
+<br>
+<br>
+
+<div class="region">
+  <div class="row">
+    <div class="col-lg-5 col-sm-12">
+      <img src="/images/vuejs-learning-resources/p31.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+    </div>
+    <div class="col-lg-7 col-sm-12">
+      <div class="">
+        <a href="https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications">Five tools to speed the development of your Vue.js applications.</a><br>
+      </div>
+      "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications."
+    </div>
+  </div>
+</div>
 <br>
 <br>
 
