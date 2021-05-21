@@ -102,6 +102,17 @@ In the time of information overload and rapid technological advancement, it is r
       "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications."
     </div>
   </div>
+  <div class="row">
+    <div class="col-lg-5 col-sm-12">
+      <img src="/images/vuejs-learning-resources/p31.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+    </div>
+    <div class="col-lg-7 col-sm-12">
+      <div class="">
+        <a href="https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications">Five tools to speed the development of your Vue.js applications.</a><br>
+      </div>
+      "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications."
+    </div>
+  </div>
 </div>
 <br>
 <br>
