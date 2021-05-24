@@ -63,7 +63,6 @@ In the time of information overload and rapid technological advancement, it is r
 | <img src="/images/vuejs-learning-resources/p28.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series – Two-way Binding and V-model Directive](https://code-maze.com/vuejs-create-and-update/)** <br> "We are still missing the create and update components and in this article, we are going to implement these missing parts. With this post, we are going to finalize our application development process." |
 | <img src="/images/vuejs-learning-resources/p29.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[I created the exact same app in React and Vue. Here are the differences.](https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)** <br> "Having used Vue at work, I had a fairly solid understanding of it. I was, however, curious to know what the grass was like on the other side of the fence — the grass in this scenario being React." |
 | <img src="/images/vuejs-learning-resources/p30.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How I built a web app with Vue, Vuetify and Axios](https://morioh.com/p/b5c685d83cd6/how-i-built-a-web-app-with-vue-vuetify-and-axios)** <br> "In this article, we will be building a Vue.js Application supported by Vuetify and Axios. The aim of this article is to implement a movie application which will be calling on an API" |
-| <img src="/images/vuejs-learning-resources/p31.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Five tools to speed the development of your Vue.js applications.](https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications)** <br> "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications." |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
@@ -104,25 +103,58 @@ In the time of information overload and rapid technological advancement, it is r
   </div>
   <div class="row mt-lg-3">
     <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p31.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+      <img src="/images/vuejs-learning-resources/p21.jpg" alt="Resource 5" title="Resource 5" class="w-100"/>
     </div>
     <div class="col-lg-7 col-sm-12">
       <div class="">
-        <a href="https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications">Five tools to speed the development of your Vue.js applications.</a><br>
+        <a href="https://school.geekwall.in/p/HkAo15Lzr/optimize-the-performance-of-a-vue-app">Optimize the Performance of a Vue App</a><br>
       </div>
-      "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications."
+      "Single-page applications sometimes cop a little flack for their slow initial load. This is because traditionally, the server will send a large bundle of JavaScript to the client, which must be downloaded and parsed before anything is displayed on the screen. As you can imagine, as your app grows in size, this can become more and more problematic."
     </div>
     
   </div>
   <div class="row mt-lg-3">
     <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p31.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+      <img src="/images/vuejs-learning-resources/p32.png" alt="Resource 5" title="Resource 5" class="w-100"/>
     </div>
     <div class="col-lg-7 col-sm-12">
       <div class="">
-        <a href="https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications">Five tools to speed the development of your Vue.js applications.</a><br>
+        <a href="https://school.geekwall.in/p/ByjPN_ugr/list-rendering-vue">An introduction to dynamic list rendering in Vue.js</a><br>
       </div>
-      "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications."
+      "An introduction to dynamic list rendering in Vue.js. List rendering is one of the most commonly used practices in front-end web development. Dynamic list rendering is often used to present a series of similarly grouped information in a concise and friendly format to the user"
+    </div>
+  </div>
+  <div class="row mt-lg-3">
+    <div class="col-lg-5 col-sm-12">
+      <img src="/images/vuejs-learning-resources/p33.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+    </div>
+    <div class="col-lg-7 col-sm-12">
+      <div class="">
+        <a href="https://morioh.com/p/ffd37ea8a90a/using-renderless-components-in-vue-js">Using Renderless Components in Vue.js</a><br>
+      </div>
+      "Most Vue apps need asynchronous HTTP requests and there are many ways to realize them: in the mounted() lifecycle hook, in a method triggered by a button, within the store (when using vuex) or in the asyncData() and fetch() methods (with Nuxt)."
+    </div>
+  </div>
+  <div class="row mt-lg-3">
+    <div class="col-lg-5 col-sm-12">
+      <img src="/images/vuejs-learning-resources/p34.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+    </div>
+    <div class="col-lg-7 col-sm-12">
+      <div class="">
+        <a href="https://vueschool.io/articles/vuejs-tutorials/lazy-loading-individual-vue-components-and-prefetching/">Lazy Loading Individual Vue Components and Prefetching</a><br>
+      </div>
+      "The purpose of lazy loading is to postpone downloading parts of your application that are not needed by the user on the initial page load which ends up in much better loading time."
+    </div>
+  </div>
+  <div class="row mt-lg-3">
+    <div class="col-lg-5 col-sm-12">
+      <img src="/images/vuejs-learning-resources/p35.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+    </div>
+    <div class="col-lg-7 col-sm-12">
+      <div class="">
+        <a href="https://morioh.com/p/bc2998bd7f6b/how-to-implement-client-side-pagination-in-vue-js">How to implement client-side pagination in Vue.js</a><br>
+      </div>
+      "In this post, you'll see a simple example of how to implement client-side pagination in Vue.js"
     </div>
   </div>
 </div>
