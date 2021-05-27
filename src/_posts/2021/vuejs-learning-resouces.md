@@ -157,6 +157,23 @@ In the time of information overload and rapid technological advancement, it is r
       "In this post, you'll see a simple example of how to implement client-side pagination in Vue.js"
     </div>
   </div>
+  <div class="row mt-lg-4 mt-sm-4">
+    <div class="col-lg-5 col-sm-12">
+      <img src="/images/vuejs-learning-resources/p35.png" alt="Resource 5" title="Resource 5" class="w-100"/>
+    </div>
+    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
+      <div class="">
+        <a href="https://morioh.com/p/bc2998bd7f6b/how-to-implement-client-side-pagination-in-vue-js">How to implement client-side pagination in Vue.js</a><br>
+      </div>
+      "In this post, you'll see a simple example of how to implement client-side pagination in Vue.js"
+    </div>
+  </div>
+  <PostResource
+    imgLink="/images/vuejs-learning-resources/p35.png"
+    url="https://morioh.com/p/bc2998bd7f6b/how-to-implement-client-side-pagination-in-vue-js"
+    title="How to implement client-side pagination in Vue.js"
+    description="In this post, you'll see a simple example of how to implement client-side pagination in Vue.js"
+  />
 </div>
 <br>
 <br>
