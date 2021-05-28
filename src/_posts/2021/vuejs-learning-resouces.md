@@ -146,39 +146,60 @@ In the time of information overload and rapid technological advancement, it is r
       "The purpose of lazy loading is to postpone downloading parts of your application that are not needed by the user on the initial page load which ends up in much better loading time."
     </div>
   </div>
-  <div class="row mt-lg-4 mt-sm-4">
-    <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p35.png" alt="Resource 5" title="Resource 5" class="w-100"/>
-    </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
-      <div class="">
-        <a href="https://morioh.com/p/bc2998bd7f6b/how-to-implement-client-side-pagination-in-vue-js">How to implement client-side pagination in Vue.js</a><br>
-      </div>
-      "In this post, you'll see a simple example of how to implement client-side pagination in Vue.js"
-    </div>
-  </div>
-  <div class="row mt-lg-4 mt-sm-4">
-    <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p35.png" alt="Resource 5" title="Resource 5" class="w-100"/>
-    </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
-      <div class="">
-        <a href="https://morioh.com/p/bc2998bd7f6b/how-to-implement-client-side-pagination-in-vue-js">How to implement client-side pagination in Vue.js</a><br>
-      </div>
-      "In this post, you'll see a simple example of how to implement client-side pagination in Vue.js"
-    </div>
-  </div>
   <PostResource
-    imgLink="/images/vuejs-learning-resources/p35.png"
+    image="/images/vuejs-learning-resources/p35.png"
     url="https://morioh.com/p/bc2998bd7f6b/how-to-implement-client-side-pagination-in-vue-js"
     title="How to implement client-side pagination in Vue.js"
     description="In this post, you'll see a simple example of how to implement client-side pagination in Vue.js"
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p36.png"
+    url="https://morioh.com/p/3021edac7ef1/dockerizing-a-vue-application"
+    title="Dockerizing a Vue Application"
+    description="This tutorial looks at how to Dockerize a Vue app, built with the Vue CLI, using Docker along with Docker Compose and Docker Machine for both development and production. We’ll specifically focus on"
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p22.jpg"
+    url="https://medium.com/notonlycss/the-difference-between-computed-and-methods-in-vue-js-9cb05c59ed98"
+    title="The difference between COMPUTED and METHODS in Vue.js"
+    description="Now it’s some months that I’m using Vue.js and something that made me confused for the first few weeks was the difference between computed and methods."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p23.jpg"
+    url="https://digitaldefynd.com/best-vue-js-tutorial-course-certification-training/"
+    title="10 Best Vue JS Tutorial & Course [2021 MAY] [UPDATED]"
+    description="After extensive research, our team of web development experts has compiled this list of Best Vue JS Tutorial, Course, Training, Class and certification available online for 2021. It includes both paid and free resources to help you learn Vue JS and these tutorials and courses are suitable for beginners, intermediate learners as well as experts."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p37.png"
+    url="https://dev.to/ratracegrad/how-to-add-internationalization-to-a-vue-app-8ng"
+    title="How to Add Internationalization to a Vue App"
+    description="¡Hola. Bonjour. Ciao. 你好. Here is how you add internationalization to Vue."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p24.jpg"
+    url="https://school.geekwall.in/p/Hy3ZU3VPV/creating-custom-directives-in-vue-js"
+    title="Creating Custom Directives in Vue.js"
+    description="Creating Custom Directives in Vue.js. Directives are special attributes with the `v-` prefix. A directive’s job is to reactively apply side effects to the DOM when the value of its expression changes."
   />
 </div>
 <br>
 <br>
 
-### Vue.Js Courses
+### Vue JS with Markdown
+
+---
+
+<PostResource
+    image="/images/vuejs-learning-resources/p0.jpg"
+    url="https://lobotuerto.com/blog/vuejs-components-inside-markdown"
+    title="Vue.js components inside Markdown — lobo_tuerto's notes"
+    description="This is a quick post to show the different ways we can use to make Vue.js components available inside Markdown content. And at the same time, see how we can import .md files inside Vue.js components."
+  />
+<br>
+<br>
+
+### Vue JS Courses
 
 ---
 
@@ -189,7 +210,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Vue.Js resources on YouTube 
+### Vue JS resources on YouTube 
 
 ---
 
