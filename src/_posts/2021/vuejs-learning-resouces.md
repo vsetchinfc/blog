@@ -182,6 +182,62 @@ In the time of information overload and rapid technological advancement, it is r
     title="Creating Custom Directives in Vue.js"
     description="Creating Custom Directives in Vue.js. Directives are special attributes with the `v-` prefix. A directive’s job is to reactively apply side effects to the DOM when the value of its expression changes."
   />
+  <PostResource
+    image="/images/vuejs-learning-resources/p38.png"
+    url="https://morioh.com/p/dc6e62b85093/getting-started-with-vuetify-2-0"
+    title="Getting Started with Vuetify 2.0"
+    description="With the release of Vuetify 2.0, now is the perfect time to start learning how to use this popular component framework."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p39.png"
+    url="https://vuetifyjs.com/en/"
+    title="Material Design Framework"
+    description="Vuetify is a progressive framework that attempts to push web development to the next level."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p40.png"
+    url="https://morioh.com/p/b704f8438c84/building-frontend-using-vuetify"
+    title="Building Frontend Using Vuetify"
+    description="In this article, you will learn how you can quickly build an attractive and interactive frontend very quickly using Vuetify."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p41.webp"
+    url="https://vuejsdevelopers.com/2018/08/27/vue-js-form-handling-vuelidate/"
+    title="Simple Vue.js Form Validation with Vuelidate"
+    description="Thanks to Vue's reactivity model, it's really easy to roll your own form validations. This can be done with a simple method call on the form submit, or a computed property evaluating input data on each change."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p42.jpg"
+    url="https://school.geekwall.in/p/HJzcKA_TV/deploy-vuejs-to-netlify"
+    title="Deploying a Vue.js app to Netlify"
+    description="Setting up a Continuous Integration pipeline from _A to Z_ that: runs tests, builds the app and deploys it to Netlify. Let’s do it!"
+  />
+
+
+  <PostResource
+    image="/images/vuejs-learning-resources/p41.png"
+    url="https://morioh.com/p/87561a142844"
+    title="What is Template in Vue.js"
+    description="...We have learnt in the earlier chapters, how to get an output in the form of text content on the screen. In this chapter, we will learn how to get an output in the form of HTML template on the screen..."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p42.png"
+    url="https://morioh.com/p/6ac5fba3b666"
+    title="How to use Web-Components in Vue"
+    description="Learn how to seamlessly integrate and use Web Components in VueJS, including custom properties and events"
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p43.png"
+    url="https://itnext.io/a-few-handy-vue-js-tricks-832703cff426"
+    title="A few handy Vue.js tricks"
+    description="1, 2, 3, 4, 5, 6 Handy Tips"
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p44.png"
+    url="https://morioh.com/p/d772ab4a799f"
+    title="How to Create an Interactive YouTube Video Selection in Vue.js"
+    description="In this post I want to share my observations during my implementation of an **interactive** YouTube Video selection in Vue. Maybe this can save you some time, if you plan to do the same."
+  />
 </div>
 <br>
 <br>
