@@ -28,7 +28,7 @@ jobs:
 
       # Runs build and deploy
       - name: Build and Deploy
-        uses: testthedocs/github-pages-deploy-action@master
+      - uses: testthedocs/github-pages-deploy-action@master
         env:
           ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
           BUILD_DIR: docs # The folder, the action should deploy.
