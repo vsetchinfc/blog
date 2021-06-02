@@ -41,5 +41,5 @@ jobs:
           personal_token: ${{ secrets.GH_ACCESS_TOKEN }}
           src_path: /CNAME
           dst_path: /CNAME
-          dst_owner: vsetchin
+          dst_owner: vsetchinfc
           dst_repo_name: gh-pages
