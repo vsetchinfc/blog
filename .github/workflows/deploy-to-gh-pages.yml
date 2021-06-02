@@ -32,4 +32,4 @@ jobs:
         env:
           ACCESS_TOKEN: ${{ secrets.GH_ACCESS_TOKEN }}
           BUILD_DIR: docs # The folder, the action should deploy.
-          BUILD_SCRIPT: npm install && npm run-script build && cp CNAME docs/CNAME && cp .nojekyll docs/.nojekyll && cp brave-rewards-verification.txt docs/.well-known/brave-rewards-verification.txt # The build script the action should run prior to deploying.
+          BUILD_SCRIPT: npm install && npm run-script build && cp CNAME docs/CNAME && cp .nojekyll docs/.nojekyll && mkdir docs/.well-known && cp brave-rewards-verification.txt docs/.well-known/brave-rewards-verification.txt # The build script the action should run prior to deploying.
