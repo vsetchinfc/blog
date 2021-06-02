@@ -39,7 +39,7 @@ jobs:
         uses: andstor/copycat-action@v3
         with:
           personal_token: ${{ secrets.GH_ACCESS_TOKEN }}
-          src_path: /CNAME
-          dst_path: /CNAME
+          src_path: CNAME
+          dst_path: CNAME
           dst_owner: vsetchinfc
           dst_repo_name: gh-pages
