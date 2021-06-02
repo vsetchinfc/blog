@@ -42,4 +42,4 @@ jobs:
           src_path: CNAME
           dst_path: CNAME
           dst_owner: vsetchinfc
-          dst_repo_name: gh-pages
+          dst_repo_name: blog
