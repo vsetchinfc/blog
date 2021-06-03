@@ -124,28 +124,19 @@ In the time of information overload and rapid technological advancement, it is r
       "An introduction to dynamic list rendering in Vue.js. List rendering is one of the most commonly used practices in front-end web development. Dynamic list rendering is often used to present a series of similarly grouped information in a concise and friendly format to the user"
     </div>
   </div>
-  <div class="row mt-lg-4 mt-sm-4">
-    <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p33.png" alt="Resource 5" title="Resource 5" class="w-100"/>
-    </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
-      <div class="">
-        <a href="https://morioh.com/p/ffd37ea8a90a/using-renderless-components-in-vue-js">Using Renderless Components in Vue.js</a><br>
-      </div>
-      "Most Vue apps need asynchronous HTTP requests and there are many ways to realize them: in the mounted() lifecycle hook, in a method triggered by a button, within the store (when using vuex) or in the asyncData() and fetch() methods (with Nuxt)."
-    </div>
-  </div>
-  <div class="row mt-lg-4 mt-sm-4">
-    <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p34.png" alt="Resource 5" title="Resource 5" class="w-100"/>
-    </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
-      <div class="">
-        <a href="https://vueschool.io/articles/vuejs-tutorials/lazy-loading-individual-vue-components-and-prefetching/">Lazy Loading Individual Vue Components and Prefetching</a><br>
-      </div>
-      "The purpose of lazy loading is to postpone downloading parts of your application that are not needed by the user on the initial page load which ends up in much better loading time."
-    </div>
-  </div>
+    
+  <PostResource
+    image="/images/vuejs-learning-resources/p33.png"
+    url="https://morioh.com/p/ffd37ea8a90a/using-renderless-components-in-vue-js"
+    title="Using Renderless Components in Vue.js"
+    description="Most Vue apps need asynchronous HTTP requests and there are many ways to realize them: in the mounted() lifecycle hook, in a method triggered by a button, within the store (when using vuex) or in the asyncData() and fetch() methods (with Nuxt)."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p34.png"
+    url="https://vueschool.io/articles/vuejs-tutorials/lazy-loading-individual-vue-components-and-prefetching/"
+    title="Lazy Loading Individual Vue Components and Prefetching"
+    description="The purpose of lazy loading is to postpone downloading parts of your application that are not needed by the user on the initial page load which ends up in much better loading time."
+  />
   <PostResource
     image="/images/vuejs-learning-resources/p35.png"
     url="https://morioh.com/p/bc2998bd7f6b/how-to-implement-client-side-pagination-in-vue-js"
