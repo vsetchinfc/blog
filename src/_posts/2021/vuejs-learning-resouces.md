@@ -62,63 +62,33 @@ In the time of information overload and rapid technological advancement, it is r
 | <img src="/images/vuejs-learning-resources/p27.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series](https://code-maze.com/vue-js-series/)** <br> "Welcome to the Vue.js Series. In this blog series, we are going to go through a detailed example of how to use Vue.js to create a fully functional client application that consumes the .NET Core 2.0 Web API server." |
 | <img src="/images/vuejs-learning-resources/p28.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series – Two-way Binding and V-model Directive](https://code-maze.com/vuejs-create-and-update/)** <br> "We are still missing the create and update components and in this article, we are going to implement these missing parts. With this post, we are going to finalize our application development process." |
 | <img src="/images/vuejs-learning-resources/p29.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[I created the exact same app in React and Vue. Here are the differences.](https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)** <br> "Having used Vue at work, I had a fairly solid understanding of it. I was, however, curious to know what the grass was like on the other side of the fence — the grass in this scenario being React." |
-| <img src="/images/vuejs-learning-resources/p30.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How I built a web app with Vue, Vuetify and Axios](https://morioh.com/p/b5c685d83cd6/how-i-built-a-web-app-with-vue-vuetify-and-axios)** <br> "In this article, we will be building a Vue.js Application supported by Vuetify and Axios. The aim of this article is to implement a movie application which will be calling on an API" |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
 | N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-<br>
-<br>
-
-<div class="region">
-  <div class="row">
-    <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p31.png" alt="Resource 5" title="Resource 5" class="w-100"/>
-    </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
-      <div class="">
-        <a href="https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications">Five tools to speed the development of your Vue.js applications.</a><br>
-      </div>
-      "Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications."
-    </div>
-  </div>
-  <div class="row mt-lg-4 mt-sm-4">
-    <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p21.jpg" alt="Resource 5" title="Resource 5" class="w-100"/>
-    </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
-      <div class="">
-        <a href="https://school.geekwall.in/p/HkAo15Lzr/optimize-the-performance-of-a-vue-app">Optimize the Performance of a Vue App</a><br>
-      </div>
-      "Single-page applications sometimes cop a little flack for their slow initial load. This is because traditionally, the server will send a large bundle of JavaScript to the client, which must be downloaded and parsed before anything is displayed on the screen. As you can imagine, as your app grows in size, this can become more and more problematic."
-    </div>
-    
-  </div>
+<PostResource
+    image="/images/vuejs-learning-resources/p30.png"
+    url="https://morioh.com/p/b5c685d83cd6/how-i-built-a-web-app-with-vue-vuetify-and-axios"
+    title="How I built a web app with Vue, Vuetify and Axios"
+    description="In this article, we will be building a Vue.js Application supported by Vuetify and Axios. The aim of this article is to implement a movie application which will be calling on an API"
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p31.png"
+    url="https://morioh.com/p/3cf653b04219/five-tools-to-speed-the-development-of-your-vue-js-applications"
+    title="Five tools to speed the development of your Vue.js applications."
+    description="Not long ago Vue.js passed React in GitHub stars. Although a somewhat shallow metric to measure, no doubt that this is only an indicator of the great success and popularity Vue.js is gathering in the community in 2018.As we use more great frameworks like Vue to build new applications."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p21.jpg"
+    url="https://school.geekwall.in/p/HkAo15Lzr/optimize-the-performance-of-a-vue-app"
+    title="Optimize the Performance of a Vue App"
+    description="Single-page applications sometimes cop a little flack for their slow initial load. This is because traditionally, the server will send a large bundle of JavaScript to the client, which must be downloaded and parsed before anything is displayed on the screen. As you can imagine, as your app grows in size, this can become more and more problematic."
+  />
   <PostResource
     image="/images/vuejs-learning-resources/p32.png"
     url="https://school.geekwall.in/p/ByjPN_ugr/list-rendering-vue"
     title="An introduction to dynamic list rendering in Vue.js"
     description="An introduction to dynamic list rendering in Vue.js. List rendering is one of the most commonly used practices in front-end web development. Dynamic list rendering is often used to present a series of similarly grouped information in a concise and friendly format to the user"
-  />    
+  />
   <PostResource
     image="/images/vuejs-learning-resources/p33.png"
     url="https://morioh.com/p/ffd37ea8a90a/using-renderless-components-in-vue-js"
@@ -293,6 +263,9 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 
-|        |          |
-| ------ | -------- |
-| <img src="/images/vuejs-learning-resources/p21.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Pro Vue.js 2](https://www.programmer-books.com/pro-vue-js-2-pdf/)** <br> "Explore Vue.js to take advantage of the capabilities of modern browsers and devices using the fastest-growing framework for building dynamic JavaScript applications. You will work with the power of the Model-View-Controller (MVC) pattern on the client, creating a strong foundation for complex and rich web apps." |
+<PostResource
+    image="/images/vuejs-learning-resources/p21.png"
+    url="https://www.programmer-books.com/pro-vue-js-2-pdf/"
+    title="Pro Vue.js 2"
+    description="Explore Vue.js to take advantage of the capabilities of modern browsers and devices using the fastest-growing framework for building dynamic JavaScript applications. You will work with the power of the Model-View-Controller (MVC) pattern on the client, creating a strong foundation for complex and rich web apps."
+  />
