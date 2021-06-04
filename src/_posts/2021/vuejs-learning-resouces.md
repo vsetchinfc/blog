@@ -113,18 +113,12 @@ In the time of information overload and rapid technological advancement, it is r
     </div>
     
   </div>
-  <div class="row mt-lg-4 mt-sm-4">
-    <div class="col-lg-5 col-sm-12">
-      <img src="/images/vuejs-learning-resources/p32.png" alt="Resource 5" title="Resource 5" class="w-100"/>
-    </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
-      <div class="">
-        <a href="https://school.geekwall.in/p/ByjPN_ugr/list-rendering-vue">An introduction to dynamic list rendering in Vue.js</a><br>
-      </div>
-      "An introduction to dynamic list rendering in Vue.js. List rendering is one of the most commonly used practices in front-end web development. Dynamic list rendering is often used to present a series of similarly grouped information in a concise and friendly format to the user"
-    </div>
-  </div>
-    
+  <PostResource
+    image="/images/vuejs-learning-resources/p32.png"
+    url="https://school.geekwall.in/p/ByjPN_ugr/list-rendering-vue"
+    title="An introduction to dynamic list rendering in Vue.js"
+    description="An introduction to dynamic list rendering in Vue.js. List rendering is one of the most commonly used practices in front-end web development. Dynamic list rendering is often used to present a series of similarly grouped information in a concise and friendly format to the user"
+  />    
   <PostResource
     image="/images/vuejs-learning-resources/p33.png"
     url="https://morioh.com/p/ffd37ea8a90a/using-renderless-components-in-vue-js"
