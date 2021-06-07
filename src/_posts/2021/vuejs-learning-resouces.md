@@ -258,12 +258,30 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 
-|        |          |
-| ------ | -------- |
-| <img src="/images/vuejs-learning-resources/p0.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Vue Test Utils](https://vue-test-utils.vuejs.org/)** <br> "Vue Test Utils is the official unit testing utility library for Vue.js." |
-| <img src="/images/vuejs-learning-resources/p18.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Testing Vue with Jest](https://morioh.com/p/0bacfcdc8dd2/testing-vue-with-jest)** <br> "In this article to show how to setup Jest in an Vue.js application. This will guide you through everything in a blank Vue.js template to test components and more" |
-| <img src="/images/vuejs-learning-resources/p19.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How to Test Your Vue Project with Jest and Nightwatch](https://school.geekwall.in/p/HyC66CkVB/how-to-test-your-vue-project-with-jest-and-nightwatch)** <br> "Testing is a vital part of the development cycle and a part of life for programmers and developers. ..." |
-| <img src="/images/vuejs-learning-resources/p20.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Unit Testing in Vue: What to Test?](https://www.vuemastery.com/blog/unit-testing-vue-1/)** <br> "Every developer knows that they should be writing tests, but in reality, many of us don’t do it at all or we aren’t doing enough of it. The problem isn’t the lack of tools, it’s that we don’t have a clear understanding of what these tools are meant to do." |
+<PostResource
+    image="/images/vuejs-learning-resources/p0.jpg"
+    url="https://vue-test-utils.vuejs.org/"
+    title="Vue Test Utils"
+    description="Vue Test Utils is the official unit testing utility library for Vue.js."
+  />
+<PostResource
+    image="/images/vuejs-learning-resources/p18.png"
+    url="https://morioh.com/p/0bacfcdc8dd2/testing-vue-with-jest"
+    title="Testing Vue with Jest"
+    description="In this article to show how to setup Jest in an Vue.js application. This will guide you through everything in a blank Vue.js template to test components and more"
+  />
+<PostResource
+    image="/images/vuejs-learning-resources/p19.jpg"
+    url="https://school.geekwall.in/p/HyC66CkVB/how-to-test-your-vue-project-with-jest-and-nightwatch"
+    title="How to Test Your Vue Project with Jest and Nightwatch"
+    description="Testing is a vital part of the development cycle and a part of life for programmers and developers. ..."
+  />
+<PostResource
+    image="/images/vuejs-learning-resources/p20.jpg"
+    url="https://www.vuemastery.com/blog/unit-testing-vue-1/"
+    title="Unit Testing in Vue: What to Test?"
+    description="Every developer knows that they should be writing tests, but in reality, many of us don’t do it at all or we aren’t doing enough of it. The problem isn’t the lack of tools, it’s that we don’t have a clear understanding of what these tools are meant to do."
+  />
 <br>
 <br>
 
