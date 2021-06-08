@@ -62,10 +62,13 @@ In the time of information overload and rapid technological advancement, it is r
 | <img src="/images/vuejs-learning-resources/p27.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series](https://code-maze.com/vue-js-series/)** <br> "Welcome to the Vue.js Series. In this blog series, we are going to go through a detailed example of how to use Vue.js to create a fully functional client application that consumes the .NET Core 2.0 Web API server." |
 | <img src="/images/vuejs-learning-resources/p28.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series – Two-way Binding and V-model Directive](https://code-maze.com/vuejs-create-and-update/)** <br> "We are still missing the create and update components and in this article, we are going to implement these missing parts. With this post, we are going to finalize our application development process." |
 | <img src="/images/vuejs-learning-resources/p29.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[I created the exact same app in React and Vue. Here are the differences.](https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)** <br> "Having used Vue at work, I had a fairly solid understanding of it. I was, however, curious to know what the grass was like on the other side of the fence — the grass in this scenario being React." |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-| N | **[]()** <br>  |
-<PostResource
+  <PostResource
+    image="/images/vuejs-learning-resources/p.png"
+    url=""
+    title=""
+    description=""
+  />
+  <PostResource
     image="/images/vuejs-learning-resources/p30.png"
     url="https://morioh.com/p/b5c685d83cd6/how-i-built-a-web-app-with-vue-vuetify-and-axios"
     title="How I built a web app with Vue, Vuetify and Axios"
@@ -167,8 +170,6 @@ In the time of information overload and rapid technological advancement, it is r
     title="Deploying a Vue.js app to Netlify"
     description="Setting up a Continuous Integration pipeline from _A to Z_ that: runs tests, builds the app and deploys it to Netlify. Let’s do it!"
   />
-
-
   <PostResource
     image="/images/vuejs-learning-resources/p41.png"
     url="https://morioh.com/p/87561a142844"
@@ -233,13 +234,36 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 
-|        |          |
-| ------ | -------- |
-| <img src="/images/vuejs-learning-resources/p10.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[VueJS Build A Todo App - Code On-The-Fly](https://www.youtube.com/watch?v=IBDVWntKQZ4&ab_channel=LizChow)** <br> "Want to create TODO App with Vue JS? Here is how!" |
-| <img src="/images/vuejs-learning-resources/p12.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vuex Crash Course - State Management](https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia)** <br> "In this video we will build an application using Vue.js with the Vuex state management library." <br>    |
-| <img src="/images/vuejs-learning-resources/p10.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc&list=WL&index=44&t=17s&ab_channel=freeCodeCamp.org)** <br> "Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications." |
-| <img src="/images/vuejs-learning-resources/p14.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Build a PWA With Vue & Ionic 4](https://www.youtube.com/watch?v=6H1wftPS0oo&list=WL&index=75&ab_channel=TraversyMedia)** <br> "In this project we will built a progressive web app with Vue.js and Ionic 4. We will use the @ionic/vue package and the @vue/pwa plugin to do this." |
-| <img src="/images/vuejs-learning-resources/p15.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Natalia Tepluhina - Vue 3 - Looking into the Vueture: Composition Functions - ComponentsConf 2019](https://www.youtube.com/watch?v=dy_ZB1TyFx4&list=WL&index=79&t=7s&ab_channel=ComponentsConf)** <br> "ComponentsConf 2019 - Australian JavaScript conference with exclusive focus on frontend frameworks & libs. Vue 3 brings us a new feature: composition functions, a way of declaring component logic using function calls.  In this talk I will show how composition functions work and in which cases they are better than 'usual' object syntax" |
+  <PostResource
+    image="/images/vuejs-learning-resources/p10.png"
+    url="https://www.youtube.com/watch?v=IBDVWntKQZ4&ab_channel=LizChow"
+    title="VueJS Build A Todo App - Code On-The-Fly"
+    description="Want to create TODO App with Vue JS? Here is how!"
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p12.png"
+    url="https://www.youtube.com/watch?v=5lVQgZzLMHc&ab_channel=TraversyMedia"
+    title="Vuex Crash Course - State Management"
+    description="In this video we will build an application using Vue.js with the Vuex state management library."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p10.png"
+    url="https://www.youtube.com/watch?v=4deVCNJq3qc&list=WL&index=44&t=17s&ab_channel=freeCodeCamp.org"
+    title="Learn Vue.js - Full Course for Beginners - 2019"
+    description="Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p14.png"
+    url="https://www.youtube.com/watch?v=6H1wftPS0oo&list=WL&index=75&ab_channel=TraversyMedia"
+    title="Build a PWA With Vue & Ionic 4"
+    description="In this project we will built a progressive web app with Vue.js and Ionic 4. We will use the @ionic/vue package and the @vue/pwa plugin to do this."
+  />
+<PostResource
+    image="/images/vuejs-learning-resources/p15.png"
+    url="https://www.youtube.com/watch?v=dy_ZB1TyFx4&list=WL&index=79&t=7s&ab_channel=ComponentsConf"
+    title="Natalia Tepluhina - Vue 3 - Looking into the Vueture: Composition Functions - ComponentsConf 2019"
+    description="ComponentsConf 2019 - Australian JavaScript conference with exclusive focus on frontend frameworks & libs. Vue 3 brings us a new feature: composition functions, a way of declaring component logic using function calls.  In this talk I will show how composition functions work and in which cases they are better than 'usual' object syntax."
+  />
 <br>
 <br>
 
