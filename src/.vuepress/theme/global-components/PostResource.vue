@@ -8,7 +8,7 @@
         class="w-100 h-100"
       />
     </div>
-    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-sm-2">
+    <div class="col-lg-7 col-sm-12 mt-lg-2 mt-3 mb-3">
       <div class="font-weight-bold">
         <a :href="url" target="_blank">{{ title }}</a
         ><br />
