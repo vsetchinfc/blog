@@ -52,21 +52,59 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 
-|        |          |
-| ------ | -------- |
-| <img src="/images/vuejs-learning-resources/p22.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[Common mistakes to avoid while working with Vue.js](https://www.freecodecamp.org/news/common-mistakes-to-avoid-while-working-with-vue-js-10e0b130925b/)** <br> "In this article, I’d like to share a few common issues that you may have to deal with when working with Vue.js." |
-| <img src="/images/vuejs-learning-resources/p23.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Managing Vue state in Vue.js applications with Vuex](https://www.dotnetcurry.com/vuejs/1454/using-vuex-manage-vuejs-state)** <br> "As you write applications with Vue and take advantage of its support for components, you will need to decide how to manage the state of your application..." |
-| <img src="/images/vuejs-learning-resources/p26.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Accessing the virtual DOM using render functions in Vue JS](https://morioh.com/p/e553f1df2aaf/accessing-the-virtual-dom-using-render-functions-in-vue-js)** <br> "In this post, we will look at how to use render functions to unleash the power of JavaScript by using templates in Vue." |
-| <img src="/images/vuejs-learning-resources/p25.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Working with Dynamic Components in Vue.js](https://medium.com/@deepaksisodiya/working-with-dynamic-components-in-vue-js-e956a66ee49a)** <br> "To understand what is a dynamic component, let's consider an example. Suppose we are developing a commenting platform where user can come and post a comment on the article. Posting of comment for the logged-in and logged-out user is different..." |
-| <img src="/images/vuejs-learning-resources/p26.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How to avoid SOLID principles violations in Vue. JS application](https://itnext.io/https-medium-com-manuustenko-how-to-avoid-solid-principles-violations-in-vue-js-application-1121a0df6197)** <br> "In this article I’d like to discuss how can we avoid SOLID principles violation in our Vue.JS project." |
-| <img src="/images/vuejs-learning-resources/p27.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series](https://code-maze.com/vue-js-series/)** <br> "Welcome to the Vue.js Series. In this blog series, we are going to go through a detailed example of how to use Vue.js to create a fully functional client application that consumes the .NET Core 2.0 Web API server." |
-| <img src="/images/vuejs-learning-resources/p28.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Vue.js Series – Two-way Binding and V-model Directive](https://code-maze.com/vuejs-create-and-update/)** <br> "We are still missing the create and update components and in this article, we are going to implement these missing parts. With this post, we are going to finalize our application development process." |
-| <img src="/images/vuejs-learning-resources/p29.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[I created the exact same app in React and Vue. Here are the differences.](https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)** <br> "Having used Vue at work, I had a fairly solid understanding of it. I was, however, curious to know what the grass was like on the other side of the fence — the grass in this scenario being React." |
+  <PostResource
+    image="/images/vuejs-learning-resources/p22.png"
+    url="https://www.freecodecamp.org/news/common-mistakes-to-avoid-while-working-with-vue-js-10e0b130925b/"
+    title="Common mistakes to avoid while working with Vue.js"
+    description="In this article, I’d like to share a few common issues that you may have to deal with when working with Vue.js."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p23.png"
+    url="https://www.dotnetcurry.com/vuejs/1454/using-vuex-manage-vuejs-state"
+    title="Managing Vue state in Vue.js applications with Vuex"
+    description="As you write applications with Vue and take advantage of its support for components, you will need to decide how to manage the state of your application..."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p26.png"
+    url="https://morioh.com/p/e553f1df2aaf/accessing-the-virtual-dom-using-render-functions-in-vue-js"
+    title="Accessing the virtual DOM using render functions in Vue JS"
+    description="In this post, we will look at how to use render functions to unleash the power of JavaScript by using templates in Vue."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p25.png"
+    url="https://medium.com/@deepaksisodiya/working-with-dynamic-components-in-vue-js-e956a66ee49a"
+    title="Working with Dynamic Components in Vue.js"
+    description="To understand what is a dynamic component, let's consider an example. Suppose we are developing a commenting platform where user can come and post a comment on the article. Posting of comment for the logged-in and logged-out user is different..."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p26.png"
+    url="https://itnext.io/https-medium-com-manuustenko-how-to-avoid-solid-principles-violations-in-vue-js-application-1121a0df6197"
+    title="How to avoid SOLID principles violations in Vue. JS application"
+    description="In this article I’d like to discuss how can we avoid SOLID principles violation in our Vue.JS project."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p27.png"
+    url="https://code-maze.com/vue-js-series/"
+    title="Vue.js Series"
+    description="Welcome to the Vue.js Series. In this blog series, we are going to go through a detailed example of how to use Vue.js to create a fully functional client application that consumes the .NET Core 2.0 Web API server."
+  />
   <PostResource
     image="/images/vuejs-learning-resources/p.png"
     url=""
     title=""
     description=""
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p28.png"
+    url="https://code-maze.com/vuejs-create-and-update/"
+    title="Vue.js Series – Two-way Binding and V-model Directive"
+    description="We are still missing the create and update components and in this article, we are going to implement these missing parts. With this post, we are going to finalize our application development process."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p29.png"
+    url="https://javascript.plainenglish.io/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd"
+    title="I created the exact same app in React and Vue. Here are the differences."
+    description="Having used Vue at work, I had a fairly solid understanding of it. I was, however, curious to know what the grass was like on the other side of the fence — the grass in this scenario being React."
   />
   <PostResource
     image="/images/vuejs-learning-resources/p30.png"
