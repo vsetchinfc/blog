@@ -23,14 +23,43 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 
-|          |          | 
-| -------- | -------- |
-| <img src="/images/vuejs-learning-resources/p1.png" alt="Resource 1" title="Resource 1" style="width: 300px; height: 157px;" class="mr-3 thumbnail" /> | **[Build a live commenting system with Laravel and Vue.js](https://morioh.com/p/487e3f41ffa3/build-a-live-commenting-system-with-laravel-and-vue-js)** <br> "This tutorial will help you build a realtime commenting system with Laravel, Vue.js and Pusher. We’ll create a basic landing page, a comments feed, and a submission form where users can submit comments that will be added to the page and viewable instantly. This tutorial is the Laravel version of this one, and when setting up Vuex and Vue.js you can refer to the same sections in that tutorial." |
-| <img src="/images/vuejs-learning-resources/p2.png" alt="Resource 2" title="Resource 2" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Build a Location-based Chatroom with Firebase and Vue.js](https://morioh.com/p/332c4fee76d6/build-a-location-based-chatroom-with-firebase-and-vue-js)** <br> "Recently, me and my friend built a location-based chatroom called — Near. People can talk with each other nearby in a web app. We would like to share what we did and how to make it. Please feel free to give us feedback by replying this article."  |
-| <img src="/images/vuejs-learning-resources/p3.jpg" alt="Resource 3" title="Resource 3" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Building a Pomodoro Timer with Vue.js](https://school.geekwall.in/p/HyIdIkcgr/vue-pomodoro-time)** <br> "Building a Pomodoro Timer with Vue.js. How I learned a lot trying to make a timer for a challenge and then determined to make a full featured one. |
-| <img src="/images/vuejs-learning-resources/p4.jpg" alt="Resource 4" title="Resource 4" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Build a Secure To-Do App with Vue, ASP.NET Core, and Okta](https://scotch.io/tutorials/build-a-secure-to-do-app-with-vuejs-aspnet-core-and-okta)** <br> "I love lists. I keep everything I need to do (too many things, usually) in a big to-do list, and the list helps keep me sane throughout the day. It’s like having a second  |
-| <img src="/images/vuejs-learning-resources/p5.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" />  | **[How To Create a Real Time To Do List App with Vue, Vuex & Firebase Tutorial](https://www.codewall.co.uk/how-to-create-a-real-time-to-do-list-app-with-vue-vuex-firebase-tutorial/?utm_source=CWTwitter&utm_medium=social)** <br> "Hello! In this tutorial, we’ll be using Firebase and Vue to create a very simple project that will update your Firestore and your VueJS project in real time. We’re going to be creating a simple to do list before we get started – you need to have NodeJS & NPM installed." |
-| <img src="/images/vuejs-learning-resources/p6.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[How to Drag and Drop File Uploads with Vue.js and Axios](https://morioh.com/p/850b9e640bd5/how-to-drag-and-drop-file-uploads-with-vue-js-and-axios)** <br> "In this tutorial we are going to combine all of these tricks to make the ultimate file uploader with VueJS and Axios. We will allow users to select any amount of files, remove the ones they don’t, show a preview, and show a status bar for uploading the files." |
+  <PostResource
+    image="/images/vuejs-learning-resources/p1.png"
+    url="https://morioh.com/p/487e3f41ffa3/build-a-live-commenting-system-with-laravel-and-vue-js"
+    title="Build a live commenting system with Laravel and Vue.js"
+    description="This tutorial will help you build a realtime commenting system with Laravel, Vue.js and Pusher. We’ll create a basic landing page, a comments feed, and a submission form where users can submit comments that will be added to the page and viewable instantly. This tutorial is the Laravel version of this one, and when setting up Vuex and Vue.js you can refer to the same sections in that tutorial."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p2.png"
+    url="https://morioh.com/p/332c4fee76d6/build-a-location-based-chatroom-with-firebase-and-vue-js"
+    title="Build a Location-based Chatroom with Firebase and Vue.js"
+    description="Recently, me and my friend built a location-based chatroom called — Near. People can talk with each other nearby in a web app. We would like to share what we did and how to make it. Please feel free to give us feedback by replying this article."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p3.jpg"
+    url="https://school.geekwall.in/p/HyIdIkcgr/vue-pomodoro-time"
+    title="Building a Pomodoro Timer with Vue.js"
+    description="Building a Pomodoro Timer with Vue.js. How I learned a lot trying to make a timer for a challenge and then determined to make a full featured one."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p4.jpg"
+    url="https://scotch.io/tutorials/build-a-secure-to-do-app-with-vuejs-aspnet-core-and-okta"
+    title="Build a Secure To-Do App with Vue, ASP.NET Core, and Okta"
+    description="I love lists. I keep everything I need to do (too many things, usually) in a big to-do list, and the list helps keep me sane throughout the day. It’s like having a second brain!"
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p5.png"
+    url="https://www.codewall.co.uk/how-to-create-a-real-time-to-do-list-app-with-vue-vuex-firebase-tutorial/?utm_source=CWTwitter&utm_medium=social"
+    title="How To Create a Real Time To Do List App with Vue, Vuex & Firebase Tutorial"
+    description="Hello! In this tutorial, we’ll be using Firebase and Vue to create a very simple project that will update your Firestore and your VueJS project in real time. We’re going to be creating a simple to do list before we get started – you need to have NodeJS & NPM installed."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p6.png"
+    url="https://morioh.com/p/850b9e640bd5/how-to-drag-and-drop-file-uploads-with-vue-js-and-axios"
+    title="How to Drag and Drop File Uploads with Vue.js and Axios"
+    description="In this tutorial we are going to combine all of these tricks to make the ultimate file uploader with VueJS and Axios. We will allow users to select any amount of files, remove the ones they don’t, show a preview, and show a status bar for uploading the files."
+  />
+<br>
 <br>
 <br>
 
@@ -38,13 +67,37 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 
-|        |          |
-| ------ | -------- |
-| <img src="/images/vuejs-learning-resources/p7.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3" /> | **[How to structure a Vue project  Authentication](https://morioh.com/p/4bb19aa8ea3e/how-to-structure-a-vue-project-authentication)** <br> "We will build a simple project that handles authentication and prepare basic scaffolding to use when building the rest of the app." |
-| <img src="/images/vuejs-learning-resources/p8.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[User Authentication with Vue.js, ASP.NET Core 2 and Facebook Login](https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login)** <br> "How to setup JWT authentication with ASP.NET Core 2, Vue.Js, and Facebook OAuth." |
-| <img src="/images/vuejs-learning-resources/p9.jpg" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Google OAuth2 with VueJS and Vert.x](https://school.geekwall.in/p/ByFQL2EDE/google-oauth2-with-vuejs-and-vert-x)** <br> "Create a simple VueJS frontend app running on a Vert.x backend, providing login with Google OAuth2 from scratch" |
-| <img src="/images/vue_js_auth.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[Managing User Permissions in a VueJS App](https://vuejsdevelopers.com/2018/01/08/vue-js-roles-permissions-casl/?utm_source=twitter-vjd&utm_medium=post&utm_campaign=vrp)** <br> "In authenticated frontend apps, we often want to change what's visible to the user depending on their assigned role. For example, a guest user might be able to see a post, but only a registered user or an admin sees a button to edit that post." |
-| <img src="/images/vuejs-learning-resources/p9.png" alt="Resource 5" title="Resource 5" style="width: 300px; height: 157px;" class="mr-3 mt-3" /> | **[User Registration and Login with Vue.js and Vuex](https://morioh.com/p/4c0743fb1ca1)** <br> "In this tutorial we'll go through an example of how to build a simple user registration and login system using Vue.js and Vuex + Webpack 4.16" |
+  <PostResource
+    image="/images/vuejs-learning-resources/p7.png"
+    url="https://morioh.com/p/4bb19aa8ea3e/how-to-structure-a-vue-project-authentication"
+    title="How to structure a Vue project  Authentication"
+    description="We will build a simple project that handles authentication and prepare basic scaffolding to use when building the rest of the app."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p8.png"
+    url="https://fullstackmark.com/post/16/user-authentication-with-vuejs-aspnet-core-2-and-facebook-login"
+    title="User Authentication with Vue.js, ASP.NET Core 2 and Facebook Login"
+    description="How to setup JWT authentication with ASP.NET Core 2, Vue.Js, and Facebook OAuth."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p9.jpg"
+    url="https://school.geekwall.in/p/ByFQL2EDE/google-oauth2-with-vuejs-and-vert-x"
+    title="Google OAuth2 with VueJS and Vert.x"
+    description="Create a simple VueJS frontend app running on a Vert.x backend, providing login with Google OAuth2 from scratch"
+  />
+  <PostResource
+    image="/images/vue_js_auth.png"
+    url="https://vuejsdevelopers.com/2018/01/08/vue-js-roles-permissions-casl/?utm_source=twitter-vjd&utm_medium=post&utm_campaign=vrp"
+    title="Managing User Permissions in a VueJS App"
+    description="In authenticated frontend apps, we often want to change what's visible to the user depending on their assigned role. For example, a guest user might be able to see a post, but only a registered user or an admin sees a button to edit that post."
+  />
+  <PostResource
+    image="/images/vuejs-learning-resources/p9.png"
+    url="https://morioh.com/p/4c0743fb1ca1"
+    title="User Registration and Login with Vue.js and Vuex"
+    description="In this tutorial we'll go through an example of how to build a simple user registration and login system using Vue.js and Vuex + Webpack 4.16"
+  />
+<br>
 <br>
 <br>
 
@@ -87,12 +140,6 @@ In the time of information overload and rapid technological advancement, it is r
     url="https://code-maze.com/vue-js-series/"
     title="Vue.js Series"
     description="Welcome to the Vue.js Series. In this blog series, we are going to go through a detailed example of how to use Vue.js to create a fully functional client application that consumes the .NET Core 2.0 Web API server."
-  />
-  <PostResource
-    image="/images/vuejs-learning-resources/p.png"
-    url=""
-    title=""
-    description=""
   />
   <PostResource
     image="/images/vuejs-learning-resources/p28.png"
@@ -235,6 +282,7 @@ In the time of information overload and rapid technological advancement, it is r
 </div>
 <br>
 <br>
+<br>
 
 ### Vue JS with Markdown
 
@@ -246,6 +294,7 @@ In the time of information overload and rapid technological advancement, it is r
     title="Vue.js components inside Markdown — lobo_tuerto's notes"
     description="This is a quick post to show the different ways we can use to make Vue.js components available inside Markdown content. And at the same time, see how we can import .md files inside Vue.js components."
   />
+<br>
 <br>
 <br>
 
@@ -265,6 +314,7 @@ In the time of information overload and rapid technological advancement, it is r
     title="Vue JS - Learning the Basics"
     description="Vue.js is extremely popular. Learn the 7 core concepts, experience it on your own and start your Vue.js journey right now!"
   />
+<br>
 <br>
 <br>
 
@@ -304,6 +354,7 @@ In the time of information overload and rapid technological advancement, it is r
   />
 <br>
 <br>
+<br>
 
 ### Native Mobile Apps
 
@@ -321,6 +372,7 @@ In the time of information overload and rapid technological advancement, it is r
     title="NativeScript and Vue.js"
     description="Vue.js is a lightweight framework for building engaging user interfaces. NativeScript powers cross-platform (truly native) mobile apps, using the web skills you already know. Combined they are a fantastic pair for developing immersive mobile experiences."
   />
+<br>
 <br>
 <br>
 
@@ -352,6 +404,7 @@ In the time of information overload and rapid technological advancement, it is r
     title="Unit Testing in Vue: What to Test?"
     description="Every developer knows that they should be writing tests, but in reality, many of us don’t do it at all or we aren’t doing enough of it. The problem isn’t the lack of tools, it’s that we don’t have a clear understanding of what these tools are meant to do."
   />
+<br>
 <br>
 <br>
 
