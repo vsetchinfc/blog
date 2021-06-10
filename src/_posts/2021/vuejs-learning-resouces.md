@@ -19,7 +19,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Sample projects
+#### Sample projects
 
 ---
 
@@ -63,7 +63,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Authentication in Vue.js
+#### Authentication in Vue.js
 
 ---
 
@@ -101,7 +101,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Vue.JS Best Practices and Tips
+#### Vue.JS Best Practices and Tips
 
 ---
 
@@ -284,7 +284,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Vue JS with Markdown
+#### Vue JS with Markdown
 
 ---
 
@@ -298,7 +298,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Vue JS Courses
+#### Vue JS Courses
 
 ---
 
@@ -318,7 +318,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Vue JS resources on YouTube 
+#### Vue JS resources on YouTube 
 
 ---
 
@@ -356,7 +356,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Native Mobile Apps
+#### Native Mobile Apps
 
 ---
 
@@ -376,7 +376,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Testing Vue.Js Apps
+#### Testing Vue.Js Apps
 
 ---
 
@@ -408,7 +408,7 @@ In the time of information overload and rapid technological advancement, it is r
 <br>
 <br>
 
-### Books
+#### Books
 
 ---
 
@@ -418,3 +418,12 @@ In the time of information overload and rapid technological advancement, it is r
     title="Pro Vue.js 2"
     description="Explore Vue.js to take advantage of the capabilities of modern browsers and devices using the fastest-growing framework for building dynamic JavaScript applications. You will work with the power of the Model-View-Controller (MVC) pattern on the client, creating a strong foundation for complex and rich web apps."
   />
+<br>
+<br>
+<br>
+
+#### References
+
+---
+
+- [This article was originally posted on blogspot](https://software-development-toolbox.blogspot.com/2019/09/vuejs-learning-resources_25.html)
