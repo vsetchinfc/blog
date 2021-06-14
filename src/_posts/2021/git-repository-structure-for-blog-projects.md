@@ -14,3 +14,6 @@ description: In the time of information overload and rapid technological advance
 image: "/images/git-repository-structure-for-blog-projects/vuejs-leaning-resources.png"
 ---
 
+
+#### References
+
