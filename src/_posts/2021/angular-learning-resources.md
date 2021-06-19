@@ -1,10 +1,11 @@
 ---
-date: "2020-07-06"
+date: "2021-07-01"
 published: true
 slug: angular-learning-resources
 tags:
   - coding
   - angular
+  - new
 time_to_read: 2
 title: Angular Learning Resources
 description: In the time of information overload and rapid technology advancement it is really hard to follow and try out all the interesting projects, articles and samples.
