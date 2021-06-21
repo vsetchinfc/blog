@@ -9,10 +9,10 @@ tags:
 time_to_read: 5
 title: Vue.JS Learning Resources
 description: In the time of information overload and rapid technological advancement, it is really hard to follow and try out all the interesting projects, articles and samples.
-image: "/images/vuejs-learning-resources/vuejs-leaning-resources.png"
+image: "/images/vuejs-learning-resources/vuejs-learning-resources.png"
 ---
 
-<img src="/images/vuejs-learning-resources/vuejs-leaning-resources.png" alt="Vue JS Learning Resources"
+<img src="/images/vuejs-learning-resources/vuejs-learning-resources.png" alt="Vue JS Learning Resources"
 	title="Vue JS Learning Resources" class="w-100" />
 
 In the time of information overload and rapid technological advancement, it is really hard to follow and try out all the interesting projects, articles and samples. I have compiled a list of resources for the Vue JS framework that I am interested in reviewing and sharing. I will split resources by topics.
