@@ -8,10 +8,14 @@ tags:
   - new
 time_to_read: 2
 title: Angular Learning Resources
-description: In the time of information overload and rapid technology advancement it is really hard to follow and try out all the interesting projects, articles and samples.
+description: In the time of information overload and rapid technological advancement, it is really hard to follow and try out all the interesting projects, articles and samples. I have compiled a list of resources for the Angular framework that I am interested to try and review and share. I will split resources by topics.
+image: "/images/angular-learning-resources/angular-learning-resources.png"
 ---
 
-In the time of information overload and rapid technology advancement it is really hard to follow and try out all the interesting projects, articles and samples. I have compiled a list of resources for Angular framework that I am interested to try and review and share. I will split resources by topics.
+<img src="/images/angular-learning-resources/angular-learning-resources.png" alt="Vue JS Learning Resources"
+	title="Vue JS Learning Resources" class="w-100" />
+
+In the time of information overload and rapid technological advancement, it is really hard to follow and try out all the interesting projects, articles and samples. I have compiled a list of resources for the Angular framework that I am interested to try and review and share. I will split resources by topics.
 <br>
 <br>
 
