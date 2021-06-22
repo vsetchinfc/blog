@@ -4,7 +4,6 @@ published: true
 slug: angular-learning-resources
 tags:
   - coding
-  - updated
   - angular
 time_to_read: 2
 title: Angular Learning Resources

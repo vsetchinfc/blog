@@ -7,7 +7,6 @@ tags:
   - C#
   - .net core
   - unit tests
-  - updated
 time_to_read: 5
 title: Setup unit tests code coverage in VS Code for .Net Core projects
 description: When working on the project, does not matter how big or small, having written unit tests, integration tests, it is like having safety net under you before walking the thin line of changing functionality. Code coverage reporting after running tests helps track how much of the production code is covered by tests.

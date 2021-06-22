@@ -5,7 +5,7 @@ slug: using-command-line-utils-library
 tags:
   - coding
   - new
-  - .Net core
+  - .Net Core
 time_to_read: 2
 title: Using CommandLineUtils library to simplify Console App command line processing
 description: One of the common issues software developers face when implementing console applications is command line processing. This can range from simple parameters to multi-command / multi-option specification, which can lead to very complex command line parsing implementation.
