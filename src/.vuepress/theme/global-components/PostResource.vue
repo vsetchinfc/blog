@@ -14,6 +14,7 @@
         ><br />
       </div>
       "{{ description }}"
+      <a :href="link_url" target="_blank">{{ link_text }}</a>
     </div>
   </div>
 </template>
@@ -31,6 +32,12 @@ export default {
       type: String,
     },
     description: {
+      type: String,
+    },
+    link_url: {
+      type: String,
+    },
+    link_text: {
       type: String,
     },
   },
