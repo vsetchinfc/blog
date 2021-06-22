@@ -23,17 +23,46 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 
-**[Angular for Beginners - Let's build a Tic-Tac-Toe PWA](https://school.geekwall.in/p/S15Y_x7vr/angular-for-beginners-let-s-build-a-tic-tac-toe-pwa)**<br>
-_"Learn the basics of Angular 8 by building a tic-tac-toe game from scratch...Then deploy it as an installable progressive web app (PWA). Go beyond the basics"_
+<PostResource
+  image="/images/angular-learning-resources/p1.png"
+  url="https://school.geekwall.in/p/S15Y_x7vr/angular-for-beginners-let-s-build-a-tic-tac-toe-pwa"
+  title="Angular for Beginners - Let's build a Tic-Tac-Toe PWA"
+  description="Learn the basics of Angular 8 by building a tic-tac-toe game from scratch...Then deploy it as an installable progressive web app (PWA). Go beyond the basics"
+/>
+<PostResource
+  image="/images/angular-learning-resources/p2.png"
+  url="http://www.teclogiq.com/blog/angular-todo-application/"
+  title="Build an Angular ToDo App with Angular CLI in 6 Easy Steps"
+  description="Do you want to learn how to create an Angular ToDo App? Here are 6 easy steps that will help you to create an app with little coding efforts."
+  link_text = "Github repo"
+  link_url = "https://github.com/sanjay-patel/angular-todo-app"
+/>
+<PostResource
+  image="/images/angular-learning-resources/p3.png"
+  url="https://codequs.com/p/rkD7M44FN/building-a-crud-application-with-angular"
+  title="Building a CRUD application with Angular"
+  description="In this tutorial, you'll learn how to build a CRUD application with Angular."
+/>
+<PostResource
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://blog.bitsrc.io/component-inheritance-in-angular-acd1215d5dd8"
+  title="Component Inheritance in Angular"
+  description="Respect the DRY rule! Learn how to write code efficiently using component inheritance"
+/>
 
-**[Build an Angular ToDo App with Angular CLI in 6 Easy Steps](http://www.teclogiq.com/blog/angular-todo-application/)**<br>
-_"Do you want to learn how to create an Angular ToDo App? Here are 6 easy steps that will help you to create an app with little coding efforts."_ [Github repo](https://github.com/sanjay-patel/angular-todo-app)
+<PostResource
+  image="/images/angular-learning-resources/p4.png"
+  url="https://dzone.com/articles/how-to-preview-blobs-with-http-post-and-angular-5"
+  title="How to Preview Blobs With HTTP POST and Angular 5"
+  description="In this quick but helpful article, a software architect documents how to upload images to a web page using Angular and HTTP POST."
+/>
 
-**[Building a CRUD application with Angular](https://codequs.com/p/rkD7M44FN/building-a-crud-application-with-angular)**<br>
-_"In this tutorial, you'll learn how to build a CRUD application with Angular."_
-
-**[Component Inheritance in Angular](https://blog.bitsrc.io/component-inheritance-in-angular-acd1215d5dd8)**<br>
-_"Respect the DRY rule! Learn how to write code efficiently using component inheritance"_
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 
 **[How to Preview Blobs With HTTP POST and Angular 5](https://dzone.com/articles/how-to-preview-blobs-with-http-post-and-angular-5)**<br>
 _"In this quick but helpful article, a software architect documents how to upload images to a web page using Angular and HTTP POST."_
