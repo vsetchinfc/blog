@@ -64,9 +64,6 @@ In the time of information overload and rapid technological advancement, it is r
   description=""
 />
 
-**[How to Preview Blobs With HTTP POST and Angular 5](https://dzone.com/articles/how-to-preview-blobs-with-http-post-and-angular-5)**<br>
-_"In this quick but helpful article, a software architect documents how to upload images to a web page using Angular and HTTP POST."_
-
 **[Angular 8 HttpClient & Http Tutorial – Build and Consume RESTful API](https://morioh.com/p/edce618ab14d)**<br>
 _"Angular 8 HttpClient & Http tutorial is going to be discussed in this blog today. We’ll learn to create and consume RESTful APIs in Angular 8 project. To manage the data on the remote server, we make GET, POST, PUT and Delete using HttpClient API. We are required to import and setup HttpClient service in Angular 8 project to consume REST APIs."_
 
