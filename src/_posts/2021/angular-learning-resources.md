@@ -49,51 +49,72 @@ In the time of information overload and rapid technological advancement, it is r
   title="Component Inheritance in Angular"
   description="Respect the DRY rule! Learn how to write code efficiently using component inheritance"
 />
-
 <PostResource
   image="/images/angular-learning-resources/p4.png"
   url="https://dzone.com/articles/how-to-preview-blobs-with-http-post-and-angular-5"
   title="How to Preview Blobs With HTTP POST and Angular 5"
   description="In this quick but helpful article, a software architect documents how to upload images to a web page using Angular and HTTP POST."
 />
-
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p5.png"
+  url="https://morioh.com/p/edce618ab14d"
+  title="Angular 8 HttpClient & Http Tutorial – Build and Consume RESTful API"
+  description="Angular 8 HttpClient & Http tutorial is going to be discussed in this blog today. We’ll learn to create and consume RESTful APIs in Angular 8 project. To manage the data on the remote server, we make GET, POST, PUT and Delete using HttpClient API. We are required to import and setup HttpClient service in Angular 8 project to consume REST APIs."
 />
-
-**[Angular 8 HttpClient & Http Tutorial – Build and Consume RESTful API](https://morioh.com/p/edce618ab14d)**<br>
-_"Angular 8 HttpClient & Http tutorial is going to be discussed in this blog today. We’ll learn to create and consume RESTful APIs in Angular 8 project. To manage the data on the remote server, we make GET, POST, PUT and Delete using HttpClient API. We are required to import and setup HttpClient service in Angular 8 project to consume REST APIs."_
-
-**[Learn Angular 8 in 10 Days – Day 1](https://morioh.com/p/f2ca487d1b4d)**<br>
-_"Angular 8 is the latest production version of Angular. This Angular 8 tutorial, learn how to build large scale websites using Angular 8 in 10 days."_
-
-**[How to create an Angular 8 application with ASP.NET Core 3.0](https://morioh.com/p/bb7bec313d4b)**<br>
-_"In this post, I will explain the steps to create an Angular 8 application with ASP.NET 3.0. We will create a simple controller class to get latest C# Corner posts details and will be shown in the home component. We will get more features soon from Microsoft soon."_
-
-**[How to build Progressive Web Apps with Angular](https://tinyurl.com/y7gc8f7v)**<br>
-_"Progressive web apps are web applications built with technologies that make them behave like native apps. A benefit of progressive web apps is the ability to work smoothly when network coverage is unreliable. Also, unlike native apps, no installation is required, but they are faster than typical web apps"_
-
-**[Serverless REST API with Angular, Persistence and Security](https://tinyurl.com/y8v7dmd2)**<br>
-_"In this post I’ll show you how you can quickly build a serverless full stack app with static file hosting, a secure REST API, and a robust persistence layer."_
-
-**[Creating a Modal Dialog in Angular 8 with TypeScript](https://morioh.com/p/f7c1eca2519e)**<br>
-_"There are plenty of plugins and libraries out there that include modal windows, in the past I used them myself when I needed to add a modal to a new project."_
-
-**[Implementing a Angular project with AspNet Core](https://tinyurl.com/y6twln4d)**<br>
-_"This article will help us understand how to use the .NET Core command line interface to create and run an ASP.NET Core web application."_
-
-**[Build A Real World Beautiful Web APP with Angular 8 — A to Z](https://morioh.com/p/90c9499be4d2)**<br>
-_"Today I am going to show you how to build a real world beautiful weather app that is production ready from scratch starting from design to development all the way to deployment using Adobe XD, Angular 7 & Firebase!"_
+<PostResource
+  image="/images/angular-learning-resources/p6.png"
+  url="https://morioh.com/p/f2ca487d1b4d"
+  title="Learn Angular 8 in 10 Days – Day 1"
+  description="Angular 8 is the latest production version of Angular. This Angular 8 tutorial, learn how to build large scale websites using Angular 8 in 10 days."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p7.png"
+  url="https://morioh.com/p/bb7bec313d4b"
+  title="How to create an Angular 8 application with ASP.NET Core 3.0"
+  description="In this post, I will explain the steps to create an Angular 8 application with ASP.NET 3.0. We will create a simple controller class to get latest C# Corner posts details and will be shown in the home component. We will get more features soon from Microsoft soon."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p7.jpg"
+  url="https://tinyurl.com/y7gc8f7v"
+  title="How to build Progressive Web Apps with Angular"
+  description="Progressive web apps are web applications built with technologies that make them behave like native apps. A benefit of progressive web apps is the ability to work smoothly when network coverage is unreliable. Also, unlike native apps, no installation is required, but they are faster than typical web apps"
+/>
+<PostResource
+  image="/images/angular-learning-resources/p8.jpg"
+  url="https://tinyurl.com/y8v7dmd2"
+  title="Serverless REST API with Angular, Persistence and Security"
+  description="In this post I’ll show you how you can quickly build a serverless full stack app with static file hosting, a secure REST API, and a robust persistence layer."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p8.png"
+  url="https://morioh.com/p/f7c1eca2519e"
+  title="Creating a Modal Dialog in Angular 8 with TypeScript"
+  description="There are plenty of plugins and libraries out there that include modal windows, in the past I used them myself when I needed to add a modal to a new project."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p9.png"
+  url="https://tinyurl.com/y6twln4d"
+  title="Implementing a Angular project with AspNet Core"
+  description="This article will help us understand how to use the .NET Core command line interface to create and run an ASP.NET Core web application."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p10.png"
+  url="https://morioh.com/p/90c9499be4d2"
+  title="Build A Real World Beautiful Web APP with Angular 8 — A to Z"
+  description="Today I am going to show you how to build a real world beautiful weather app that is production ready from scratch starting from design to development all the way to deployment using Adobe XD, Angular 7 & Firebase!"
+/>
 <br>
 <br>
 
 ### Authentication with Angular
 
 ---
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Angular Authentication Tutorial for Beginners](https://codequs.com/p/rkZqonrOV/angular-authentication-tutorial-for-beginners)**<br>
 _"Angular Authentication Tutorial for Beginners: Learn the basic concepts that you will need to authenticate angular applications using JWT."_
 
