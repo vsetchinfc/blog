@@ -110,37 +110,23 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p11.png"
+  url="https://morioh.com/p/ed3e227baa2e"
+  title="How to Add Authentication to Your Angular Application"
+  description="...While building a SPA, the developer, sooner or later, needs to think about authentication and authorization. Authentication usually requires a login page that can verify that a user is who he or she claims to be..."
 />
-**[Angular Authentication Tutorial for Beginners](https://codequs.com/p/rkZqonrOV/angular-authentication-tutorial-for-beginners)**<br>
-_"Angular Authentication Tutorial for Beginners: Learn the basic concepts that you will need to authenticate angular applications using JWT."_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p12.png"
+  url="https://morioh.com/p/7da7955083ea"
+  title="Create Simple Login Page using Angular 8 and HTTP Authentication"
+  description="In this article, you'll learn how to setup a simple login page using Angular 8-9 and Basic HTTP authentication"
 />
-**[How to Add Authentication to Your Angular Application](https://morioh.com/p/ed3e227baa2e)**<br>
-_"...While building a SPA, the developer, sooner or later, needs to think about authentication and authorization. Authentication usually requires a login page that can verify that a user is who he or she claims to be..."_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p13.png"
+  url="https://morioh.com/p/62cb11ccbf9e"
+  title="Login in with Facebook and Google in an apps using Angular 8"
+  description="In this post, we will learn the step-by-step process of allowing users to log in to an application with Facebook and Gmail using Angular 8. Login with Facebook and Google makes it safe and easy for users to use applications."
 />
-**[Create Simple Login Page using Angular 8 and HTTP Authentication](https://morioh.com/p/7da7955083ea)**<br>
-_"In this article, you'll learn how to setup a simple login page using Angular 8-9 and Basic HTTP authentication"_
-<PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
-/>
-**[Login in with Facebook and Google in an apps using Angular 8](https://morioh.com/p/62cb11ccbf9e)**<br>
-_"In this post, we will learn the step-by-step process of allowing users to log in to an application with Facebook and Gmail using Angular 8. Login with Facebook and Google makes it safe and easy for users to use applications."_
 <br>
 <br>
 
