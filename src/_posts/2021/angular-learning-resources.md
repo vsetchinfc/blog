@@ -134,38 +134,73 @@ In the time of information overload and rapid technological advancement, it is r
 
 ---
 <PostResource
+  image="/images/angular-learning-resources/p14.png"
+  url="https://github.com/angular/universal/blob/master/README.md"
+  title="Angular Universal"
+  description="The Angular Universal project is a community driven project to expand on the core APIs from Angular (platform-server) to enable developers to do server side rendering of Angular applications in a variety of scenarios."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p9.jpg"
+  url="https://tinyurl.com/y8k2c8nn"
+  title="Best practices for a clean and performant Angular application"
+  description="This article outlines the practices we use in our application and is related to Angular, Typescript, RxJs and @ngrx/store"
+/>
+<PostResource
+  image="/images/angular-learning-resources/p15.png"
+  url="https://morioh.com/p/17fc4abf1eca"
+  title="How to Create Angular Schematics for Developers"
+  description="Angular CLI is a command-line tool that creates a simple Angular project. Angular CLI asks you questions about your app and, based on your answers, it determines the routing and the stylesheet format. How does Angular CLI do this? It uses Schematics."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p16.png"
+  url="https://morioh.com/p/4c5cadfe12b6"
+  title="A complete Guide to the Angular CLI"
+  description="The experience provided by a graphical user interface or GUI is considered to be interactive but plagued with performance issues. This has lead to people who prefer performance over visuals, to use a command-line interface or a CLI. In this article, we will be discussing the command line interface that comes along with Angular, i.e the angular-CLI."
+/>
+<PostResource
+  image="/images/angular-learning-resources/p17.png"
+  url="https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-onchanges"
+  title="Exploring Angular Lifecycle Hooks - OnChanges"
+  description="Welcome back to our blog series, Exploring Angular Lifecycle Hooks!"
+/>
+<PostResource
   image="/images/angular-learning-resources/p.png"
   url=""
   title=""
   description=""
 />
-**[Angular Universal](https://github.com/angular/universal/blob/master/README.md)**<br>
-_"The Angular Universal project is a community driven project to expand on the core APIs from Angular (platform-server) to enable developers to do server side rendering of Angular applications in a variety of scenarios."_
-
-**[Best practices for a clean and performant Angular application](https://tinyurl.com/y8k2c8nn)**<br>
-_"This article outlines the practices we use in our application and is related to Angular, Typescript, RxJs and @ngrx/store"_
-
-**[How to Create Angular Schematics for Developers](https://morioh.com/p/17fc4abf1eca)**<br>
-_"Angular CLI is a command-line tool that creates a simple Angular project. Angular CLI asks you questions about your app and, based on your answers, it determines the routing and the stylesheet format. How does Angular CLI do this? It uses Schematics."_
-
-**[A complete Guide to the Angular CLI](https://morioh.com/p/4c5cadfe12b6)**<br>
-_"The experience provided by a graphical user interface or GUI is considered to be interactive but plagued with performance issues. This has lead to people who prefer performance over visuals, to use a command-line interface or a CLI. In this article, we will be discussing the command line interface that comes along with Angular, i.e the angular-CLI."_
-
-**[Exploring Angular Lifecycle Hooks - OnChanges](https://ultimatecourses.com/blog/exploring-angular-lifecycle-hooks-onchanges)**<br>
-_"Welcome back to our blog series, Exploring Angular Lifecycle Hooks!"_
-
 **[Are You Ready For Angular 9?](https://morioh.com/p/54630ff3176d)**<br>
 _"The Angular 9 RC is out, what an exciting time to be Angular developer, no I am not saying this because of Angular 9 RC release. It's because Ivy is here, Ivy is now the default rendering engine in Angular."_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Debugging Memory Leaks in Angular](https://morioh.com/p/e4009f12c587)**<br>
 _"Building large applications entails writing lots of code, complex pages, long lists, and hundreds (if not more) of components. If you’ve worked at least once in a non-trivial web application, you may have found yourself battling a memory leak for hours and hours."_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Angular 8 | Build Autocomplete Mode with Angular Materials](https://morioh.com/p/73ff58a9d2c9)**<br>
 _"Today we are going to create Autocomplete in Angular 8 using Angular Material UI components."_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Using CSS Grid Layout in Angular project](https://morioh.com/p/16d26d9500c5)**<br>
 _"This CSS Grid layout tutorial is designed for Angular 7/8 developers that want to learn how to build responsive layouts with modern CSS."_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[How to Create Angular Toastr Notifications](https://tinyurl.com/y92597bl)**<br>
 _"Create an Angular service called notification , which you'll use in your application for showing the toastr message. In src/app create a folder called utility . Navigate to the utility folder and create an Angular service."_
 <br>
