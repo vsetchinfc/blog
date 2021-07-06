@@ -164,45 +164,46 @@ In the time of information overload and rapid technological advancement, it is r
   description="Welcome back to our blog series, Exploring Angular Lifecycle Hooks!"
 />
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p18.png"
+  url="https://morioh.com/p/54630ff3176d"
+  title="Are You Ready For Angular 9?"
+  description="The Angular 9 RC is out, what an exciting time to be Angular developer, no I am not saying this because of Angular 9 RC release. It's because Ivy is here, Ivy is now the default rendering engine in Angular."
 />
-**[Are You Ready For Angular 9?](https://morioh.com/p/54630ff3176d)**<br>
-_"The Angular 9 RC is out, what an exciting time to be Angular developer, no I am not saying this because of Angular 9 RC release. It's because Ivy is here, Ivy is now the default rendering engine in Angular."_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p19.png"
+  url="https://morioh.com/p/e4009f12c587"
+  title="Debugging Memory Leaks in Angular"
+  description="Building large applications entails writing lots of code, complex pages, long lists, and hundreds (if not more) of components. If you’ve worked at least once in a non-trivial web application, you may have found yourself battling a memory leak for hours and hours."
 />
-**[Debugging Memory Leaks in Angular](https://morioh.com/p/e4009f12c587)**<br>
-_"Building large applications entails writing lots of code, complex pages, long lists, and hundreds (if not more) of components. If you’ve worked at least once in a non-trivial web application, you may have found yourself battling a memory leak for hours and hours."_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p20.png"
+  url="https://morioh.com/p/73ff58a9d2c9"
+  title="Angular 8 | Build Autocomplete Mode with Angular Materials"
+  description="Today we are going to create Autocomplete in Angular 8 using Angular Material UI components."
 />
-**[Angular 8 | Build Autocomplete Mode with Angular Materials](https://morioh.com/p/73ff58a9d2c9)**<br>
-_"Today we are going to create Autocomplete in Angular 8 using Angular Material UI components."_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p21.png"
+  url="https://morioh.com/p/16d26d9500c5"
+  title="Using CSS Grid Layout in Angular project"
+  description="This CSS Grid layout tutorial is designed for Angular 7/8 developers that want to learn how to build responsive layouts with modern CSS."
 />
-**[Using CSS Grid Layout in Angular project](https://morioh.com/p/16d26d9500c5)**<br>
-_"This CSS Grid layout tutorial is designed for Angular 7/8 developers that want to learn how to build responsive layouts with modern CSS."_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/p22.png"
+  url="https://tinyurl.com/y92597bl"
+  title="How to Create Angular Toastr Notifications"
+  description="Create an Angular service called notification , which you'll use in your application for showing the toastr message. In src/app create a folder called utility . Navigate to the utility folder and create an Angular service."
 />
-**[How to Create Angular Toastr Notifications](https://tinyurl.com/y92597bl)**<br>
-_"Create an Angular service called notification , which you'll use in your application for showing the toastr message. In src/app create a folder called utility . Navigate to the utility folder and create an Angular service."_
+
+
+https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-1-event-binding-3ec7e9f51a1d
+https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-2-hostlistener-1b66d45b3e3d
+https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-3-renderer2-listen-14c6fe052b59
+https://netbasal.com/three-ways-to-dynamically-alter-your-form-validation-in-angular-e5fd15f1e946
+https://indepth.dev/posts/1307/5-tips-to-boost-your-angular-skills
+https://angular-checklist.io/default/checklist/ngrx
+https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv
+https://www.codemag.com/article/1801021/Configuration-Settings-for-Angular-Applications
+
 <br>
 <br>
 
@@ -210,9 +211,20 @@ _"Create an Angular service called notification , which you'll use in your appli
 
 ---
 
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Angular Augury](https://augury.rangle.io/)**<br>
 _"A Chrome and Firefox Dev Tools extension for debugging Angular applications"_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Angular state inspector](https://tinyurl.com/y3sktkwh)**<br>
 _"Helps you debug Angular component state"_
 <br>
@@ -222,6 +234,12 @@ _"Helps you debug Angular component state"_
 
 ---
 
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Test Driven Development with Angular](https://school.geekwall.in/p/Hk2h1hp-B/test-driven-development-with-angular)**<br>
 _"In this video, you will learn the basics of test-driven development while building a simple Angular web application."_
 <br>
@@ -231,15 +249,36 @@ _"In this video, you will learn the basics of test-driven development while buil
 
 ---
 
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Angular Node Express MongoDB MEAN Tutorial for Beginners](https://codequs.com/p/HJEKLQNSB/angular-node-express-mongodb-mean-tutorial-for-beginners)**<br>
 _"In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy instructor Maximilian Schwarzmüller will teach you how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application."_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Sharing Data between Components in Angular](https://school.geekwall.in/p/S1dUX1ZLr/sharing-data-between-components-in-angular)**<br>
 _"Sharing Data between Components in Angular. In this episode, I am going to show you four different ways to share data between Angular components"_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Learn Angular 8 from Scratch for Beginners - Crash Course](https://tinyurl.com/y7nahnwg)**<br>
 _"Angular 8 is out now, and for those who prefer to learn a framework with the current latest version, this tutorial is for you"_
-
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
 **[Google Maps in Angular](https://tinyurl.com/yc8urbnh)**<br>
 _"Google maps meet Angular. Having such a strong developer community and being used by thousands of developers around the world made Angular ideal for bringing most tools to the framework"_
 <br>
