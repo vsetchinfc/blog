@@ -193,17 +193,50 @@ In the time of information overload and rapid technological advancement, it is r
   title="How to Create Angular Toastr Notifications"
   description="Create an Angular service called notification , which you'll use in your application for showing the toastr message. In src/app create a folder called utility . Navigate to the utility folder and create an Angular service."
 />
+<PostResource
+  image="https://miro.medium.com/max/526/1*KW8ia5wHC2IR8Su2OvKy6A.jpeg"
+  url="https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-1-event-binding-3ec7e9f51a1d"
+  title="Four ways of listening to DOM events in Angular (Part 1: Event Binding)"
+  description="Listening to DOM events and keeping Angular application performant can be challenging. Angular offers several methods to listen to events…"
+/>
+<PostResource
+  image="https://miro.medium.com/max/620/1*-P6X92tj9lHRsAn18-aoCg.jpeg"
+  url="https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-2-hostlistener-1b66d45b3e3d"
+  title="Four ways of listening to DOM events in Angular (Part 2: @HostListener)"
+  description="In the previous article of this series, we’ve talked about what Angular Event Binding is and how it could be used in a variety of…"
+/>
+<PostResource
+  image="https://miro.medium.com/max/665/1*RaZ1eUz15e8ELop0sZlM5Q.jpeg"
+  url="https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-3-renderer2-listen-14c6fe052b59"
+  title="Four ways of listening to DOM events in Angular (Part 3: Renderer2.listen)"
+  description="In the previous two posts, we did a deep-dive into how we could listen to DOM events in an Angular app through the following two methods:"
+/>
+<PostResource
+  image="https://miro.medium.com/max/1200/1*vJxd5T8e8gVGBGU2iitcnA.png"
+  url="https://netbasal.com/three-ways-to-dynamically-alter-your-form-validation-in-angular-e5fd15f1e946"
+  title="Three Ways to Dynamically Alter your Form Validation in Angular"
+  description="Dynamic form validation in Angular"
+/>
+<PostResource
+  image="https://images.indepth.dev/images/2020/07/Alex-Inkin.jpg"
+  url="https://indepth.dev/posts/1307/5-tips-to-boost-your-angular-skills"
+  title="5 tips to boost your Angular skills - Angular inDepth"
+  description="Check out these advises backed by concrete examples which can help you improve your developer skills and give you some practical tricks."
+/>
 
 
-https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-1-event-binding-3ec7e9f51a1d
-https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-2-hostlistener-1b66d45b3e3d
-https://medium.com/claritydesignsystem/four-ways-of-listening-to-dom-events-in-angular-part-3-renderer2-listen-14c6fe052b59
-https://netbasal.com/three-ways-to-dynamically-alter-your-form-validation-in-angular-e5fd15f1e946
-https://indepth.dev/posts/1307/5-tips-to-boost-your-angular-skills
+
+
 https://angular-checklist.io/default/checklist/ngrx
 https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv
 https://www.codemag.com/article/1801021/Configuration-Settings-for-Angular-Applications
 
+<PostResource
+  image=""
+  url=""
+  title=""
+  description=""
+/>
 <br>
 <br>
 
