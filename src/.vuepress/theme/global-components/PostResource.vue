@@ -6,6 +6,7 @@
         alt="Resource 5"
         title="Resource 5"
         class="w-100 h-100"
+        loading="lazy"
       />
     </div>
     <div class="col-lg-7 col-sm-12 mt-lg-2 mt-3 mb-3">
@@ -14,6 +15,7 @@
         ><br />
       </div>
       "{{ description }}"
+      <a :href="link_url" target="_blank">{{ link_text }}</a>
     </div>
   </div>
 </template>
@@ -31,6 +33,12 @@ export default {
       type: String,
     },
     description: {
+      type: String,
+    },
+    link_url: {
+      type: String,
+    },
+    link_text: {
       type: String,
     },
   },
