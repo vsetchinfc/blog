@@ -230,6 +230,9 @@ In the time of information overload and rapid technological advancement, it is r
 https://angular-checklist.io/default/checklist/ngrx
 https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv
 https://www.codemag.com/article/1801021/Configuration-Settings-for-Angular-Applications
+https://www.gistia.com/boost-angular-performance-lazy-loading/
+https://www.gistia.com/insights/boost-angular-performance-lazy-loading-part-2
+https://www.gistia.com/insights/boost-angular-performance-lazy-loading-part-3
 
 <PostResource
   image=""
