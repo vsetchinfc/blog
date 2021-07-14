@@ -223,16 +223,43 @@ In the time of information overload and rapid technological advancement, it is r
   title="5 tips to boost your Angular skills - Angular inDepth"
   description="Check out these advises backed by concrete examples which can help you improve your developer skills and give you some practical tricks."
 />
+<PostResource
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://angular-checklist.io/default/checklist/ngrx"
+  title="Angular Checklist"
+  description="Angular Checklist is a curated list of best practices for Angular apps. It’s a todo application where each item represents one best practice. You can use it for code reviews or as a style guide for your applications."
+/>
+<PostResource
+  image="https://ardalis.com/static/c6a1999bf316dc90381f51fd1bab25f2/4c509/applying-the-builder-pattern-to-improve-angular-service.png"
+  url="https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv"
+  title="Applying the Builder Pattern to Improve an Angular Service"
+  description="Applying the Builder Pattern to Improve an Angular Service. Recently I was working on an Angular/Typescript service that was building up some navigation-related properties, driving the menu of a SPA application."
+/>
+<PostResource
+  image="http://www.codemag.com/Magazine/CoverLarge/2e14275f-1aba-4dff-adc3-5321cc9498ad"
+  url="https://www.codemag.com/article/1801021/Configuration-Settings-for-Angular-Applications"
+  title="Configuration Settings for Angular Applications"
+  description="Learn to create an Angular service to read and mod"
+/>
+<PostResource
+  image="https://www.gistia.com/hubfs/spacex-MEW1f-yu2KI-unsplash.jpg#keepProtocol"
+  url="https://www.gistia.com/boost-angular-performance-lazy-loading/"
+  title="Boosting Angular's Performance With Lazy Loading (Part 1)"
+  description="Make sure that your Angular application not only looks awesome but also performs well. Learn how to use lazy loading to boost the performance of your app and take it to the next level."
+/>
+<PostResource
+  image="https://www.gistia.com/hubfs/bill-jelen-woWf_VJ7dNs-unsplash.jpg#keepProtocol"
+  url="https://www.gistia.com/insights/boost-angular-performance-lazy-loading-part-2"
+  title="Boosting Angular’s Performance With Lazy Loading (Part 2)"
+  description="Make sure that your Angular application not only looks awesome but also performs well. In part 2 learn how to control lazy loading with preloading strategies."
+/>
+<PostResource
+  image="https://www.gistia.com/hubfs/spacex--p-KCm6xB9I-unsplash.jpg#keepProtocol"
+  url="https://www.gistia.com/insights/boost-angular-performance-lazy-loading-part-3"
+  title="Boosting Angular’s Performance With Lazy Loading (Part 3)"
+  description="Make sure that your Angular application not only looks awesome but also performs well. In part 3 learn to load dynamically, at runtime, a set of predefined modules and components in your application"
+/>
 
-
-
-
-https://angular-checklist.io/default/checklist/ngrx
-https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv
-https://www.codemag.com/article/1801021/Configuration-Settings-for-Angular-Applications
-https://www.gistia.com/boost-angular-performance-lazy-loading/
-https://www.gistia.com/insights/boost-angular-performance-lazy-loading-part-2
-https://www.gistia.com/insights/boost-angular-performance-lazy-loading-part-3
 
 <PostResource
   image=""

@@ -1,5 +1,5 @@
 <template>
-  <div class="row mt-lg-4 mt-sm-4">
+  <div class="row mt-lg-5 mt-sm-5 post-resource">
     <div class="col-lg-5 col-sm-12">
       <img
         :src="image"
@@ -45,4 +45,9 @@ export default {
 };
 </script>
 
-<style scoped lang="scss"></style>
+<style scoped lang="scss">
+.post-resource {
+  content-visibility: auto;
+  contain-intrinsic-size: 800px 500px;
+}
+</style>
