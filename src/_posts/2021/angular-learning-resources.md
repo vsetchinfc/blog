@@ -259,14 +259,6 @@ In the time of information overload and rapid technological advancement, it is r
   title="Boosting Angular’s Performance With Lazy Loading (Part 3)"
   description="Make sure that your Angular application not only looks awesome but also performs well. In part 3 learn to load dynamically, at runtime, a set of predefined modules and components in your application"
 />
-
-
-<PostResource
-  image=""
-  url=""
-  title=""
-  description=""
-/>
 <br>
 <br>
 
