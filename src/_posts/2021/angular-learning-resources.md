@@ -348,3 +348,34 @@ _"Google maps meet Angular. Having such a strong developer community and being u
 - [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
 - [Angular Switchery IOS](https://github.com/zainzafar90/angular-switchery-ios#readme)
 - [Top Tools for AngularJS development](https://dzone.com/articles/top-tools-for-angularjs-development)
+
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
