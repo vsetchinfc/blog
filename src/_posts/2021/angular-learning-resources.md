@@ -267,21 +267,17 @@ In the time of information overload and rapid technological advancement, it is r
 ---
 
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://augury.rangle.io"
+  title="Angular Augury"
+  description="A Chrome and Firefox Dev Tools extension for debugging Angular applications"
 />
-**[Angular Augury](https://augury.rangle.io/)**<br>
-_"A Chrome and Firefox Dev Tools extension for debugging Angular applications"_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
+  image="https://lh3.googleusercontent.com/h3MO2IyI-ZvZhEVMb45tRF6ee5l7TNe6iAsTpx30lPFQsHzn-fF8nPBwavXr699bcf1P6C_icy5T8_NLSKyDUJibMA=w128-h128-e365-rj-sc0x00ffffff"
+  url="https://tinyurl.com/y3sktkwh"
+  title="Angular state inspector"
+  description="Helps you debug Angular component state. Supports Angular 1/2+/Ivy!"
 />
-**[Angular state inspector](https://tinyurl.com/y3sktkwh)**<br>
-_"Helps you debug Angular component state"_
 <br>
 <br>
 
@@ -290,7 +286,7 @@ _"Helps you debug Angular component state"_
 ---
 
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
@@ -305,7 +301,7 @@ _"In this video, you will learn the basics of test-driven development while buil
 ---
 
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
@@ -313,7 +309,7 @@ _"In this video, you will learn the basics of test-driven development while buil
 **[Angular Node Express MongoDB MEAN Tutorial for Beginners](https://codequs.com/p/HJEKLQNSB/angular-node-express-mongodb-mean-tutorial-for-beginners)**<br>
 _"In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy instructor Maximilian Schwarzmüller will teach you how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application."_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
@@ -321,7 +317,7 @@ _"In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy
 **[Sharing Data between Components in Angular](https://school.geekwall.in/p/S1dUX1ZLr/sharing-data-between-components-in-angular)**<br>
 _"Sharing Data between Components in Angular. In this episode, I am going to show you four different ways to share data between Angular components"_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
@@ -329,7 +325,7 @@ _"Sharing Data between Components in Angular. In this episode, I am going to sho
 **[Learn Angular 8 from Scratch for Beginners - Crash Course](https://tinyurl.com/y7nahnwg)**<br>
 _"Angular 8 is out now, and for those who prefer to learn a framework with the current latest version, this tutorial is for you"_
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
@@ -350,29 +346,36 @@ _"Google maps meet Angular. Having such a strong developer community and being u
 - [Top Tools for AngularJS development](https://dzone.com/articles/top-tools-for-angularjs-development)
 
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
 />
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
 />
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
 />
 <PostResource
-  image="/images/angular-learning-resources/p.png"
+  image=""
   url=""
   title=""
   description=""
 />
+<PostResource
+  image=""
+  url=""
+  title=""
+  description=""
+/>
+
 <PostResource
   image="/images/angular-learning-resources/p.png"
   url=""
