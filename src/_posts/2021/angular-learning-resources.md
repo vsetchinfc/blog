@@ -382,3 +382,9 @@ _"Google maps meet Angular. Having such a strong developer community and being u
   title=""
   description=""
 />
+<PostResource
+  image="/images/angular-learning-resources/p.png"
+  url=""
+  title=""
+  description=""
+/>
