@@ -31,3 +31,4 @@ References
 https://github.com/bradtraversy/design-resources-for-developers
 https://devresourc.es/
 https://twitter.com/vponamariov/status/1396868282943086595
+https://github.com/dypsilon/frontend-dev-bookmarks
