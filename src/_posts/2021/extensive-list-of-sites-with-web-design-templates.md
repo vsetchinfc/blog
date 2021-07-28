@@ -1,4 +1,10 @@
 https://html5up.net/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 http://www.mashup-template.com/templates.html
 https://templatemo.com/
 https://freehtml5.co/
