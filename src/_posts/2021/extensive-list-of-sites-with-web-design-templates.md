@@ -6,7 +6,19 @@ https://html5up.net/
     description=""
   />
 http://www.mashup-template.com/templates.html
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://templatemo.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://freehtml5.co/
 https://www.styleshout.com/free-templates/
 https://startbootstrap.com/
