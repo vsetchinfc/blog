@@ -20,7 +20,19 @@ https://templatemo.com/
     description=""
   />
 https://freehtml5.co/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://www.styleshout.com/free-templates/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://startbootstrap.com/
 https://www.zerotheme.com/
 https://www.html5xcss3.com/
