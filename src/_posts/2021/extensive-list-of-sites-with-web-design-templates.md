@@ -34,7 +34,19 @@ https://www.styleshout.com/free-templates/
     description=""
   />
 https://startbootstrap.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://www.zerotheme.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://www.html5xcss3.com/
 https://www.free-css.com/free-css-templates
 https://www.hubspot.com/resources
