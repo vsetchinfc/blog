@@ -62,6 +62,12 @@ https://www.free-css.com/free-css-templates
     description=""
   />
 https://www.hubspot.com/resources
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://mobirise.com/html-templates/
 https://bootswatch.com/
 https://onepagelove.com/
