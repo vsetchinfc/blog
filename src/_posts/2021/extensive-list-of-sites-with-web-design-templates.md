@@ -69,7 +69,19 @@ https://www.hubspot.com/resources
     description=""
   />
 https://mobirise.com/html-templates/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://bootswatch.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://onepagelove.com/
 https://themesfor.app/
 https://bootstraptaste.com/
