@@ -83,7 +83,19 @@ https://bootswatch.com/
     description=""
   />
 https://onepagelove.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://themesfor.app/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://bootstraptaste.com/
 https://bootstrapmade.com/
 https://www.tooplate.com/
