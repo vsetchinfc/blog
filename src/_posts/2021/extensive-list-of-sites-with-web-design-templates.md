@@ -97,7 +97,19 @@ https://themesfor.app/
     description=""
   />
 https://bootstraptaste.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://bootstrapmade.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://www.tooplate.com/
 https://cruip.com/free-templates/
 https://uideck.com/
