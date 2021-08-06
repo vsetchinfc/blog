@@ -111,6 +111,12 @@ https://bootstrapmade.com/
     description=""
   />
 https://www.tooplate.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://cruip.com/free-templates/
 https://uideck.com/
 https://splawr.com/
