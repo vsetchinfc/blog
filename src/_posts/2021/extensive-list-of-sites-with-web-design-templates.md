@@ -118,6 +118,12 @@ https://www.tooplate.com/
     description=""
   />
 https://cruip.com/free-templates/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://uideck.com/
 https://splawr.com/
 https://www.w3schools.com/w3css/w3css_templates.asp
