@@ -125,6 +125,12 @@ https://cruip.com/free-templates/
     description=""
   />
 https://uideck.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://splawr.com/
 https://www.w3schools.com/w3css/w3css_templates.asp
 https://all-free-download.com/free-website-templates/free-html-css-templates.html
