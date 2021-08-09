@@ -132,6 +132,12 @@ https://uideck.com/
     description=""
   />
 https://splawr.com/
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://www.w3schools.com/w3css/w3css_templates.asp
 https://all-free-download.com/free-website-templates/free-html-css-templates.html
 http://www.mashup-template.com/templates.html
