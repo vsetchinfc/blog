@@ -301,10 +301,10 @@ _"In this video, you will learn the basics of test-driven development while buil
 ---
 
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://codequs.com/p/HJEKLQNSB/angular-node-express-mongodb-mean-tutorial-for-beginners"
+  title="Angular Node Express MongoDB MEAN Tutorial for Beginners"
+  description="In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy instructor Maximilian Schwarzmüller will teach you how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application."
 />
 **[Angular Node Express MongoDB MEAN Tutorial for Beginners](https://codequs.com/p/HJEKLQNSB/angular-node-express-mongodb-mean-tutorial-for-beginners)**<br>
 _"In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy instructor Maximilian Schwarzmüller will teach you how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application."_
