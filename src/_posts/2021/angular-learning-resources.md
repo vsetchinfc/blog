@@ -306,24 +306,18 @@ _"In this video, you will learn the basics of test-driven development while buil
   title="Angular Node Express MongoDB MEAN Tutorial for Beginners"
   description="In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy instructor Maximilian Schwarzmüller will teach you how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application."
 />
-**[Angular Node Express MongoDB MEAN Tutorial for Beginners](https://codequs.com/p/HJEKLQNSB/angular-node-express-mongodb-mean-tutorial-for-beginners)**<br>
-_"In this video, Angular Node Express MongoDB MEAN Tutorial for Beginners, Udemy instructor Maximilian Schwarzmüller will teach you how to connect your Angular Frontend to a NodeJS & Express & MongoDB Backend by building a real Application."_
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="https://i.imgur.com/z8uWRn9.jpg"
+  url="https://school.geekwall.in/p/S1dUX1ZLr/sharing-data-between-components-in-angular"
+  title="Sharing Data between Components in Angular"
+  description="Sharing Data between Components in Angular. In this episode, I am going to show you four different ways to share data between Angular components"
 />
-**[Sharing Data between Components in Angular](https://school.geekwall.in/p/S1dUX1ZLr/sharing-data-between-components-in-angular)**<br>
-_"Sharing Data between Components in Angular. In this episode, I am going to show you four different ways to share data between Angular components"_
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://tinyurl.com/y7nahnwg"
+  title="Learn Angular 8 from Scratch for Beginners - Crash Course"
+  description="Angular 8 is out now, and for those who prefer to learn a framework with the current latest version, this tutorial is for you"
 />
-**[Learn Angular 8 from Scratch for Beginners - Crash Course](https://tinyurl.com/y7nahnwg)**<br>
-_"Angular 8 is out now, and for those who prefer to learn a framework with the current latest version, this tutorial is for you"_
 <PostResource
   image=""
   url=""
