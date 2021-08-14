@@ -319,13 +319,11 @@ _"In this video, you will learn the basics of test-driven development while buil
   description="Angular 8 is out now, and for those who prefer to learn a framework with the current latest version, this tutorial is for you"
 />
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://tinyurl.com/yc8urbnh"
+  title="Google Maps in Angular"
+  description="Google maps meet Angular. Having such a strong developer community and being used by thousands of developers around the world made Angular ideal for bringing most tools to the framework"
 />
-**[Google Maps in Angular](https://tinyurl.com/yc8urbnh)**<br>
-_"Google maps meet Angular. Having such a strong developer community and being used by thousands of developers around the world made Angular ideal for bringing most tools to the framework"_
 <br>
 <br>
 
