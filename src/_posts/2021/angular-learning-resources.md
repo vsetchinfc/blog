@@ -332,17 +332,18 @@ _"In this video, you will learn the basics of test-driven development while buil
 ---
 
 - [Angular 8 Tutorial | FormArray In Angular 8 with Example](https://morioh.com/p/dc64d2d22774)
-- [Best Chrome Extensions For Debugging Angular Apps](https://tinyurl.com/y3sktkwh)
-- [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
-- [Angular Switchery IOS](https://github.com/zainzafar90/angular-switchery-ios#readme)
-- [Top Tools for AngularJS development](https://dzone.com/articles/top-tools-for-angularjs-development)
-
 <PostResource
   image=""
   url=""
   title=""
   description=""
 />
+- [Best Chrome Extensions For Debugging Angular Apps](https://tinyurl.com/y3sktkwh)
+- [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
+- [Angular Switchery IOS](https://github.com/zainzafar90/angular-switchery-ios#readme)
+- [Top Tools for AngularJS development](https://dzone.com/articles/top-tools-for-angularjs-development)
+
+
 <PostResource
   image=""
   url=""
