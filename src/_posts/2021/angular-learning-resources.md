@@ -339,6 +339,12 @@ _"In this video, you will learn the basics of test-driven development while buil
   description=""
 />
 - [Best Chrome Extensions For Debugging Angular Apps](https://tinyurl.com/y3sktkwh)
+<PostResource
+  image=""
+  url=""
+  title=""
+  description=""
+/>
 - [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
 - [Angular Switchery IOS](https://github.com/zainzafar90/angular-switchery-ios#readme)
 - [Top Tools for AngularJS development](https://dzone.com/articles/top-tools-for-angularjs-development)
