@@ -386,13 +386,6 @@ _"In this video, you will learn the basics of test-driven development while buil
   title=""
   description=""
 />
-
-<PostResource
-  image="/images/angular-learning-resources/p.png"
-  url=""
-  title=""
-  description=""
-/>
 <PostResource
   image="/images/angular-learning-resources/p.png"
   url=""
