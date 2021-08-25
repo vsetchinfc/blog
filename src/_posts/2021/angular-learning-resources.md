@@ -331,12 +331,11 @@ _"In this video, you will learn the basics of test-driven development while buil
 
 ---
 
-- [Angular 8 Tutorial | FormArray In Angular 8 with Example](https://morioh.com/p/dc64d2d22774)
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://morioh.com/p/dc64d2d22774"
+  title="Angular 8 Tutorial | FormArray In Angular 8 with Example"
+  description="The Form Array is a way to group Form controls in Angular."
 />
 - [Best Chrome Extensions For Debugging Angular Apps](https://tinyurl.com/y3sktkwh)
 <PostResource
