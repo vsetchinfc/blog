@@ -337,12 +337,12 @@ _"In this video, you will learn the basics of test-driven development while buil
   title="Angular 8 Tutorial | FormArray In Angular 8 with Example"
   description="The Form Array is a way to group Form controls in Angular."
 />
-- [Best Chrome Extensions For Debugging Angular Apps](https://tinyurl.com/y3sktkwh)
+- [Best Chrome Extensions For Debugging Angular Apps]()
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://tinyurl.com/y3sktkwh"
+  title="Best Chrome Extensions For Debugging Angular Apps"
+  description="Angular State Inspector for Angular - Helps you debug Angular component state. Supports Angular 1/2+/Ivy!"
 />
 - [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
 <PostResource
