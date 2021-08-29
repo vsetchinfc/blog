@@ -343,7 +343,6 @@ _"In this video, you will learn the basics of test-driven development while buil
   title="Best Chrome Extensions For Debugging Angular Apps"
   description="Angular State Inspector for Angular - Helps you debug Angular component state. Supports Angular 1/2+/Ivy!"
 />
-- [Angular widgets built from the ground up using only Bootstrap 4 CSS with APIs designed for the Angular ecosystem](https://ng-bootstrap.github.io/)
 <PostResource
   image="https://ng-bootstrap.github.io/img/logo.svg"
   url="https://ng-bootstrap.github.io"
