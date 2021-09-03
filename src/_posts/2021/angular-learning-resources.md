@@ -351,10 +351,10 @@ _"In this video, you will learn the basics of test-driven development while buil
 />
 - [Angular Switchery IOS](https://github.com/zainzafar90/angular-switchery-ios#readme)
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="https://opengraph.githubassets.com/48f0375f35f17688bc17bc99a3b88f583a4863a1c2ddd083d55a3750583723dd/zainzafar90/angular-switchery-ios"
+  url="https://github.com/zainzafar90/angular-switchery-ios#readme"
+  title="Angular Switchery IOS"
+  description="IOS Toggle switch button in Angular (Angular Switchery IOS) - GitHub - zainzafar90/angular-switchery-ios: IOS Toggle switch button in Angular (Angular Switchery IOS)"
 />
 - [Top Tools for AngularJS development](https://dzone.com/articles/top-tools-for-angularjs-development)
 <PostResource
