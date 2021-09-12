@@ -355,3 +355,9 @@ _"In this video, you will learn the basics of test-driven development while buil
   title="Angular Switchery IOS"
   description="IOS Toggle switch button in Angular (Angular Switchery IOS) - GitHub - zainzafar90/angular-switchery-ios: IOS Toggle switch button in Angular (Angular Switchery IOS)"
 />
+<PostResource
+  image="https://snipcart.com/media/205845/angular-plus-snipcart.png"
+  url="https://snipcart.com/blog/angular-ecommerce-project"
+  title="Angular E-Commerce Project: Build a Web App Tutorial - Snipcart"
+  description="Learn how to build your next Angular e-commerce project with this in-depth tutorial. Live demo \u0026 GitHub repo included."
+/>
