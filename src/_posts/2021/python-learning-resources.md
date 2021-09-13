@@ -65,3 +65,35 @@ _"Learn Python in this full tutorial course for beginners. This course takes a p
 **[Python Tutorials for Absolute Beginners by CS Dojo](https://tinyurl.com/yav8q35o)**<br>
 <br>
 <br>
+
+
+How do I run a Python script from C#?
+https://stackoverflow.com/questions/11779143/how-do-i-run-a-python-script-from-c
+
+
+7 Best Python Books To Learn Programming
+https://tinyurl.com/yxjggsnu
+#CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #webdev
+
+
+https://www.qt.io/blog/2018/11/15/python-qt-3000-hours-developer-insight?utm_source=programmingdigest&utm_medium=email&utm_campaign=featured
+
+https://hub.packtpub.com/eight-things-you-need-learn-python/
+
+https://www.c-sharpcorner.com/article/basics-of-python/
+
+
+https://www.linux.com/news/home-assistant-python-approach-home-automation-video/
+
+https://www.udemy.com/course/complete-python-developer-zero-to-mastery
+
+http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+
+https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/amp/
+
+https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/?__twitter_impression=true
+
+https://morioh.com/p/6b7f7e44a0f9
+
+https://www.learnpython.org/
+
