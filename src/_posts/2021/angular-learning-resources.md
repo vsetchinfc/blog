@@ -286,13 +286,17 @@ In the time of information overload and rapid technological advancement, it is r
 ---
 
 <PostResource
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://school.geekwall.in/p/Hk2h1hp-B/test-driven-development-with-angular"
+  title="Test Driven Development with Angular"
+  description="In this video, you will learn the basics of test-driven development while building a simple Angular web application."
+/>
+<PostResource
   image=""
   url=""
   title=""
   description=""
 />
-**[Test Driven Development with Angular](https://school.geekwall.in/p/Hk2h1hp-B/test-driven-development-with-angular)**<br>
-_"In this video, you will learn the basics of test-driven development while building a simple Angular web application."_
 <br>
 <br>
 
@@ -327,7 +331,7 @@ _"In this video, you will learn the basics of test-driven development while buil
 <br>
 <br>
 
-### References
+### Additional resources
 
 ---
 
