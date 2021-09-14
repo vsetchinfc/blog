@@ -291,12 +291,6 @@ In the time of information overload and rapid technological advancement, it is r
   title="Test Driven Development with Angular"
   description="In this video, you will learn the basics of test-driven development while building a simple Angular web application."
 />
-<PostResource
-  image=""
-  url=""
-  title=""
-  description=""
-/>
 <br>
 <br>
 
@@ -327,6 +321,36 @@ In the time of information overload and rapid technological advancement, it is r
   url="https://tinyurl.com/yc8urbnh"
   title="Google Maps in Angular"
   description="Google maps meet Angular. Having such a strong developer community and being used by thousands of developers around the world made Angular ideal for bringing most tools to the framework"
+/>
+<PostResource
+  image="https://i.ytimg.com/vi/3dHNOWTI7H8/maxresdefault.jpg"
+  url="https://www.youtube.com/watch?v=3dHNOWTI7H8\u0026t=2681s"
+  title="Angular Crash Course (2021)"
+  description="Learn the fundamentals of Angular in this project-based crash course..."
+/>
+<PostResource
+  image="https://i.ytimg.com/vi/hxUUQCPN8k4/maxresdefault.jpg"
+  url="https://www.youtube.com/watch?v=hxUUQCPN8k4&list=WL&index=82&ab_channel=GrUSP"
+  title="Önder Ceylan - Level up your NgRx game - angularday 2019"
+  description="State management can get really complex for scaled Angular applications. NgRx can be an answer for the complexity of this problem. This talk will cover some of the best practices of building an NgRx Angular app. We'll go through building a good action hygiene, efficiently using schematics, improving your apps performance with one-way data binding and memoized selectors, reducing the boilerplate with entities/schematics and introducing ngrx-data. After this session, you'll have more control on the NgRx platform with the grasp of entities, memoized selectors, effects and schematics."
+/>
+<PostResource
+  image="https://i.ytimg.com/vi/VkGmaVm6-IQ/sddefault.jpg"
+  url="https://www.youtube.com/watch?v=VkGmaVm6-IQ&list=WL&index=85&ab_channel=kudvenkat"
+  title="Deploy angular app to IIS"
+  description="In this video we will discuss deploying angular application to IIS."
+/>
+<PostResource
+  image="https://i.ytimg.com/vi/bavWOHZM6zE/maxresdefault.jpg"
+  url="https://www.youtube.com/watch?v=bavWOHZM6zE&list=WL&index=203&ab_channel=Angular"
+  title="Introducing Angular DevTools"
+  description="This video introducing Angular Developer Tools"
+/>
+<PostResource
+  image="https://i.ytimg.com/vi/22K-cftN-e0/maxresdefault.jpg"
+  url="https://www.youtube.com/watch?v=22K-cftN-e0&list=WL&index=133&t=20s&ab_channel=ng-conf"
+  title="Good Action Hygiene with NgRx | Mike Ryan | ng-conf 2018 Minified"
+  description="ng-conf is the world's first and largest Angular conference, set over a 3-day period for over 1500 developers. For more information and to buy tickets, go to www.ng-conf.org."
 />
 <br>
 <br>
@@ -364,4 +388,83 @@ In the time of information overload and rapid technological advancement, it is r
   url="https://snipcart.com/blog/angular-ecommerce-project"
   title="Angular E-Commerce Project: Build a Web App Tutorial - Snipcart"
   description="Learn how to build your next Angular e-commerce project with this in-depth tutorial. Live demo \u0026 GitHub repo included."
+/>
+<PostResource
+  image=""
+  url=""
+  title=""
+  description=""
+/>
+<PostResource
+  image=""
+  url=""
+  title=""
+  description=""
+/>
+Angular Update Guide
+https://update.angular.io/ 
+
+Class Binding in Angular
+https://www.tektutorialshub.com/angular/class-binding-in-angular/
+
+
+Nx CLI - command-line interface tool that helps you setup, develop, build, and maintain applications
+https://nx.dev/latest/angular/getting-started/cli-overview
+#CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #webdev
+
+CQRS WITH EVENT SOURCING USING NSERVICEBUS, EVENT STORE, ELASTIC SEARCH, ANGULARJS AND ASP.NET MVC
+https://pablocastilla.wordpress.com/2014/09/22/cqrs-with-event-sourcing-using-nservicebus-event-store-elastic-search-angularjs-and-asp-net-mvc/
+
+Best 3 books to learn Angular framework [2018]
+https://www.programmer-books.com/best-3-books-to-learn-angular-framework-2018/
+
+
+Applying the Builder Pattern to Improve an Angular Service
+https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv
+
+
+https://www.freecodecamp.org/news/angular-ngclass-example/
+
+<br>
+<br>
+
+### Pluralsight  Courses
+
+---
+
+<PostResource
+  image="https://pluralsight.imgix.net/course-images/audience/software-development.jpg"
+  url="https://app.pluralsight.com/library/courses/ng-big-picture/table-of-contents"
+  title="Angular: The Big Picture"
+  description="This course will teach you a high level view of Angular, to assist you in either understanding Angular better for your own development, or learning when to use Angular vs. other front end frameworks."
+/>
+<PostResource
+  image="https://pluralsight.imgix.net/course-images/angular-2-getting-started-update-v2.png"
+  url="https://app.pluralsight.com/library/courses/angular-2-getting-started-update/table-of-contents"
+  title="Angular: Getting Started"
+  description="Angular is a fast and popular open source web app frameworks. Learn how to create components and user interfaces, data-binding, retrieving data using HTTP, and more. Angular is a fast and popular open source web app frameworks. Learn how to create components and user interfaces, data-binding, retrieving data using HTTP, and more."
+/>
+<PostResource
+  image="https://pluralsight.imgix.net/course-images/rxjs-angular-reactive-development-v1.png"
+  url="https://app.pluralsight.com/library/courses/rxjs-angular-reactive-development/table-of-contents"
+  title="RxJS in Angular: Reactive Development"
+  description="Angular uses RxJS to create Observable data streams, but that’s just one of its many features. In this course, you'll learn how to combine streams from multiple data sources, create action streams to react more easily to user actions, and much more."
+/>
+<PostResource
+  image="https://pluralsight.imgix.net/course-images/angular-2-reactive-forms-v1.jpg"
+  url="https://app.pluralsight.com/library/courses/angular-2-reactive-forms/table-of-contents"
+  title="Angular Reactive Forms"
+  description="You can build forms in Angular by using a Reactive approach by defining the form model and validation in your component code. This course details how to build Reactive forms, validate user-entered data, and save that data using HTTP."
+/>
+<PostResource
+  image="https://pluralsight.imgix.net/course-images/angular-ngrx-getting-started-v1.png"
+  url="https://app.pluralsight.com/library/courses/angular-ngrx-getting-started/table-of-contents"
+  title="Angular NgRx: Getting Started"
+  description="NgRx is a useful library for state management and interactions with state when used right. Learn how to use NgRx the right way by taking our NgRx course here."
+/>
+<PostResource
+  image="https://pluralsight.imgix.net/course-images/audience/software-development.jpg"
+  url="https://app.pluralsight.com/library/courses/angular-http-communication/table-of-contents"
+  title="Angular HTTP Communication"
+  description="Nearly every Angular app needs to communicate with a server over HTTP. This course will teach you simple, as well as advanced, techniques to help you create and manage HTTP requests, responses as Observables, interceptors, and client-side caches."
 />
