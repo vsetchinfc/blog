@@ -23,11 +23,38 @@ In the time of information overload and rapid technology advancement it is reall
 
 ---
 
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
+
 **[How To Install Python 3.9 on Debian 10](https://tecadmin.net/how-to-install-python-3-9-on-debian-10/)**<br>
 _"This tutorial will described you to install Python 3.9 on Debian 10 Linux system."_
 
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
+
 **[80+ Best Free Python Tutorials, eBooks & PDF To Learn Programming Online](http://www.fromdev.com/2014/03/python-tutorials-resources.html)**<br>
 _"Regardless of whether you are a beginner or an advanced learner, you can learn Python language online through the following (completely free) resources"_
+
+
+How do I run a Python script from C#?
+https://stackoverflow.com/questions/11779143/how-do-i-run-a-python-script-from-c
+
+https://hub.packtpub.com/eight-things-you-need-learn-python
+
+https://www.c-sharpcorner.com/article/basics-of-python
+
+https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/amp/
+
+https://morioh.com/p/6b7f7e44a0f9
+
 <br>
 <br>
 
@@ -43,6 +70,15 @@ _"Reading books is the best way to gain exposure over a particular subject and g
 
 **[Free Python Books](https://www.onlineprogrammingbooks.com/free-python-books/)**<br>
 _"Download free Python eBooks in pdf format or read Python books online."_
+
+
+7 Best Python Books To Learn Programming
+https://tinyurl.com/yxjggsnu
+
+
+https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/?__twitter_impression=true
+
+
 <br>
 <br>
 
@@ -63,37 +99,18 @@ _"This course will give you a full introduction into all of the core concepts in
 _"Learn Python in this full tutorial course for beginners. This course takes a project-based approach. We have collected five great Python game tutorials together so you can learn Python while building five games. If you learn best by doing, this is the course for you."_
 
 **[Python Tutorials for Absolute Beginners by CS Dojo](https://tinyurl.com/yav8q35o)**<br>
+
+
+https://www.youtube.com/watch?v=xfzGZB4HhEE&list=WL&index=226&ab_channel=freeCodeCamp.org
 <br>
 <br>
 
+### Courses
 
-How do I run a Python script from C#?
-https://stackoverflow.com/questions/11779143/how-do-i-run-a-python-script-from-c
-
-
-7 Best Python Books To Learn Programming
-https://tinyurl.com/yxjggsnu
-#CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #webdev
-
-
-https://www.qt.io/blog/2018/11/15/python-qt-3000-hours-developer-insight?utm_source=programmingdigest&utm_medium=email&utm_campaign=featured
-
-https://hub.packtpub.com/eight-things-you-need-learn-python/
-
-https://www.c-sharpcorner.com/article/basics-of-python/
-
-
-https://www.linux.com/news/home-assistant-python-approach-home-automation-video/
+---
 
 https://www.udemy.com/course/complete-python-developer-zero-to-mastery
 
-http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
-
-https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/amp/
-
-https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/?__twitter_impression=true
-
-https://morioh.com/p/6b7f7e44a0f9
-
 https://www.learnpython.org/
 
+http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
