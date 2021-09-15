@@ -396,35 +396,41 @@ In the time of information overload and rapid technological advancement, it is r
   description=""
 />
 <PostResource
-  image=""
-  url=""
-  title=""
-  description=""
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://update.angular.io/"
+  title="Angular Update Guide"
+  description="Tool for upgrading Angular projects to later versions of Angular Framework"
+/> 
+<PostResource
+  image="/images/angular-learning-resources/angular_logo.png"
+  url="https://www.tektutorialshub.com/angular/class-binding-in-angular/"
+  title="Class Binding in Angular"
+  description="The Angular Class binding is used to add or remove classes to and from the HTML elements. You can add CSS Classes conditionally to an element, hence creating a dynamically styled element."
 />
-Angular Update Guide
-https://update.angular.io/ 
-
-Class Binding in Angular
-https://www.tektutorialshub.com/angular/class-binding-in-angular/
-
-
-Nx CLI - command-line interface tool that helps you setup, develop, build, and maintain applications
-https://nx.dev/latest/angular/getting-started/cli-overview
-#CodeNewbie #DEVcommunity  #ContinuousLearning #DeveloperSkills #developer #webdev
-
-CQRS WITH EVENT SOURCING USING NSERVICEBUS, EVENT STORE, ELASTIC SEARCH, ANGULARJS AND ASP.NET MVC
-https://pablocastilla.wordpress.com/2014/09/22/cqrs-with-event-sourcing-using-nservicebus-event-store-elastic-search-angularjs-and-asp-net-mvc/
-
-Best 3 books to learn Angular framework [2018]
-https://www.programmer-books.com/best-3-books-to-learn-angular-framework-2018/
-
-
-Applying the Builder Pattern to Improve an Angular Service
-https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv
-
-
-https://www.freecodecamp.org/news/angular-ngclass-example/
-
+<PostResource
+  image="https://nx.dev/images/nx-media.jpg"
+  url="https://nx.dev/latest/angular/getting-started/cli-overview"
+  title="Nx CLI - command-line interface tool that helps you setup, develop, build, and maintain applications"
+  description="With Nx, you can develop multiple full-stack applications holistically and share code between them all in the same workspace. Add Cypress, Jest, Prettier, and Storybook into your dev workflow."
+/>
+<PostResource
+  image="https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/learn-Angular-framework.gif"
+  url="https://www.programmer-books.com/best-3-books-to-learn-angular-framework-2018/"
+  title="Best 3 books to learn Angular framework [2018] - Programmer Books"
+  description="Angular is one of the leading frameworks to develop apps across all platforms. Reuse your code and build fast and high performing apps for any platform"
+/>
+<PostResource
+  image="https://ardalis.com/static/c6a1999bf316dc90381f51fd1bab25f2/4c509/applying-the-builder-pattern-to-improve-angular-service.png"
+  url="https://ardalis.com/applying-the-builder-pattern-to-improve-an-angular-service/?utm_sq=gnatr9d2rv"
+  title="Applying the Builder Pattern to Improve an Angular Service"
+  description="Applying the Builder Pattern to Improve an Angular Service. Recently I was working on an Angular/Typescript service that was building up some navigation-related properties, driving the menu of a SPA application."
+/>
+<PostResource
+  image="https://www.freecodecamp.org/news/content/images/2021/06/angular-ngclass-article.jpg"
+  url="https://www.freecodecamp.org/news/angular-ngclass-example/"
+  title="Angular NgClass Example – How to Add Conditional CSS Classes"
+  description="ngClass is a directive in Angular that adds and removes CSS classes on an HTML element. In this article, we are talking about ngClass in Angular only, not ng-class in angular.js."
+/>
 <br>
 <br>
 
