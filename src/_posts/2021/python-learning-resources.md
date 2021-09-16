@@ -24,37 +24,47 @@ In the time of information overload and rapid technology advancement it is reall
 ---
 
 <PostResource
-    image=""
-    url=""
-    title=""
-    description=""
+    image="/images/python-learning-resources/python.png"
+    url="https://tecadmin.net/how-to-install-python-3-9-on-debian-10"
+    title="How To Install Python 3.9 on Debian 10"
+    description="Python is an object-oriented, high-level programming language. It is open-source with a large community. Python is used as a key language among the top tech companies like Google..."
   />
-
-**[How To Install Python 3.9 on Debian 10](https://tecadmin.net/how-to-install-python-3-9-on-debian-10/)**<br>
-_"This tutorial will described you to install Python 3.9 on Debian 10 Linux system."_
-
 <PostResource
-    image=""
-    url=""
-    title=""
-    description=""
+    image="https://2.bp.blogspot.com/-b-5JsXsvnOs/UwwOo8cUxlI/AAAAAAAACRQ/Gy55i1X40Ck/w1200-h630-p-k-no-nu/python.JPG"
+    url="http://www.fromdev.com/2014/03/python-tutorials-resources.html"
+    title="80+ Best Free Python Tutorials, eBooks & PDF To Learn Programming Online"
+    description="Mega list of free python tutorials, ebooks, cheat sheets and more resources for python developers"
   />
-
-**[80+ Best Free Python Tutorials, eBooks & PDF To Learn Programming Online](http://www.fromdev.com/2014/03/python-tutorials-resources.html)**<br>
-_"Regardless of whether you are a beginner or an advanced learner, you can learn Python language online through the following (completely free) resources"_
-
-
-How do I run a Python script from C#?
-https://stackoverflow.com/questions/11779143/how-do-i-run-a-python-script-from-c
-
-https://hub.packtpub.com/eight-things-you-need-learn-python
-
-https://www.c-sharpcorner.com/article/basics-of-python
-
-https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/amp/
-
-https://morioh.com/p/6b7f7e44a0f9
-
+<PostResource
+    image="https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded"
+    url="https://stackoverflow.com/questions/11779143/how-do-i-run-a-python-script-from-c"
+    title="How do I run a Python script from C#?"
+    description="This sort of question has been asked before in varying degrees, but I feel it has not been answered in a concise way and so I ask it again. I want to run a script in Python."
+  />
+<PostResource
+    image="https://hub.packtpub.com/wp-content/uploads/2018/03/Extra-blog_3.png"
+    url="https://hub.packtpub.com/eight-things-you-need-learn-python"
+    title="Eight Things You Need To Learn with Python | Packt Hub"
+    description="We say it a lot, but Python really is a versatile language that can be applied to many different purposes."
+  />
+<PostResource
+    image="https://www.c-sharpcorner.com/images/csharp-corner.png"
+    url="https://www.c-sharpcorner.com/article/basics-of-python"
+    title="Basics Of Python"
+    description="In this article you will learn about the basics of Python."
+  />
+<PostResource
+    image="https://cdn-media-1.freecodecamp.org/images/1*DiffPQdgEAjDK4M_unUd4Q.jpeg"
+    url="https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/amp/"
+    title="Better web scraping in Python with Selenium, Beautiful Soup, and pandas"
+    description="Web Scraping using the Python programming language by Dave Gray, it is possible to “scrape” data from the web in a quick and efficient manner. Web scraping is defined as: a tool for turning the unstructured data on the web into machine readable, structured data which is ready for analysis."
+  />
+<PostResource
+    image="https://miro.medium.com/max/1200/0*GAm7ubYgPzUzcZ_M.png"
+    url="https://morioh.com/p/6b7f7e44a0f9"
+    title="Learn Python by Building a Cryptocurrency Analysis"
+    description="In this part, I am going to analyze which coin (Bitcoin, Ethereum or Litecoin) was the most profitable in the last two months using buy and hold strategy. We’ll go through the analysis of these 3 cryptocurrencies and try to give an objective answer."
+  />
 <br>
 <br>
 
