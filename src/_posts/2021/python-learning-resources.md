@@ -72,23 +72,36 @@ In the time of information overload and rapid technology advancement it is reall
 
 ---
 
-**[27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books?utm_content=buffere19f3&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)**<br>
-_"Free data mining books"_
-
-**[7 Best Python Books To Learn Programming](https://www.fromdev.com/2013/10/Best-Python-Books.html)**<br>
-_"Reading books is the best way to gain exposure over a particular subject and get an in-depth understanding. ... Python is important as it is a cross platform computer language that is used by giant corporations to do work in a quick and efficient manner."_
-
-**[Free Python Books](https://www.onlineprogrammingbooks.com/free-python-books/)**<br>
-_"Download free Python eBooks in pdf format or read Python books online."_
-
-
-7 Best Python Books To Learn Programming
-https://tinyurl.com/yxjggsnu
-
-
-https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/?__twitter_impression=true
-
-
+<PostResource
+    image="http://storage.ning.com/topology/rest/1.0/file/get/2059721388?profile=original"
+    url="http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books"
+    title="27 free data mining books"
+    description="Data mining books on Python and others"
+  />
+<PostResource
+    image="https://2.bp.blogspot.com/-13E5-OMDBYo/UlTj51q4kJI/AAAAAAAACD0/RyLGHO-jTJM/w1200-h630-p-k-no-nu/python-programming-books.png"
+    url="https://www.fromdev.com/2013/10/Best-Python-Books.html"
+    title="7 Best Python Books To Learn Programming"
+    description="Want to learn Python programming? Checkout the best books you can read to learn and be expert."
+  />
+<PostResource
+    image="https://www.onlineprogrammingbooks.com/wp-content/uploads/2019/04/fb.png"
+    url="https://www.onlineprogrammingbooks.com/free-python-books/"
+    title="Free Python Books - Download PDF | Read Online"
+    description="Download free Python eBooks in pdf format or read Python books online."
+  />
+<PostResource
+    image="https://2.bp.blogspot.com/-13E5-OMDBYo/UlTj51q4kJI/AAAAAAAACD0/RyLGHO-jTJM/w1200-h630-p-k-no-nu/python-programming-books.pn"
+    url="https://www.fromdev.com/2013/10/Best-Python-Books.html"
+    title="7 Best Python Books To Learn Programming"
+    description="Want to learn Python programming? Checkout the best books you can read to learn and be expert."
+  />
+<PostResource
+    image="https://www.freecodecamp.org/news/content/images/2019/11/pythongames-1.png"
+    url="https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/?__twitter_impression=true"
+    title="Learn Python by Building 5 Games"
+    description="Many people learn programming languages best through building projects. If you want to learn Python by coding five games, check out the 7-hour video course we just released on the freeCodeCamp.org YouTube channel. We have collected together 5 great game development tutorials that will help you learn Python."
+  />
 <br>
 <br>
 
@@ -96,6 +109,12 @@ https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/?__twitte
 
 ---
 
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 **[What Can You Do with Python? - The 3 Main Applications](https://tinyurl.com/y334mpvc)**<br>
 _"What is Python used for? What can you do with Python? Watch this video to find out."_
 
