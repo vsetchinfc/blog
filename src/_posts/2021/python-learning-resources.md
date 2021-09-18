@@ -91,14 +91,8 @@ In the time of information overload and rapid technology advancement it is reall
     description="Download free Python eBooks in pdf format or read Python books online."
   />
 <PostResource
-    image="https://2.bp.blogspot.com/-13E5-OMDBYo/UlTj51q4kJI/AAAAAAAACD0/RyLGHO-jTJM/w1200-h630-p-k-no-nu/python-programming-books.pn"
-    url="https://www.fromdev.com/2013/10/Best-Python-Books.html"
-    title="7 Best Python Books To Learn Programming"
-    description="Want to learn Python programming? Checkout the best books you can read to learn and be expert."
-  />
-<PostResource
     image="https://www.freecodecamp.org/news/content/images/2019/11/pythongames-1.png"
-    url="https://www.freecodecamp.org/news/learn-python-by-building-5-games/amp/?__twitter_impression=true"
+    url="https://www.freecodecamp.org/news/learn-python-by-building-5-games"
     title="Learn Python by Building 5 Games"
     description="Many people learn programming languages best through building projects. If you want to learn Python by coding five games, check out the 7-hour video course we just released on the freeCodeCamp.org YouTube channel. We have collected together 5 great game development tutorials that will help you learn Python."
   />
@@ -110,27 +104,42 @@ In the time of information overload and rapid technology advancement it is reall
 ---
 
 <PostResource
-    image=""
-    url=""
-    title=""
-    description=""
+    image="https://i.ytimg.com/vi/kLZuut1fYzQ/maxresdefault.jpg"
+    url="https://www.youtube.com/watch?v=kLZuut1fYzQ\u0026list=WL\u0026index=142\u0026ab_channel=CSDojo"
+    title="What Can You Do with Python? - The 3 Main Applications"
+    description="What is Python used for? What can you do with Python? Watch this video to find out."
   />
-**[What Can You Do with Python? - The 3 Main Applications](https://tinyurl.com/y334mpvc)**<br>
-_"What is Python used for? What can you do with Python? Watch this video to find out."_
+<PostResource
+    image="https://i.ytimg.com/vi/8DvywoWv6fI/maxresdefault.jpg"
+    url="https://www.youtube.com/watch?v=8DvywoWv6fI&list=WL&index=16&t=1486s"
+    title="Python for Everybody - Full University Python Course"
+    description="This Python 3 tutorial course aims to teach everyone the basics of programming computers using Python. The course has no pre-requisites and avoids all but the simplest mathematics."
+  />
+<PostResource
+    image="https://i.ytimg.com/vi/rfscVS0vtbw/maxresdefault.jpg"
+    url="https://www.youtube.com/watch?v=rfscVS0vtbw&list=WL&index=5"
+    title="Learn Python - Full Course for Beginners [Tutorial]"
+    description="This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!"
+  />
+<PostResource
+    image="https://i.ytimg.com/vi/XGf2GcyHPhc/maxresdefault.jpg"
+    url="https://www.youtube.com/watch?v=XGf2GcyHPhc&list=WL&index=61"
+    title="Learn Python by Building Five Games - Full Course"
+    description="Learn Python in this full tutorial course for beginners. This course takes a project-based approach. We have collected five great Python game tutorials together so you can learn Python while building five games. If you learn best by doing, this is the course for you."
+  />
+<PostResource
+    image="/images/python-learning-resources/python_tutorial.jpg"
+    url="https://www.youtube.com/playlist?list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg"
+    title="Python Tutorials for Absolute Beginners by CS Dojo"
+    description="The list of tutorials for Absolute Beginners"
+  />
+<PostResource
+    image="https://i.ytimg.com/vi/xfzGZB4HhEE/maxresdefault.jpg"
+    url="https://www.youtube.com/watch?v=xfzGZB4HhEE&list=WL&index=226&ab_channel=freeCodeCamp.org"
+    title="Algorithmic Trading Using Python - Full Course"
+    description="Learn how to perform algorithmic trading using Python in this complete course. Algorithmic trading means using computers to make investment decisions. Computer algorithms can make trades at a speed and frequency that is not possible by a human. After learning the basics of algorithmic trading, you will learn how to build three algorithmic trading projects."
+  />
 
-**[Python for Everybody - Full University Python Course](https://www.youtube.com/watch?v=8DvywoWv6fI&list=WL&index=16&t=1486s)**<br>
-_"This Python 3 tutorial course aims to teach everyone the basics of programming computers using Python. The course has no pre-requisites and avoids all but the simplest mathematics."_
-
-**[Learn Python - Full Course for Beginners [Tutorial]](https://www.youtube.com/watch?v=rfscVS0vtbw&list=WL&index=5)**<br>
-_"This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!"_
-
-**[Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc&list=WL&index=61)**<br>
-_"Learn Python in this full tutorial course for beginners. This course takes a project-based approach. We have collected five great Python game tutorials together so you can learn Python while building five games. If you learn best by doing, this is the course for you."_
-
-**[Python Tutorials for Absolute Beginners by CS Dojo](https://tinyurl.com/yav8q35o)**<br>
-
-
-https://www.youtube.com/watch?v=xfzGZB4HhEE&list=WL&index=226&ab_channel=freeCodeCamp.org
 <br>
 <br>
 
@@ -138,6 +147,13 @@ https://www.youtube.com/watch?v=xfzGZB4HhEE&list=WL&index=226&ab_channel=freeCod
 
 ---
 
+
+<PostResource
+    image=""
+    url=""
+    title=""
+    description=""
+  />
 https://www.udemy.com/course/complete-python-developer-zero-to-mastery
 
 https://www.learnpython.org/
