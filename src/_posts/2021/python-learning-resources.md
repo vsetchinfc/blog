@@ -139,7 +139,6 @@ In the time of information overload and rapid technology advancement it is reall
     title="Algorithmic Trading Using Python - Full Course"
     description="Learn how to perform algorithmic trading using Python in this complete course. Algorithmic trading means using computers to make investment decisions. Computer algorithms can make trades at a speed and frequency that is not possible by a human. After learning the basics of algorithmic trading, you will learn how to build three algorithmic trading projects."
   />
-
 <br>
 <br>
 
@@ -147,6 +146,24 @@ In the time of information overload and rapid technology advancement it is reall
 
 ---
 
+<PostResource
+    image="https://img-c.udemycdn.com/course/480x270/2473048_8255_5.jpg"
+    url="https://www.udemy.com/course/complete-python-developer-zero-to-mastery"
+    title="Complete Python Developer in 2021: Zero to Mastery"
+    description="How to become a Python 3 Developer and get hired! Build 12+ projects, learn Web Development, Machine Learning + more!"
+  />
+<PostResource
+    image="https://www.learnpython.org/static/img/share-logos/learnpython.org.png"
+    url="https://www.learnpython.org"
+    title="Learn Python - Free Interactive Python Tutorial"
+    description="learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast."
+  />
+<PostResource
+    image="/images/python-learning-resources/python.png"
+    url="http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf"
+    title="Python for Everybody Book"
+    description="This book is for a course Python for Everybody."
+  />
 
 <PostResource
     image=""
@@ -154,8 +171,3 @@ In the time of information overload and rapid technology advancement it is reall
     title=""
     description=""
   />
-https://www.udemy.com/course/complete-python-developer-zero-to-mastery
-
-https://www.learnpython.org/
-
-http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
