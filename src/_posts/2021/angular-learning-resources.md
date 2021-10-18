@@ -389,6 +389,7 @@ In the time of information overload and rapid technological advancement, it is r
   title="Angular E-Commerce Project: Build a Web App Tutorial - Snipcart"
   description="Learn how to build your next Angular e-commerce project with this in-depth tutorial. Live demo \u0026 GitHub repo included."
 />
+<!-- TODO: Complete the post -->
 <PostResource
   image=""
   url=""
