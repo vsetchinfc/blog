@@ -23,7 +23,7 @@
     "@vuepress/plugin-search": "^1.8.0",
     "@vuepress/theme-blog": "^2.3.3",
     "http-server": "^0.12.3",
-    "node-sass": "^5.0.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^10.1.0",
     "scss-loader": "^0.0.1",
     "vue-feather-icons": "^5.1.0",
